@@ -1,0 +1,16 @@
+/system scheduler add interval=45m name=ler_dhcp on-event=":execute script=ler_dhcp;"
+/system script add name=ler_dhcp source="#===============================\r\
+    \n:global IPMKAUTH \"10.50.50.2\"; \r\
+    \n:global KEY \"13609803b0c151382cf903ca6cfd1b6c
+\"; \r\
+    \n:global RAMAL \"todos\";\r\
+    \n:global done \"\";\r\
+    \n/tool fetch mode=http url=\"https://\$IPMKAUTH/mkt/dhcp.php\\\?key=\$KEY&ramal=\$RAMAL\" src-path=mkt_dhcp.php dst-path=mkt_dhcp.rsc;\r\
+    \n:set done \"true\";\r\
+    \n\r\
+    \n:if ( [/file find name=mkt_dhcp.rsc] != \"\" ) do={\r\
+    \n   :log warning \"Importando DHCP\";\r\
+    \n   /import mkt_dhcp.rsc;\r\
+    \n   /file remove mkt_dhcp.rsc;\r\
+    \n}\r\
+    \n"

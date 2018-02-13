@@ -1,0 +1,118 @@
+#!/bin/bash
+
+### BEGIN INIT INFO
+# Provides:		firewall
+# Required-Start:	networking
+# Required-Stop:
+# Default-Start:	2 3 4 5
+# Default-Stop:		
+# Short-Description:	Firewall
+### END INIT INFO
+
+ALL="0:65535"
+PA="1024:65535"
+LAN="192.168.200.0/24"
+LANVPN="10.0.0.0/24"
+WAN1="200.100.50.99"
+WAN2="10.0.3.15"
+FW="192.168.200.1"
+SERVIDOR1="192.168.200.2"
+SERVIDOR2="192.168.200.3"
+
+case $1 in
+
+stop)
+### Politicas que aceitam qualquer tipo de conexao
+iptables -P OUTPUT ACCEPT
+iptables -P INPUT ACCEPT
+iptables -P FORWARD ACCEPT
+### limpar as regras das tabelas nat e filter
+iptables -t nat -F
+iptables -t filter -F
+;;
+
+start)
+### Politicas que bloqueiam qualquer tipo de conexao
+iptables -P OUTPUT DROP
+iptables -P INPUT DROP
+iptables -P FORWARD DROP
+
+### Compartilhar conexao da Internet com a LAN
+iptables -t nat -I POSTROUTING -o eth1 -s $LAN -j MASQUERADE
+
+### permitir que a maquina FIREWALL ping loopback
+iptables -A OUTPUT -p icmp -d 0/0 -j ACCEPT
+iptables -A INPUT -p icmp -d 127.0.0.1 -j ACCEPT
+iptables -A INPUT -i lo -j ACCEPT
+iptables -A OUTPUT -o lo -j ACCEPT
+
+### permitir que a maquina FIREWALL ping qualquer endereco
+iptables -A INPUT -p icmp -d $WAN1 -j ACCEPT
+iptables -A INPUT -p icmp -d $WAN2 -j ACCEPT
+iptables -A INPUT -p icmp -d $FW -j ACCEPT
+
+### habilitar o ping da LAN para a Internet (tudo)
+iptables -A FORWARD -p icmp -d $LAN -j ACCEPT
+iptables -A FORWARD -p icmp -s $LAN -j ACCEPT
+
+### permitir que a maquina FIREWALL ping qualquer endereco por nome
+iptables -A INPUT -p udp --sport 53 -s 0/0 -d $WAN2 --dport $PA -j ACCEPT
+iptables -A OUTPUT -p udp --sport $PA -s $WAN2 -d 0/0 --dport 53 -j ACCEPT
+
+### permitir a passagem de pacotes pela portas http e https
+iptables -A INPUT -p tcp --sport 80 -s 0/0 -d $WAN2 --dport $PA -j ACCEPT
+iptables -A OUTPUT -p tcp --sport $PA -s $WAN2 -d 0/0 --dport 80 -j ACCEPT
+
+iptables -A INPUT -p tcp --sport 443 -s 0/0 -d $WAN2 --dport $PA -j ACCEPT
+iptables -A OUTPUT -p tcp --sport $PA -s $WAN2 -d 0/0 --dport 443 -j ACCEPT
+
+### permitir que o FIREWALL receba conexoes remotas por SSH
+iptables -A INPUT -p tcp --sport $PA -s 0/0 -d $WAN1 --dport 51000 -j ACCEPT
+iptables -A OUTPUT -p tcp --sport 51000 -s $WAN1 --dport $PA -j ACCEPT
+
+iptables -A INPUT -p tcp --sport $PA -s 0/0 -d $FW --dport 51000 -j ACCEPT
+iptables -A OUTPUT -p tcp --sport 51000 -s $FW --dport $PA -j ACCEPT
+
+# habilitar a resolucao de nomes da Internet para LAN
+iptables -A FORWARD -p udp --sport 53 -s 0/0 -d $LAN --dport $PA -j ACCEPT
+iptables -A FORWARD -p udp --sport $PA -s $LAN -d 0/0 --dport 53 -j ACCEPT
+
+# habilitar o FORWARD para LAN (protocolos mais comuns)
+for PORTS in 80 443 25 110 143 993 995 21 20 
+do
+iptables -A FORWARD -p tcp --sport $PORTS -s 0/0 -d $LAN --dport $PA -j ACCEPT
+iptables -A FORWARD -p tcp --sport $PA -s $LAN --dport $PORTS -j ACCEPT
+done
+
+# habilitar o repasse de portas do SSH do FW para as maquinas da LAN
+for IP in 2 3
+do
+iptables -A OUTPUT -p tcp -s 0/0 --sport $PA -d 192.168.200.$IP --dport 5$IP'000' -j ACCEPT
+iptables -A INPUT -p tcp -s 192.168.200.$IP --sport 5$IP'000' -d 0/0 --dport $PA -j ACCEPT
+iptables -A FORWARD -p tcp --sport 5$IP'000' -s 192.168.200.$IP -d 0/0 --dport $PA -j ACCEPT
+iptables -A FORWARD -p tcp --sport $PA -s 0/0 -d 192.168.200.$IP --dport 5$IP'000' -j ACCEPT
+iptables -t nat -A PREROUTING -p tcp --sport $PA -s 0/0 -d $WAN1 --dport 5$IP'000' -j DNAT --to-destination 192.168.200.$IP':'5$IP'000'  
+done
+
+# Habilitar acesso aos servidores de DNS locais para clientes externos
+iptables -A INPUT -p udp --sport 53 -s $SERVIDOR1 -d $FW --dport $PA -j ACCEPT
+iptables -A OUTPUT -p udp --sport $PA -s $FW -d $SERVIDOR1 --dport 53 -j ACCEPT
+
+iptables -A FORWARD -p udp --sport $PA -s 0/0 -d $SERVIDOR1 --dport 53 -j ACCEPT
+iptables -A FORWARD -p udp --sport 53 -s $SERVIDOR1 -d 0/0 --dport $PA -j ACCEPT
+
+iptables -t nat -A PREROUTING -p udp --sport $PA -s 0/0 -d $WAN1 --dport 53 -j DNAT --to-destination $SERVIDOR1:53
+
+;;
+
+restart)
+$0 stop
+sleep 0.5
+$0 start
+;;
+
+*)
+echo 'Por favor use "stop|start|restart"'
+;;
+
+esac
