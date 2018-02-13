@@ -1,0 +1,87 @@
+#!/bin/bash
+#arquivo de log
+log=/tmp/log
+#inicio do log
+#Desenvolvido por Gabriel Vieira.  - Contato:gabrielvieira840@gmail.com
+echo "Inicio: `date +%d-%m-%y_%H:%M:%S`" >> $log
+
+echo "##Projeto Update não upgrade Ubiquiti##"
+echo
+echo "Digite apenas a rede (x.x.x.x)"
+	read rede; 
+echo "Agora a máscara de rede(xx)"
+	read mascara;
+echo "digite o nome usuario de administracao"
+	read -s usuarioadm;
+echo "digite a senha de administração"
+	read -s senha;
+echo Será feito a varredura na rede $rede/$mascara
+	faixa=$(echo $rede/$mascara)
+#Limpa chaves publicas para acesso aos radios
+	cat /dev/null > /root/.ssh/known_hosts
+
+#Limpa arquivo temporario
+	cat /dev/null > /tmp/ips_ativos
+#Limpa arquivo log 
+	cat /dev/null > /tmp/log
+#Checa IP's ativos e joga para arquivo temporario
+	fping -g -r 1 $rede/$mascara | grep alive >> /tmp/ips_ativos
+#Remove texto "is alive" do arquivo temporario
+	sed -i 's/is alive//g' /tmp/ips_ativos
+#	cat /tmp/ips_ativos | awk -F'is' '{print $1 }'> /tmp/lista_ativos
+#listar ips ativos da faixa
+	lista=$(cat /tmp/ips_ativos)
+numero=$(cat /tmp/ips_ativos | wc -l) 
+echo 
+echo --------------------------
+echo $numero hosts localizados:
+	echo $lista | sort
+	sleep 5
+echo --------------------------
+#Leitura de cada linha e execução de comando ping teste
+	while read line
+	do
+echo proximo: $line
+#Captura versão host remoto para  arquivo temporario em /tmp
+sshpass -p "$senha" scp "$usuarioadm"@$line:/etc/version /tmp/version_remote
+sshpass -p "$senha" scp "$usuarioadm"@$line:/tmp/system.cfg /tmp/usuario
+usuario=$(cat /tmp/usuario | grep ppp.1.name | cut -b12-25)
+#Cria variável contendo versão atual
+	firmware_atual=$(cat /tmp/version_remote | cut -b5-9)
+#Cria variável contendo Linha XM ou XW
+	linha=$(cat /tmp/version_remote | cut -b1-2)
+#Compara versão e executa atualização caso necessário
+#Linha XM
+#if [ "$linha" != "XM" ] && [ "$linha" != "XW"]; then
+#echo firmware diferente: $line=$firware $linha
+#else 
+if [ "$firmware_atual" == "5.6.9" ]; then
+echo $line  - firmware: $firware_atual $linha - usuario: $usuario - está atualizado
+echo -------------------
+else
+if [ "$firmware_atual" != "5.6.9" ] && [ "$linha" == "XM" ]; then
+
+sshpass -p "$senha" scp /var/ftp/pub/xm/fwupdate.bin "$usuarioadm"@$line:/tmp/fwupdate.bin
+echo $usuario será atualizado
+echo Executar comando de update no $line XM preparado.
+echo $line >> /tmp/log
+else
+#Linha XW
+if [ "$firmware_atual" != "5.6.9" ] && [ "$linha" == "XW" ]; then
+
+sshpass -p "$senha" scp /var/ftp/pub/xw/fwupdate.bin "$usuarioadm"@$line:/tmp/fwupdate.bin
+echo $usuario será atualizado
+echo XW pronto.
+echo Executar comando de update no $line XW preparado.
+echo $line >> /tmp/log
+
+fi
+fi
+fi
+
+echo $line
+
+	done < /tmp/ips_ativos
+#fim script
+echo "Fim: `date +%d-%m-%y_%H:%M:%S`" >> $log
+exit 0
