@@ -1,0 +1,2137 @@
+total 154336
+drwxr-xr-x  2 root    root      65536 Feb 10 01:08 .
+drwxr-xr-x 11 root    root       4096 May  4  2016 ..
+-rwxr-xr-x  1 root    root      51920 Mar  2  2017 [
+lrwxrwxrwx  1 root    root          8 Nov 23 22:52 2to3 -> 2to3-2.7
+-rwxr-xr-x  1 root    root         96 Dec  4 16:11 2to3-2.7
+-rwxr-xr-x  1 root    root         96 Nov 28 14:51 2to3-3.5
+-rwxr-xr-x  1 root    root      10392 Jan 30  2016 411toppm
+-rwxr-xr-x  1 root    root         39 Jun 15  2015 7z
+-rwxr-xr-x  1 root    root         40 Jun 15  2015 7za
+-rwxr-xr-x  1 root    root         40 Jun 15  2015 7zr
+-rwxr-xr-x  1 root    root      22696 Aug 31 18:30 aa-enabled
+lrwxrwxrwx  1 root    root         25 Jan 25 21:23 aclocal -> /etc/alternatives/aclocal
+-rwxr-xr-x  1 root    root      36792 Mar 29  2016 aclocal-1.15
+-rwxr-xr-x  1 root    root      19064 Apr 14  2016 aconnect
+-rwxr-xr-x  1 root    root      15072 Apr  8  2016 acpi_listen
+-rwxr-xr-x  1 root    root       6356 May  8  2017 add-apt-repository
+-rwxr-xr-x  1 root    root      18888 Nov 30 18:04 addpart
+lrwxrwxrwx  1 root    root         26 Nov  8 14:06 addr2line -> x86_64-linux-gnu-addr2line
+-rwxr-xr-x  1 root    root       1043 Oct 26  2014 alacarte
+-rwxr-xr-x  1 root    root      35560 Apr 14  2016 alsabat
+-rwxr-xr-x  1 root    root      73224 Apr 14  2016 alsaloop
+-rwxr-xr-x  1 root    root      65496 Apr 14  2016 alsamixer
+-rwxr-xr-x  1 root    root      10504 Apr 14  2016 alsatplg
+-rwxr-xr-x  1 root    root      15104 Apr 14  2016 alsaucm
+-rwxr-xr-x  1 root    root      19064 Apr 14  2016 amidi
+-rwxr-xr-x  1 root    root      52728 Apr 14  2016 amixer
+-rwxr-xr-x  1 root    root       2668 Sep  8  2016 amuFormat.sh
+lrwxrwxrwx  1 root    root         25 Jan 25 21:23 animate -> /etc/alternatives/animate
+lrwxrwxrwx  1 root    root         57 Jan 25 21:23 animate-im6 -> ../lib/x86_64-linux-gnu/ImageMagick-6.8.9/bin-Q16/animate
+-rwxr-xr-x  1 root    root       5680 Jan 30  2016 anytopnm
+-rwxr-xr-x  1 root    root        276 Jan 10  2014 apg
+-rwxr-xr-x  1 root    root      31488 Jan 10  2014 apgbfm
+-rwxr-xr-x  1 root    root      64984 Apr 14  2016 aplay
+-rwxr-xr-x  1 root    root      23216 Apr 14  2016 aplaymidi
+lrwxrwxrwx  1 root    root         30 Jan 25 21:23 appletviewer -> /etc/alternatives/appletviewer
+-rwxr-xr-x  1 root    root      10488 May  6  2015 appres
+lrwxrwxrwx  1 root    root          6 Jan 25 21:23 apropos -> whatis
+-rwxr-xr-x  1 root    root      14376 Sep 29 10:20 apt
+lrwxrwxrwx  1 root    root         18 Jan 25 21:23 apt-add-repository -> add-apt-repository
+-rwxr-xr-x  1 root    root      80000 Sep 29 10:20 apt-cache
+-rwxr-xr-x  1 root    root      22656 Sep 29 10:20 apt-cdrom
+-rwxr-xr-x  1 root    root       6415 Mar  9  2016 apt-clone
+-rwxr-xr-x  1 root    root      22576 Sep 29 10:20 apt-config
+-rwxr-xr-x  1 root    root       1040 Oct 12  2015 aptdcon
+-rwxr-xr-x  1 root    root      22664 Sep 29 10:21 apt-extracttemplates
+-rwxr-xr-x  1 root    root     231560 Sep 29 10:21 apt-ftparchive
+-rwxr-xr-x  1 root    root      43128 Sep 29 10:20 apt-get
+lrwxrwxrwx  1 root    root         26 Jan 25 21:23 aptitude -> /etc/alternatives/aptitude
+-rwxr-xr-x  1 root    root       1939 Dec  9  2015 aptitude-create-state-bundle
+-rwxr-xr-x  1 root    root    3944888 Dec  9  2015 aptitude-curses
+-rwxr-xr-x  1 root    root       2850 Dec  9  2015 aptitude-run-state-bundle
+-rwxr-xr-x  1 root    root      20599 Sep 29 10:19 apt-key
+-rwxr-xr-x  1 root    root      43136 Sep 29 10:20 apt-mark
+-rwxr-xr-x  1 root    root      26680 Sep 29 10:21 apt-sortpkgs
+lrwxrwxrwx  1 root    root         19 Nov  8 14:06 ar -> x86_64-linux-gnu-ar
+-rwxr-xr-x  1 root    root      31440 Mar  2  2017 arch
+lrwxrwxrwx  1 root    root          5 Jan 25 21:23 arecord -> aplay
+-rwxr-xr-x  1 root    root      23272 Apr 14  2016 arecordmidi
+-rwxr-xr-x  1 root    root      10520 Apr  7  2016 arm2hpdl
+-rwxr-xr-x  1 root    root      18920 May  7  2014 arping
+lrwxrwxrwx  1 root    root         19 Nov  8 14:06 as -> x86_64-linux-gnu-as
+-rwxr-xr-x  1 root    root      10384 Jan 30  2016 asciitopgm
+-rwxr-xr-x  1 root    root      18928 Apr 14  2016 aseqdump
+-rwxr-xr-x  1 root    root      19040 Apr 14  2016 aseqnet
+-rwxr-xr-x  1 root    root     147256 Feb  7  2016 aspell
+-rwxr-xr-x  1 root    root       2044 Feb  7  2016 aspell-import
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 assistant -> qtchooser
+-rwxr-xr-x  1 root    root      26784 Jan 30  2016 atktopbm
+-rwxr-xr-x  1 root    root      10568 Feb 10  2016 atobm
+-rwxr-xr-x  1 root    root      10512 Sep  9  2014 attr
+-rwxr-xr-x  1 root    root      14768 Oct 23  2015 autoconf
+-rwxr-xr-x  1 root    root       8536 Oct 23  2015 autoheader
+-rwxr-xr-x  1 root    root      32671 Oct 23  2015 autom4te
+lrwxrwxrwx  1 root    root         26 Jan 25 21:23 automake -> /etc/alternatives/automake
+-rwxr-xr-x  1 root    root     253209 Mar 29  2016 automake-1.15
+-rwxr-xr-x  1 root    root      26580 Feb 10  2016 autopoint
+-rwxr-xr-x  1 root    root      21163 Oct 23  2015 autoreconf
+-rwxr-xr-x  1 root    root      17125 Oct 23  2015 autoscan
+-rwxr-xr-x  1 root    root      33874 Oct 23  2015 autoupdate
+-rwxr-xr-x  1 root    root      27296 Nov 24  2015 avahi-browse
+lrwxrwxrwx  1 root    root         12 Jan 25 21:23 avahi-browse-domains -> avahi-browse
+-rwxr-xr-x  1 root    root      18968 Nov 24  2015 avahi-publish
+lrwxrwxrwx  1 root    root         13 Jan 25 21:23 avahi-publish-address -> avahi-publish
+lrwxrwxrwx  1 root    root         13 Jan 25 21:23 avahi-publish-service -> avahi-publish
+-rwxr-xr-x  1 root    root      14792 Nov 24  2015 avahi-resolve
+lrwxrwxrwx  1 root    root         13 Jan 25 21:23 avahi-resolve-address -> avahi-resolve
+lrwxrwxrwx  1 root    root         13 Jan 25 21:23 avahi-resolve-host-name -> avahi-resolve
+-rwxr-xr-x  1 root    root      14728 Nov 24  2015 avahi-set-host-name
+lrwxrwxrwx  1 root    root         21 Jan 25 21:23 awk -> /etc/alternatives/awk
+-rwxr-xr-x  1 root    root      33636 Aug 15  2016 axi-cache
+-rwxr-xr-x  1 root    root      45712 Apr  8  2015 b43-fwcutter
+-rwxr-xr-x  1 root    root      39664 Mar  2  2017 base32
+-rwxr-xr-x  1 root    root      39664 Mar  2  2017 base64
+-rwxr-xr-x  1 root    root      31408 Mar  2  2017 basename
+-rwxr-xr-x  1 root    root       6958 May 16  2017 bashbug
+-rwxr-xr-x  1 root    root      85232 Dec 11  2014 bc
+-rwxr-xr-x  1 root    root     192792 Jan 18 13:54 bccmd
+-rwxr-xr-x  1 root    root      10512 Jul  6  2017 bdftopcf
+-rwxr-xr-x  1 root    root      10528 Jul  6  2017 bdftruncate
+-rwxr-xr-x  1 root    root      10384 Jan 30  2016 bioradtopgm
+-rwxr-xr-x  1 root    root      92984 Feb 10  2016 bitmap
+-rwxr-xr-x  1 root    root       9162 Mar 31  2016 blueman-adapters
+-rwxr-xr-x  1 root    root       3663 Mar 31  2016 blueman-applet
+-rwxr-xr-x  1 root    root      12021 Mar 31  2016 blueman-assistant
+-rwxr-xr-x  1 root    root       2588 Mar 31  2016 blueman-browse
+-rwxr-xr-x  1 root    root       9895 Mar 31  2016 blueman-manager
+-rwxr-xr-x  1 root    root       2258 Mar 31  2016 blueman-report
+-rwxr-xr-x  1 root    root      13150 Mar 31  2016 blueman-sendto
+-rwxr-xr-x  1 root    root       5111 Mar 31  2016 blueman-services
+-rwxr-xr-x  1 root    root      34888 Jan 18 13:54 bluemoon
+-rwxr-xr-x  1 root    root     137512 Jan 18 13:54 bluetoothctl
+-rwxr-xr-x  1 root    root      14552 Jan 30  2016 bmptopnm
+lrwxrwxrwx  1 root    root          8 Jan 25 21:23 bmptoppm -> bmptopnm
+-rwxr-xr-x  1 root    root      10520 Feb 10  2016 bmtoa
+-rwxr-xr-x  1 root    root      76224 Oct 27 08:12 bootctl
+-rwxr-xr-x  1 root    root     117920 Apr  5  2017 broadwayd
+lrwxrwxrwx  1 root    root          8 Jan 25 21:23 browse -> xdg-open
+-rwxr-xr-x  1 root    root      10360 Jan 30  2016 brushtopbm
+-rwxr-xr-x  1 root    root      10520 Mar  1  2016 bsd-from
+-rwxr-sr-x  1 root    tty       14752 Mar  1  2016 bsd-write
+-rwxr-xr-x  1 root    root      26696 Jan 18 13:54 btattach
+-rwxr-xr-x  1 root    root      51184 Jun 28  2013 bterm
+-rwxr-xr-x  1 root    root     264280 Jan 18 13:54 btmgmt
+-rwxr-xr-x  1 root    root     589784 Jan 18 13:54 btmon
+-rwxr-xr-x  1 root    root     371928 Oct 27 08:12 busctl
+lrwxrwxrwx  1 root    root         21 Jan 25 21:23 c++ -> /etc/alternatives/c++
+-rwxr-xr-x  2 root    root      36607 Nov 10 12:39 c2ph
+lrwxrwxrwx  1 root    root         21 Jan 25 21:23 c89 -> /etc/alternatives/c89
+-rwxr-xr-x  1 root    root        428 May  7  2006 c89-gcc
+lrwxrwxrwx  1 root    root         21 Jan 25 21:23 c99 -> /etc/alternatives/c99
+-rwxr-xr-x  1 root    root        454 Apr 11  2011 c99-gcc
+-rwxr-xr-x  1 root    root      23504 May  6  2015 cabextract
+lrwxrwxrwx  1 root    root          4 Jan 25 21:23 cal -> ncal
+-rwxr-xr-x  1 root    root       2844 Sep  7 17:43 calc_tickadj
+-rwxr-xr-x  1 root    root      27848 Mar  1  2016 calendar
+-rwxr-xr-x  1 root    root      23960 Aug  6  2014 calibrate_ppa
+-rwxr-xr-x  1 root    root      14328 Aug 22 21:26 cancel
+lrwxrwxrwx  1 root    root          3 Jan 25 21:23 captoinfo -> tic
+-rwxr-xr-x  1 root    root       1086 Mar 19  2012 casper-reconfigure
+-rwxr-xr-x  1 root    root       3328 Jan 15 00:49 catchsegv
+-rwxr-xr-x  1 root    root       1481 Apr  1  2016 catfish
+-rwxr-xr-x  1 root    root      35288 Nov  6  2015 catman
+-rwxr-xr-x  1 root    root        853 Oct 30  2015 cautious-launcher
+-rwxr-xr-x  1 root    root      10472 Feb  2  2016 cb_console_runner
+-rwxr-xr-x  1 root    root     151064 Feb  2  2016 cb_share_config
+lrwxrwxrwx  1 root    root         20 Jan 25 21:23 cc -> /etc/alternatives/cc
+-rwxr-xr-x  1 root    root      18424 Nov  6  2015 cd-create-profile
+-rwxr-xr-x  1 root    root      22520 Nov  6  2015 cd-fix-profile
+-rwxr-xr-x  1 root    root      10232 Nov  6  2015 cd-iccdump
+-rwxr-xr-x  1 root    root      18424 Nov  6  2015 cd-it8
+lrwxrwxrwx  1 root    root         24 Nov  8 14:06 c++filt -> x86_64-linux-gnu-c++filt
+-rwxr-xr-x  1 root    root      18424 Jan 18  2016 cgm
+lrwxrwxrwx  1 root    root         10 Jan 25 21:23 chacl -> /bin/chacl
+-rwxr-sr-x  1 root    shadow    62336 May 16  2017 chage
+lrwxrwxrwx  1 root    root         10 Jan 25 21:23 chardet -> chardetect
+lrwxrwxrwx  1 root    root         11 Jan 25 21:23 chardet3 -> chardetect3
+-rwxr-xr-x  1 root    root        307 Feb 10  2016 chardetect
+-rwxr-xr-x  1 root    root        309 Feb 10  2016 chardetect3
+-rwxr-xr-x  1 root    root      10592 Oct 30  2015 chattr
+-rwxr-xr-x  1 root    root      64432 Mar  2  2017 chcon
+-rwxr-xr-x  1 root    root       2771 Jul 28  2016 check-language-support
+-rwxr-xr-x  1 root    root       6352 Oct 23  2015 checksctp
+-rwsr-xr-x  1 root    root      49584 May 16  2017 chfn
+-rwxr-xr-x  1 root    root      27312 Nov 30 18:04 chrt
+-rwsr-xr-x  1 root    root      40432 May 16  2017 chsh
+-rwxr-xr-x  1 root    root      18776 Mar  6  2017 cifscreds
+-rwxr-xr-x  1 root    root      82168 Nov 16 10:41 cifsdd
+-rwxr-xr-x  1 root    root     136760 Jan 18 13:54 ciptool
+-rwxr-xr-x  1 root    root      10232 Feb 17  2016 cisco-decrypt
+-rwxr-xr-x  1 root    root     147651 Oct 12 13:54 ckbcomp
+-rwxr-xr-x  1 root    root        329 Mar 22  2016 ckeygen
+-rwxr-xr-x  1 root    root      27736 Apr 25  2014 ck-history
+-rwxr-xr-x  1 root    root      10456 Apr 25  2014 ck-launch-session
+-rwxr-xr-x  1 root    root      10680 Apr 25  2014 ck-list-sessions
+-rwxr-xr-x  1 root    root      31408 Mar  2  2017 cksum
+-rwxr-xr-x  1 root    root       6224 Feb 19  2016 clear
+-rwxr-xr-x  1 root    root      10512 May 16  2017 clear_console
+-rwxr-xr-x  1 root    root      43696 Dec 26  2015 cmp
+-rwxr-xr-x  1 root    root      10376 Jan 30  2016 cmuwmtopbm
+-rwxr-xr-x  1 root    root    1473352 Feb  2  2016 codeblocks
+-rwxr-xr-x  1 root    root      10536 Sep 22  2016 codepage
+-rwxr-xr-x  1 root    root      10504 Mar  1  2016 col
+-rwxr-xr-x  1 root    root      10472 Mar  1  2016 colcrt
+-rwxr-xr-x  1 root    root      51192 Nov  6  2015 colormgr
+-rwxr-xr-x  1 root    root      10464 Mar  1  2016 colrm
+-rwxr-xr-x  1 root    root      14712 Mar  1  2016 column
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 combinediff -> interdiff
+-rwxr-xr-x  1 root    root      35536 Mar  2  2017 comm
+lrwxrwxrwx  1 root    root         25 Jan 25 21:23 compare -> /etc/alternatives/compare
+lrwxrwxrwx  1 root    root         57 Jan 25 21:23 compare-im6 -> ../lib/x86_64-linux-gnu/ImageMagick-6.8.9/bin-Q16/compare
+-rwxr-xr-x  1 root    root      14848 Nov 16 21:11 compiz
+-rwxr-xr-x  1 root    root       3040 Nov 16 21:00 compiz-decorator
+lrwxrwxrwx  1 root    root         11 Jan 25 21:23 compose -> run-mailcap
+lrwxrwxrwx  1 root    root         27 Jan 25 21:23 composite -> /etc/alternatives/composite
+lrwxrwxrwx  1 root    root         59 Jan 25 21:23 composite-im6 -> ../lib/x86_64-linux-gnu/ImageMagick-6.8.9/bin-Q16/composite
+-rwxr-xr-x  1 root    root        327 Mar 22  2016 conch
+-rwxr-xr-x  1 root    root        326 Mar 22  2016 conchftp
+lrwxrwxrwx  1 root    root         25 Jan 25 21:23 conjure -> /etc/alternatives/conjure
+lrwxrwxrwx  1 root    root         57 Jan 25 21:23 conjure-im6 -> ../lib/x86_64-linux-gnu/ImageMagick-6.8.9/bin-Q16/conjure
+-rwxr-xr-x  1 root    root     818224 Jan  6  2016 conky
+lrwxrwxrwx  1 root    root         25 Jan 25 21:23 convert -> /etc/alternatives/convert
+lrwxrwxrwx  1 root    root         57 Jan 25 21:23 convert-im6 -> ../lib/x86_64-linux-gnu/ImageMagick-6.8.9/bin-Q16/convert
+-rwxr-xr-x  1 root    root      12792 Nov 10 12:39 corelist
+-rwxr-xr-x  1 root    root       7427 Nov 10 12:39 cpan
+-rwxr-xr-x  1 root    root       7448 Nov 10 12:39 cpan5.22-x86_64-linux-gnu
+lrwxrwxrwx  1 root    root          5 Jan 25 21:23 cpp -> cpp-5
+-rwxr-xr-x  1 root    root     776344 Jan 25  2016 cpp-4.8
+-rwxr-xr-x  1 root    root     919832 Jan 19 05:21 cpp-5
+-rwxr-xr-x  1 root    root       1043 Jan  2  2016 crc32
+-rwxr-xr-x  1 root    root        558 Mar 10  2017 createfontdatachunk
+-rwxr-xr-x  1 root    root        557 Mar 10  2017 createfontdatachunk.py
+-rwxr-xr-x  1 root    root       5231 Dec  7 19:08 c_rehash
+-rwxr-sr-x  1 root    crontab   36080 Apr  5  2016 crontab
+-rwxr-xr-x  1 root    root      47984 Mar  2  2017 csplit
+lrwxrwxrwx  1 root    root          6 Dec  6 22:00 ctstat -> lnstat
+-rwxr-xr-x  1 root    root      22880 Feb 18  2016 cups-calibrate
+-rwxr-xr-x  1 root    root      14328 Aug 22 21:26 cupstestdsc
+-rwxr-xr-x  1 root    root      55368 Aug 22 21:26 cupstestppd
+-rwxr-xr-x  1 root    root     190408 Nov 28 16:55 curl
+-rwxr-xr-x  1 root    root      39728 Mar  2  2017 cut
+-rwxr-xr-x  1 root    root         45 Aug 11  2017 cvlc
+-rwxr-xr-x  1 root    root      14656 Oct 13 10:59 cvt
+-rwxr-xr-x  1 root    root      10224 Jan 12  2017 dbus-cleanup-sockets
+-rwxr-xr-x  1 root    root     224208 Jan 12  2017 dbus-daemon
+-rwxr-xr-x  1 root    root      26616 Jan 12  2017 dbus-launch
+-rwxr-xr-x  1 root    root      22520 Jan 12  2017 dbus-monitor
+-rwxr-xr-x  1 root    root      10224 Jan 12  2017 dbus-run-session
+-rwxr-xr-x  1 root    root      22512 Jan 12  2017 dbus-send
+-rwxr-xr-x  1 root    root      14320 Jan 12  2017 dbus-update-activation-environment
+-rwxr-xr-x  1 root    root      10224 Jan 12  2017 dbus-uuidgen
+-rwxr-xr-x  1 root    root      18664 Nov 16 10:41 dbwrap_tool
+-rwxr-xr-x  1 root    root      47560 Dec 11  2014 dc
+-rwxr-xr-x  1 root    root      44168 May 27  2015 dconf
+-rwxr-xr-x  1 root    root      10544 Sep 22  2016 deallocvt
+-rwxr-xr-x  1 root    root       2859 Nov 10  2015 debconf
+-rwxr-xr-x  1 root    root      11541 Nov 10  2015 debconf-apt-progress
+-rwxr-xr-x  1 root    root        608 Nov 10  2015 debconf-communicate
+-rwxr-xr-x  1 root    root       1719 Nov 10  2015 debconf-copydb
+-rwxr-xr-x  1 root    root        647 Nov 10  2015 debconf-escape
+-rwxr-xr-x  1 root    root      16350 Jan  7  2016 debconf-gettextize
+-rwxr-xr-x  1 root    root       2935 Nov 10  2015 debconf-set-selections
+-rwxr-xr-x  1 root    root       1827 Nov 10  2015 debconf-show
+-rwxr-xr-x  1 root    root       4566 Jan  7  2016 debconf-updatepo
+-rwxr-xr-x  1 root    root      18426 Feb 29  2016 deb-systemd-helper
+-rwxr-xr-x  1 root    root       4477 Feb 29  2016 deb-systemd-invoke
+-rwxr-xr-x  1 root    root       1351 May  6  2015 dehtmldiff
+-rwxr-xr-x  1 root    root     173272 Dec  7  2016 deja-dup
+-rwxr-xr-x  1 root    root      44616 Dec  7  2016 deja-dup-preferences
+-rwxr-xr-x  1 root    root      18888 Nov 30 18:04 delpart
+-rwxr-xr-x  1 root    root        292 Sep 18  2015 deluge
+-rwxr-xr-x  1 root    root        300 Sep 18  2015 deluge-gtk
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 designer -> qtchooser
+lrwxrwxrwx  1 root    root         20 Jan 25 21:23 desktop-file-edit -> desktop-file-install
+-rwxr-xr-x  1 root    root      74720 Feb 23  2017 desktop-file-install
+-rwxr-xr-x  1 root    root      66568 Feb 23  2017 desktop-file-validate
+-rwxr-xr-x  1 root    root     159832 Nov 24  2014 devdump
+-rwxr-xr-x  1 root    root      27484 Mar 31  2016 dh
+-rwxr-xr-x  1 root    root       1356 Mar 31  2016 dh_auto_build
+-rwxr-xr-x  1 root    root       1529 Mar 31  2016 dh_auto_clean
+-rwxr-xr-x  1 root    root       1612 Mar 31  2016 dh_auto_configure
+-rwxr-xr-x  1 root    root       2802 Mar 31  2016 dh_auto_install
+-rwxr-xr-x  1 root    root       5781 Feb  8  2016 dh_autoreconf
+-rwxr-xr-x  1 root    root       2090 Feb  8  2016 dh_autoreconf_clean
+-rwxr-xr-x  1 root    root       1757 Mar 31  2016 dh_auto_test
+-rwxr-xr-x  1 root    root       1365 Oct 23  2015 dh_autotools-dev_restoreconfig
+-rwxr-xr-x  1 root    root       1379 Oct 23  2015 dh_autotools-dev_updateconfig
+-rwxr-xr-x  1 root    root       2550 Aug 18  2015 dh_bash-completion
+-rwxr-xr-x  1 root    root       3773 Mar 31  2016 dh_bugfiles
+-rwxr-xr-x  1 root    root       5013 Mar 31  2016 dh_builddeb
+-rwxr-xr-x  1 root    root       5114 Mar 31  2016 dh_clean
+-rwxr-xr-x  1 root    root       6610 Mar 31  2016 dh_compress
+-rwxr-xr-x  1 root    root        848 Mar 31  2016 dh_desktop
+-rwxr-xr-x  1 root    root       4108 Mar 11  2015 dh_dkms
+-rwxr-xr-x  1 root    root       5057 Mar 31  2016 dh_fixperms
+-rwxr-xr-x  1 root    root       2739 Mar 31  2016 dh_gconf
+-rwxr-xr-x  1 root    root       5311 Mar 31  2016 dh_gencontrol
+-rwxr-xr-x  1 root    root       2121 Mar 31  2016 dh_icons
+-rwxr-xr-x  1 root    root       9315 Mar 31  2016 dh_install
+-rwxr-xr-x  1 root    root       3341 Mar 31  2016 dh_installcatalogs
+-rwxr-xr-x  1 root    root       6258 Mar 31  2016 dh_installchangelogs
+-rwxr-xr-x  1 root    root       1752 Mar 31  2016 dh_installcron
+-rwxr-xr-x  1 root    root       4686 Mar 31  2016 dh_installdeb
+-rwxr-xr-x  1 root    root       3356 Mar 31  2016 dh_installdebconf
+-rwxr-xr-x  1 root    root       2053 Mar 31  2016 dh_installdirs
+-rwxr-xr-x  1 root    root      10706 Mar 31  2016 dh_installdocs
+-rwxr-xr-x  1 root    root       4081 Mar 31  2016 dh_installemacsen
+-rwxr-xr-x  1 root    root       2644 Mar 31  2016 dh_installexamples
+-rwxr-xr-x  1 root    root       2239 Mar 31  2016 dh_installgsettings
+-rwxr-xr-x  1 root    root       1594 Mar 31  2016 dh_installifupdown
+-rwxr-xr-x  1 root    root       1523 Mar 31  2016 dh_installinfo
+-rwxr-xr-x  1 root    root      10158 Mar 31  2016 dh_installinit
+-rwxr-xr-x  1 root    root       2067 Mar 31  2016 dh_installlogcheck
+-rwxr-xr-x  1 root    root       1245 Mar 31  2016 dh_installlogrotate
+-rwxr-xr-x  1 root    root       7312 Mar 31  2016 dh_installman
+-rwxr-xr-x  1 root    root       5098 Mar 31  2016 dh_installmanpages
+-rwxr-xr-x  1 root    root       2314 Mar 31  2016 dh_installmenu
+-rwxr-xr-x  1 root    root       1466 Mar 31  2016 dh_installmime
+-rwxr-xr-x  1 root    root       2995 Mar 31  2016 dh_installmodules
+-rwxr-xr-x  1 root    root       1235 Mar 31  2016 dh_installpam
+-rwxr-xr-x  1 root    root       1499 Mar 31  2016 dh_installppp
+-rwxr-xr-x  1 root    root       2887 Mar 31  2016 dh_installudev
+-rwxr-xr-x  1 root    root       2840 Mar 31  2016 dh_installwm
+-rwxr-xr-x  1 root    root       2926 Mar 31  2016 dh_installxfonts
+-rwxr-xr-x  1 root    root       9664 Nov  7  2012 dh_installxmlcatalogs
+-rwxr-xr-x  1 root    root       3755 Mar 31  2016 dh_link
+-rwxr-xr-x  1 root    root       1388 Mar 31  2016 dh_lintian
+-rwxr-xr-x  1 root    root        808 Mar 31  2016 dh_listpackages
+-rwxr-xr-x  1 root    root       8282 Mar 31  2016 dh_makeshlibs
+-rwxr-xr-x  1 root    root       3069 Mar 31  2016 dh_md5sums
+-rwxr-xr-x  1 root    root       4877 Mar 31  2016 dh_movefiles
+-rwxr-xr-x  1 root    root       1983 Apr  9  2016 dh_numpy
+-rwxr-xr-x  1 root    root       4244 Mar 31  2016 dh_perl
+-rwxr-xr-x  1 root    root       1685 Mar 31  2016 dh_prep
+lrwxrwxrwx  1 root    root         26 Jan 25 21:23 dh_pypy -> ../share/dh-python/dh_pypy
+-rwxr-xr-x  1 root    root       1056 Nov 23 22:52 dh_python2
+lrwxrwxrwx  1 root    root         29 Jan 25 21:23 dh_python3 -> ../share/dh-python/dh_python3
+-rwxr-xr-x  1 root    root        690 Mar 31  2016 dh_scrollkeeper
+-rwxr-xr-x  1 root    root       4790 Mar 31  2016 dh_shlibdeps
+-rwxr-xr-x  1 root    root      12858 Mar 31  2016 dh_strip
+-rwxr-xr-x  1 root    root       2385 Jan 28  2016 dh_strip_nondeterminism
+-rwxr-xr-x  1 root    root       3542 Mar 31  2016 dh_suidregister
+-rwxr-xr-x  1 root    root       1131 Mar 31  2016 dh_testdir
+-rwxr-xr-x  1 root    root        686 Mar 31  2016 dh_testroot
+-rwxr-xr-x  1 root    root       2154 Mar 31  2016 dh_ucf
+-rwxr-xr-x  1 root    root        741 Mar 31  2016 dh_undocumented
+-rwxr-xr-x  1 root    root       1612 Mar 31  2016 dh_update_autotools_config
+-rwxr-xr-x  1 root    root       3453 Mar 31  2016 dh_usrlocal
+-rwxr-xr-x  1 root    root     220456 Feb 28  2016 dialog
+-rwxr-xr-x  1 root    root     126032 Dec 26  2015 diff
+-rwxr-xr-x  1 root    root      56176 Dec 26  2015 diff3
+-rwxr-xr-x  1 root    root      39504 Feb  7  2016 diffstat
+-rwxr-xr-x  1 root    root     104544 Jan 16 11:59 dig
+-rwxr-xr-x  1 root    root      39640 Mar  2  2017 dircolors
+-rwxr-xr-x  1 root    root      31408 Mar  2  2017 dirname
+-rwxr-xr-x  1 root    root      17143 Nov 25  2006 dirsplit
+-rwxr-xr-x  1 root    root       2957 Nov  6  2014 discover-config
+lrwxrwxrwx  1 root    root         25 Jan 25 21:23 display -> /etc/alternatives/display
+lrwxrwxrwx  1 root    root         57 Jan 25 21:23 display-im6 -> ../lib/x86_64-linux-gnu/ImageMagick-6.8.9/bin-Q16/display
+-rwxr-xr-x  1 root    root      18944 Mar 31  2017 dm-tool
+-rwxr-xr-x  1 root    root       6785 Oct 20 08:35 do-release-upgrade
+-rwxr-sr-x  1 root    mail      14856 Dec  7  2013 dotlockfile
+-rwxr-xr-x  1 root    root     278264 Oct 25 10:57 dpkg
+-rwxr-xr-x  1 root    root      12623 Oct 25 10:57 dpkg-architecture
+-rwxr-xr-x  1 root    root       6217 Oct 25 10:57 dpkg-buildflags
+-rwxr-xr-x  1 root    root      23032 Oct 25 10:57 dpkg-buildpackage
+-rwxr-xr-x  1 root    root       7503 Oct 25 10:57 dpkg-checkbuilddeps
+-rwxr-xr-x  1 root    root     134520 Oct 25 10:57 dpkg-deb
+-rwxr-xr-x  1 root    root       2770 Oct 25 10:57 dpkg-distaddfile
+-rwxr-xr-x  1 root    root     138648 Oct 25 10:57 dpkg-divert
+-rwxr-xr-x  1 root    root      17870 Oct 25 10:57 dpkg-genchanges
+-rwxr-xr-x  1 root    root      14249 Oct 25 10:57 dpkg-gencontrol
+-rwxr-xr-x  1 root    root      10637 Oct 25 10:57 dpkg-gensymbols
+-rwxr-xr-x  1 root    root      17765 Oct 25 10:57 dpkg-maintscript-helper
+-rwxr-xr-x  1 root    root       8538 Oct 25 10:57 dpkg-mergechangelogs
+-rwxr-xr-x  1 root    root       6789 Oct 25 10:57 dpkg-name
+-rwxr-xr-x  1 root    root       4545 Oct 25 10:57 dpkg-parsechangelog
+-rwxr-xr-x  1 root    root     146872 Oct 25 10:57 dpkg-query
+-rwxr-xr-x  1 root    root       9637 Apr 11  2015 dpkg-repack
+-rwxr-xr-x  1 root    root       8409 Oct 25 10:57 dpkg-scanpackages
+-rwxr-xr-x  1 root    root       9152 Oct 25 10:57 dpkg-scansources
+-rwxr-xr-x  1 root    root      29572 Oct 25 10:57 dpkg-shlibdeps
+-rwxr-xr-x  1 root    root      20332 Oct 25 10:57 dpkg-source
+-rwxr-xr-x  1 root    root     109712 Oct 25 10:57 dpkg-split
+-rwxr-xr-x  1 root    root      60496 Oct 25 10:57 dpkg-statoverride
+-rwxr-xr-x  1 root    root      72672 Oct 25 10:57 dpkg-trigger
+-rwxr-xr-x  1 root    root       3262 Oct 25 10:57 dpkg-vendor
+-rwxr-xr-x  1 gabriel gabriel  116627 Nov 15  2016 dropbox
+-rwxr-xr-x  1 root    root     122032 Mar  2  2017 du
+lrwxrwxrwx  1 root    root         13 Jan 25 21:23 dumpkeys -> /bin/dumpkeys
+-rwxr-xr-x  1 root    root      61668 Feb 18  2016 duplicity
+-rwxr-xr-x  1 root    root       1023 Aug 24 19:35 dvipdf
+lrwxrwxrwx  1 root    root         20 Nov  8 14:06 dwp -> x86_64-linux-gnu-dwp
+-rwxr-xr-x  1 root    root      10464 Jul 13  2016 ecryptfs-add-passphrase
+-rwxr-xr-x  1 root    root      15096 Jul 13  2016 ecryptfsd
+-rwxr-xr-x  1 root    root       1631 Jul 13  2016 ecryptfs-find
+-rwxr-xr-x  1 root    root      10472 Jul 13  2016 ecryptfs-insert-wrapped-passphrase-into-keyring
+-rwxr-xr-x  1 root    root      14704 Jul 13  2016 ecryptfs-manager
+-rwxr-xr-x  1 root    root       6232 Jul 13  2016 ecryptfs-migrate-home
+-rwxr-xr-x  1 root    root       2615 Jul 13  2016 ecryptfs-mount-private
+-rwxr-xr-x  1 root    root       3963 Jul 13  2016 ecryptfs-recover-private
+-rwxr-xr-x  1 root    root      10472 Jul 13  2016 ecryptfs-rewrap-passphrase
+-rwxr-xr-x  1 root    root       2062 Jul 13  2016 ecryptfs-rewrite-file
+-rwxr-xr-x  1 root    root      16337 Jul 13  2016 ecryptfs-setup-private
+-rwxr-xr-x  1 root    root       6346 Jul 13  2016 ecryptfs-setup-swap
+-rwxr-xr-x  1 root    root       6336 Jul 13  2016 ecryptfs-stat
+-rwxr-xr-x  1 root    root        817 Jul 13  2016 ecryptfs-umount-private
+-rwxr-xr-x  1 root    root      10464 Jul 13  2016 ecryptfs-unwrap-passphrase
+-rwxr-xr-x  1 root    root       5537 Jul 13  2016 ecryptfs-verify
+-rwxr-xr-x  1 root    root      10456 Jul 13  2016 ecryptfs-wrap-passphrase
+lrwxrwxrwx  1 root    root         11 Jan 25 21:23 edit -> run-mailcap
+-rwxr-xr-x  1 root    root       2060 May  6  2015 editdiff
+lrwxrwxrwx  1 root    root         24 Jan 25 21:23 editor -> /etc/alternatives/editor
+-rwxr-xr-x  1 root    root      58872 May  6  2015 editres
+-rwxr-xr-x  1 root    root      31424 Mar 27  2017 eject
+lrwxrwxrwx  1 root    root         24 Nov  8 14:06 elfedit -> x86_64-linux-gnu-elfedit
+-rwxr-xr-x  1 root    root      39863 Nov 10 12:39 enc2xs
+-rwxr-xr-x  1 root    root       3028 Nov 10 12:39 encguess
+-rwxr-xr-x  1 root    root      18504 Apr  5  2016 enchant
+-rwxr-xr-x  1 root    root      10232 Apr  5  2016 enchant-lsmod
+-rwxr-xr-x  1 root    root       1508 Mar 10  2017 enhancer
+-rwxr-xr-x  1 root    root       1507 Mar 10  2017 enhancer.py
+-rwxr-xr-x  1 root    root      31408 Mar  2  2017 env
+-rwxr-xr-x  1 root    root      35336 Feb 10  2016 envsubst
+-rwxr-xr-x  1 root    root        639 Aug 24 19:35 eps2eps
+-rwxr-xr-x  1 root    root     185536 Jan 29  2016 eqn
+-rwxr-xr-x  1 root    root      10408 May  6  2014 esc-m
+-rwxr-xr-x  1 root    root      19464 Dec 22  2015 espeak
+-rwxr-xr-x  1 root    root      10536 Jul 22  2015 evemu-describe
+-rwxr-xr-x  1 root    root      10520 Jul 22  2015 evemu-device
+-rwxr-xr-x  1 root    root      10648 Jul 22  2015 evemu-event
+-rwxr-xr-x  1 root    root       6304 Jul 22  2015 evemu-play
+-rwxr-xr-x  1 root    root      10536 Jul 22  2015 evemu-record
+-rwxr-xr-x  1 root    root      34808 Nov 16 10:40 eventlogadm
+-rwxr-xr-x  1 root    root     416912 Nov 30 18:33 evince
+-rwxr-xr-x  1 root    root      51416 Nov 30 18:33 evince-previewer
+-rwxr-xr-x  1 root    root      14424 Nov 30 18:33 evince-thumbnailer
+-rwxr-xr-x  1 root    root      35184 Jul 25  2015 evtest
+lrwxrwxrwx  1 root    root         20 Jan 25 21:23 ex -> /etc/alternatives/ex
+-rwxr-xr-x  1 root    root      14352 Sep 21  2015 exo-csource
+-rwxr-xr-x  1 root    root      76344 Sep 21  2015 exo-desktop-item-edit
+-rwxr-xr-x  1 root    root      22856 Sep 21  2015 exo-open
+-rwxr-xr-x  1 root    root        296 Sep 21  2015 exo-preferred-applications
+-rwxr-xr-x  1 root    root      31472 Mar  2  2017 expand
+-rwxr-sr-x  1 root    shadow    22768 May 16  2017 expiry
+-rwxr-xr-x  1 root    root       2439 Mar 10  2017 explode
+-rwxr-xr-x  1 root    root       2438 Mar 10  2017 explode.py
+-rwxr-xr-x  1 root    root      39664 Mar  2  2017 expr
+lrwxrwxrwx  1 root    root         26 Jan 25 21:23 extcheck -> /etc/alternatives/extcheck
+-rwxr-xr-x  1 root    root       9444 Jan 27  2016 extresso
+-rwxr-xr-x  1 root    root      14504 Jan 30  2016 eyuvtoppm
+-rwxr-xr-x  1 root    root        757 Apr 16  2016 f2py
+-rwxr-xr-x  1 root    root        760 Apr 16  2016 f2py2.7
+-rwxr-xr-x  1 root    root      72464 Mar  2  2017 factor
+-rwxr-xr-x  1 root    root      18688 May 16  2017 faillog
+-rwxr-xr-x  1 root    root      27160 Nov 24  2014 faked-sysv
+-rwxr-xr-x  1 root    root      27216 Nov 24  2014 faked-tcp
+lrwxrwxrwx  1 root    root         26 Jan 25 21:23 fakeroot -> /etc/alternatives/fakeroot
+-rwxr-xr-x  1 root    root       3855 Nov 24  2014 fakeroot-sysv
+-rwxr-xr-x  1 root    root       3850 Nov 24  2014 fakeroot-tcp
+-rwxr-xr-x  1 root    root      23104 Nov 30 18:04 fallocate
+-rwxr-xr-x  1 root    root      14856 Aug 16  2016 fc-cache
+-rwxr-xr-x  1 root    root      14792 Aug 16  2016 fc-cat
+-rwxr-xr-x  1 root    root      10568 Aug 16  2016 fc-list
+-rwxr-xr-x  1 root    root      10632 Aug 16  2016 fc-match
+-rwxr-xr-x  1 root    root      10568 Aug 16  2016 fc-pattern
+-rwxr-xr-x  1 root    root      10536 Aug 16  2016 fc-query
+-rwxr-xr-x  1 root    root      10584 Aug 16  2016 fc-scan
+-rwxr-xr-x  1 root    root      10592 Aug 16  2016 fc-validate
+-rwxr-xr-x  1 root    root      14696 Jan 10  2016 ffcfstress
+-rwxr-xr-x  1 root    root      10568 Jan 10  2016 ffmvforce
+-rwxr-xr-x  1 root    root       6376 Jan 10  2016 ffset
+-rwxr-xr-x  1 root    root      14664 Jan 10  2016 fftest
+-rwxr-xr-x  1 root    root     113672 Jan 30  2016 fiascotopnm
+-rwxr-xr-x  1 root    root      19088 Nov 20  2015 file
+-rwxr-xr-x  1 root    root      18816 Mar 25  2016 file2brl
+-rwxr-xr-x  1 root    root       3172 Jun  5  2015 file-rename
+-rwxr-xr-x  1 root    root     492512 Sep  8  2016 file-roller
+-rwxr-xr-x  1 root    root    4291312 Feb 25  2016 filezilla
+-rwxr-xr-x  1 root    root      44880 May  6  2015 filterdiff
+-rwxr-xr-x  1 root    root     221768 Feb  7  2016 find
+lrwxrwxrwx  1 root    root         25 Jan 22 23:22 firefox -> ../lib/firefox/firefox.sh
+-rwxr-xr-x  1 root    root      14504 Jan 30  2016 fitstopnm
+-rwxr-xr-x  1 root    root       1870 May  6  2015 fixcvsdiff
+-rwxr-xr-x  1 root    root       8369 Nov 17  2015 fix-qdf
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 flipdiff -> interdiff
+-rwxr-xr-x  1 root    root      27352 Nov 30 18:04 flock
+-rwxr-xr-x  1 root    root      39632 Mar  2  2017 fmt
+-rwxr-xr-x  1 root    root      35536 Mar  2  2017 fold
+-rwxr-xr-x  1 root    root        311 Aug 24 19:35 font2c
+-rwxr-xr-x  1 root    root      35312 Jul  6  2017 fonttosfnt
+-rwxr-xr-x  1 root    root      33136 Apr  7  2016 foo2hbpl2
+-rwxr-xr-x  1 root    root      18343 Apr  7  2016 foo2hbpl2-wrapper
+-rwxr-xr-x  1 root    root      36208 Apr  7  2016 foo2hiperc
+-rwxr-xr-x  1 root    root      18541 Apr  7  2016 foo2hiperc-wrapper
+-rwxr-xr-x  1 root    root      36464 Apr  7  2016 foo2hp
+-rwxr-xr-x  1 root    root      19204 Apr  7  2016 foo2hp2600-wrapper
+-rwxr-xr-x  1 root    root      33200 Apr  7  2016 foo2lava
+-rwxr-xr-x  1 root    root      20083 Apr  7  2016 foo2lava-wrapper
+-rwxr-xr-x  1 root    root      36368 Apr  7  2016 foo2oak
+-rwxr-xr-x  1 root    root      17871 Apr  7  2016 foo2oak-wrapper
+-rwxr-xr-x  1 root    root      36240 Apr  7  2016 foo2qpdl
+-rwxr-xr-x  1 root    root      19514 Apr  7  2016 foo2qpdl-wrapper
+-rwxr-xr-x  1 root    root      32112 Apr  7  2016 foo2slx
+-rwxr-xr-x  1 root    root      17603 Apr  7  2016 foo2slx-wrapper
+-rwxr-xr-x  1 root    root      32112 Apr  7  2016 foo2xqx
+-rwxr-xr-x  1 root    root      17572 Apr  7  2016 foo2xqx-wrapper
+-rwxr-xr-x  1 root    root      37264 Apr  7  2016 foo2zjs
+lrwxrwxrwx  1 root    root          5 Jan 25 21:23 foo2zjs-icc2ps -> psicc
+-rwxr-xr-x  1 root    root       2997 Apr  7  2016 foo2zjs-pstops
+-rwxr-xr-x  1 root    root      25824 Apr  7  2016 foo2zjs-wrapper
+-rwxr-xr-x  1 root    root      47480 Aug 19  2015 foomatic-combo-xml
+-rwxr-xr-x  1 root    root       4629 Aug 19  2015 foomatic-compiledb
+-rwxr-xr-x  1 root    root     136767 Aug 19  2015 foomatic-configure
+lrwxrwxrwx  1 root    root         16 Jan 25 21:23 foomatic-datafile -> foomatic-ppdfile
+-rwxr-xr-x  1 root    root      80232 Aug 19  2015 foomatic-perl-data
+-rwxr-xr-x  1 root    root       9788 Aug 19  2015 foomatic-ppdfile
+-rwxr-xr-x  1 root    root       4000 Aug 19  2015 foomatic-ppd-options
+-rwxr-xr-x  1 root    root      11907 Aug 19  2015 foomatic-ppd-to-xml
+-rwxr-xr-x  1 root    root      35032 Aug 19  2015 foomatic-printjob
+lrwxrwxrwx  1 root    root         31 Jan 25 21:23 foomatic-rip -> ../lib/cups/filter/foomatic-rip
+-rwxr-xr-x  1 root    root       2489 Aug 19  2015 foomatic-searchprinter
+-rwxr-xr-x  1 root    root      18808 Nov 21  2016 free
+lrwxrwxrwx  1 root    root         22 Jan 25 21:23 from -> /etc/alternatives/from
+-rwxr-xr-x  1 root    root      14648 May  6  2015 fslsfonts
+-rwxr-xr-x  1 root    root      14968 May  6  2015 fstobdf
+-rwxr-xr-x  1 root    root      10384 Jan 30  2016 fstopgm
+lrwxrwxrwx  1 root    root         21 Jan 25 21:23 ftp -> /etc/alternatives/ftp
+-rwxr-xr-x  1 root    root       8187 Dec 24  2015 function_grep.pl
+-rwxr-xr-x  1 root    root      22864 Nov 20  2015 funzip
+-rwxr-xr-x  1 root    root     240456 Feb 25  2016 fzputtygen
+-rwxr-xr-x  1 root    root     553952 Feb 25  2016 fzsftp
+lrwxrwxrwx  1 root    root          5 Jan 25 21:23 g++ -> g++-5
+-rwxr-xr-x  1 root    root      13560 Jan 30  2016 g3topbm
+-rwxr-xr-x  1 root    root     919832 Jan 19 05:28 g++-5
+-rwxr-xr-x  1 root    root     168520 Sep 22  2015 galculator
+-rwxr-xr-x  1 root    root      10232 May  4  2017 gamma4scanimage
+-rwxr-xr-x  1 root    root      19008 Jan  6  2017 gapplication
+-rwxr-xr-x  1 root    root     232160 Jan 18 13:54 gatttool
+-rwxr-xr-x  1 root    root     658144 Dec 23  2015 gawk
+lrwxrwxrwx  1 root    root          5 Jan 25 21:23 gcc -> gcc-5
+-rwxr-xr-x  1 root    root     776344 Jan 25  2016 gcc-4.8
+-rwxr-xr-x  1 root    root     915736 Jan 19 05:46 gcc-5
+lrwxrwxrwx  1 root    root          8 Jan 25 21:23 gcc-ar -> gcc-ar-5
+-rwxr-xr-x  1 root    root      27032 Jan 25  2016 gcc-ar-4.8
+-rwxr-xr-x  1 root    root      31136 Jan 19 05:46 gcc-ar-5
+lrwxrwxrwx  1 root    root          8 Jan 25 21:23 gcc-nm -> gcc-nm-5
+-rwxr-xr-x  1 root    root      27032 Jan 25  2016 gcc-nm-4.8
+-rwxr-xr-x  1 root    root      31136 Jan 19 05:46 gcc-nm-5
+lrwxrwxrwx  1 root    root         12 Jan 25 21:23 gcc-ranlib -> gcc-ranlib-5
+-rwxr-xr-x  1 root    root      27032 Jan 25  2016 gcc-ranlib-4.8
+-rwxr-xr-x  1 root    root      31136 Jan 19 05:46 gcc-ranlib-5
+-rwxr-xr-x  1 root    root      56648 Nov 27  2015 gconf-merge-tree
+lrwxrwxrwx  1 root    root         11 Jan 25 21:23 gconftool -> gconftool-2
+-rwxr-xr-x  1 root    root      60672 Nov 27  2015 gconftool-2
+-rwxr-xr-x  1 root    root       2945 Jun  9  2017 gcore
+lrwxrwxrwx  1 root    root          6 Jan 25 21:23 gcov -> gcov-5
+-rwxr-xr-x  1 root    root     318416 Jan 25  2016 gcov-4.8
+-rwxr-xr-x  1 root    root     474968 Jan 19 05:46 gcov-5
+lrwxrwxrwx  1 root    root         11 Jan 25 21:23 gcov-tool -> gcov-tool-5
+-rwxr-xr-x  1 root    root     462640 Jan 19 05:46 gcov-tool-5
+-rwxr-xr-x  1 root    root      10672 Oct 23  2015 gcr-viewer
+-rwxr-xr-x  1 root    root    6546408 Jun  9  2017 gdb
+-rwxr-xr-x  1 root    root       1995 Jun  9  2017 gdb-add-index
+-rwxr-xr-x  1 root    root     418336 Jun  9  2017 gdbserver
+-rwxr-xr-x  1 root    root        126 Jun  9  2017 gdbtui
+-rwxr-xr-x  1 root    root      35768 Jan  6  2017 gdbus
+lrwxrwxrwx  1 root    root         20 Jan 25 21:23 gdebi -> ../share/gdebi/gdebi
+lrwxrwxrwx  1 root    root         24 Jan 25 21:23 gdebi-gtk -> ../share/gdebi/gdebi-gtk
+-rwxr-xr-x  1 root    root       9228 Feb 16  2016 gdialog
+lrwxrwxrwx  1 root    root          8 Jan 25 21:23 gemtopbm -> gemtopnm
+-rwxr-xr-x  1 root    root      10416 Jan 30  2016 gemtopnm
+-rwxr-xr-x  1 root    root      23168 Jan 15 00:52 gencat
+-rwxr-xr-x  1 root    root     601360 Nov 24  2014 genisoimage
+-rwxr-xr-x  1 root    root       2568 Dec  2  2015 gen-preseed
+-rwxr-xr-x  1 root    root       3959 Jan 27  2016 genresscript
+lrwxrwxrwx  1 root    root          3 Jan 25 21:23 geqn -> eqn
+lrwxrwxrwx  1 root    root         11 Jan 25 21:23 GET -> lwp-request
+-rwxr-xr-x  1 root    root      14328 Mar  6  2017 getcifsacl
+-rwxr-xr-x  1 root    root      22944 Jan 15 00:52 getconf
+-rwxr-xr-x  1 root    root       6210 Nov 24  2014 geteltorito
+-rwxr-xr-x  1 root    root      27960 Jan 15 00:52 getent
+lrwxrwxrwx  1 root    root         12 Jan 25 21:23 getfacl -> /bin/getfacl
+-rwxr-xr-x  1 root    root      19496 Sep  9  2014 getfattr
+-rwxr-xr-x  1 root    root       6240 Feb 24  2016 gethostip
+-rwxr-xr-x  1 root    root      10544 Sep 22  2016 getkeycodes
+-rwxr-xr-x  1 root    root      14776 Nov 30 18:04 getopt
+-rwxr-xr-x  1 root    root      35312 Feb 10  2016 gettext
+-rwxr-xr-x  1 root    root      43751 Feb 10  2016 gettextize
+-rwxr-xr-x  1 root    root       4624 Feb 10  2016 gettext.sh
+lrwxrwxrwx  1 root    root          2 Jan 25 21:23 ghostscript -> gs
+-rwxr-xr-x  1 root    root        642 Mar 10  2017 gifmaker
+-rwxr-xr-x  1 root    root        641 Mar 10  2017 gifmaker.py
+-rwxr-xr-x  1 root    root      18648 Jan 30  2016 giftopnm
+lrwxrwxrwx  1 root    root          8 Jan 25 21:23 gimp -> gimp-2.8
+-rwxr-xr-x  1 root    root    6062400 May 12  2017 gimp-2.8
+lrwxrwxrwx  1 root    root         16 Jan 25 21:23 gimp-console -> gimp-console-2.8
+-rwxr-xr-x  1 root    root    2797216 May 12  2017 gimp-console-2.8
+lrwxrwxrwx  1 root    root         12 Jan 25 21:23 ginstall-info -> install-info
+lrwxrwxrwx  1 root    root         49 Jan 25 21:23 gio-querymodules -> ../lib/x86_64-linux-gnu/glib-2.0/gio-querymodules
+-rwxr-xr-x  1 root    root      14680 Apr  7  2016 gipddecode
+-rwxr-xr-x  1 root    root    1866896 Oct  4 15:22 git
+lrwxrwxrwx  1 root    root          3 Oct  4 15:22 git-receive-pack -> git
+-rwxr-xr-x  1 root    root     894512 Oct  4 15:22 git-shell
+lrwxrwxrwx  1 root    root          3 Oct  4 15:22 git-upload-archive -> git
+-rwxr-xr-x  1 root    root     980816 Oct  4 15:22 git-upload-pack
+-rwxr-xr-x  1 root    root      28208 Dec 24  2014 gksu
+lrwxrwxrwx  1 root    root          4 Jan 25 21:23 gksudo -> gksu
+-rwxr-xr-x  1 root    root      14784 Nov  2  2015 gksu-properties
+lrwxrwxrwx  1 root    root         55 Jan 25 21:23 glib-compile-resources -> ../lib/x86_64-linux-gnu/glib-2.0/glib-compile-resources
+lrwxrwxrwx  1 root    root         53 Jan 25 21:23 glib-compile-schemas -> ../lib/x86_64-linux-gnu/glib-2.0/glib-compile-schemas
+-rwxr-xr-x  1 root    root      10568 Dec 11  2015 glxdemo
+-rwxr-xr-x  1 root    root      23288 Dec 11  2015 glxgears
+-rwxr-xr-x  1 root    root      14800 Dec 11  2015 glxheads
+-rwxr-xr-x  1 root    root      39632 Dec 11  2015 glxinfo
+lrwxrwxrwx  1 root    root         20 Jan 25 21:23 gnome-control-center -> /usr/bin/pavucontrol
+-rwxr-xr-x  1 root    root      40544 Dec  1  2015 gnome-disk-image-mounter
+-rwxr-xr-x  1 root    root     521504 Dec  1  2015 gnome-disks
+-rwxr-xr-x  1 root    root       8275 Aug  3  2017 gnome-exe-thumbnailer
+lrwxrwxrwx  1 root    root          4 Jan 25 21:23 gnome-help -> yelp
+lrwxrwxrwx  1 root    root         15 Jan 25 21:23 gnome-keyring -> gnome-keyring-3
+-rwxr-xr-x  1 root    root      15144 Nov  1  2015 gnome-keyring-3
+-rwxr-xr-x  1 root    root    1014224 Nov  1  2015 gnome-keyring-daemon
+-rwxr-xr-x  1 root    root       1444 Jul 28  2016 gnome-language-selector
+-rwxr-xr-x  1 root    root      10488 Jan 14  2016 gnome-open
+-rwxr-xr-x  1 root    root     121552 Oct 19  2015 gnome-system-log
+-rwxr-xr-x  1 root    root        255 Apr 12  2013 gnome-system-log-pkexec
+lrwxrwxrwx  1 root    root         35 Jan 25 21:23 gnome-text-editor -> /etc/alternatives/gnome-text-editor
+lrwxrwxrwx  1 root    root         35 Jan 25 21:23 gnome-www-browser -> /etc/alternatives/gnome-www-browser
+lrwxrwxrwx  1 root    root          7 Nov  8 14:06 gold -> ld.gold
+lrwxrwxrwx  1 root    root         31 Jan 26 20:58 google-chrome -> /etc/alternatives/google-chrome
+lrwxrwxrwx  1 root    root         32 Jan 24 02:24 google-chrome-stable -> /opt/google/chrome/google-chrome
+-rwxr-xr-x  1 root    root      10368 Jan 30  2016 gouldtoppm
+-rwxr-xr-x  1 root    root         42 Dec  7  2011 gparted-pkexec
+-rwsr-xr-x  1 root    root      75304 May 16  2017 gpasswd
+-rwxr-xr-x  1 root    root    1008632 Aug 18  2016 gpg
+-rwxr-xr-x  1 root    root      60296 Aug 18  2016 gpgsplit
+-rwxr-xr-x  1 root    root     372488 Aug 18  2016 gpgv
+-rwxr-xr-x  1 root    root       3303 Aug 18  2016 gpg-zip
+lrwxrwxrwx  1 root    root          3 Jan 25 21:23 gpic -> pic
+lrwxrwxrwx  1 root    root         22 Nov  8 14:06 gprof -> x86_64-linux-gnu-gprof
+-rwxr-xr-x  1 root    root      77528 Jan 24 12:40 gpu-manager
+lrwxrwxrwx  1 root    root         10 Jan 25 21:23 grepdiff -> filterdiff
+-rwxr-xr-x  1 root    root      18984 Jan  6  2017 gresource
+-rwxr-xr-x  1 root    root     103744 Jan 29  2016 groff
+-rwxr-xr-x  1 root    root       2780 Jan 29  2016 grog
+-rwxr-xr-x  1 root    root     165600 Jan 29  2016 grops
+-rwxr-xr-x  1 root    root     120160 Jan 29  2016 grotty
+-rwxr-xr-x  1 root    root      31440 Mar  2  2017 groups
+-rwxr-xr-x  1 root    root     234272 Jan 22 16:39 grub-editenv
+-rwxr-xr-x  1 root    root     647616 Jan 22 16:39 grub-file
+-rwxr-xr-x  1 root    root     780816 Jan 22 16:39 grub-fstest
+-rwxr-xr-x  1 root    root     229984 Jan 22 16:39 grub-glue-efi
+-rwxr-xr-x  1 root    root       1681 Jan 22 16:37 grub-kbdcomp
+-rwxr-xr-x  1 root    root     205464 Jan 22 16:39 grub-menulst2cfg
+-rwxr-xr-x  1 root    root     255264 Jan 22 16:39 grub-mkfont
+-rwxr-xr-x  1 root    root     317120 Jan 22 16:39 grub-mkimage
+-rwxr-xr-x  1 root    root     234400 Jan 22 16:39 grub-mklayout
+-rwxr-xr-x  1 root    root     358800 Jan 22 16:39 grub-mknetdir
+-rwxr-xr-x  1 root    root     234472 Jan 22 16:39 grub-mkpasswd-pbkdf2
+-rwxr-xr-x  1 root    root     229696 Jan 22 16:39 grub-mkrelpath
+-rwxr-xr-x  1 root    root     801824 Jan 22 16:39 grub-mkrescue
+-rwxr-xr-x  1 root    root     432872 Jan 22 16:39 grub-mkstandalone
+-rwxr-xr-x  1 root    root     595056 Jan 22 16:39 grub-mount
+lrwxrwxrwx  1 root    root         34 Jan 22 16:38 grub-ntldr-img -> ../lib/grub/i386-pc/grub-ntldr-img
+-rwxr-xr-x  1 root    root     664616 Jan 22 16:39 grub-render-label
+-rwxr-xr-x  1 root    root     254408 Jan 22 16:39 grub-script-check
+-rwxr-xr-x  1 root    root     611896 Jan 22 16:39 grub-syslinux2cfg
+-rwxr-xr-x  1 root    root      10456 Aug 24 19:36 gs
+-rwxr-xr-x  1 root    root        350 Aug 24 19:35 gsbj
+-rwxr-xr-x  1 root    root        352 Aug 24 19:35 gsdj
+-rwxr-xr-x  1 root    root        352 Aug 24 19:35 gsdj500
+-rwxr-xr-x  1 root    root      23216 Jan  6  2017 gsettings
+-rwxr-xr-x  1 root    root      23464 Nov 27  2015 gsettings-data-convert
+-rwxr-xr-x  1 root    root      41811 Nov 27  2015 gsettings-schema-convert
+-rwxr-xr-x  1 root    root        353 Aug 24 19:35 gslj
+-rwxr-xr-x  1 root    root        350 Aug 24 19:35 gslp
+-rwxr-xr-x  1 root    root        277 Aug 24 19:35 gsnd
+-rwxr-xr-x  1 root    root      40288 Sep  6  2016 gst-inspect-1.0
+-rwxr-xr-x  1 root    root       1020 Mar 16  2016 gst-install
+-rwxr-xr-x  1 root    root      31880 Sep  6  2016 gst-launch-1.0
+lrwxrwxrwx  1 root    root         41 Jan 25 21:23 gstreamer-codec-install -> /etc/alternatives/gstreamer-codec-install
+-rwxr-xr-x  1 root    root      14856 Sep  6  2016 gst-typefind-1.0
+lrwxrwxrwx  1 root    root          3 Jan 25 21:23 gtbl -> tbl
+-rwxr-xr-x  1 root    root      14616 Oct 13 10:59 gtf
+-rwxr-xr-x  1 root    root      19112 Apr  5  2017 gtk-builder-tool
+-rwxr-xr-x  1 root    root      10744 Apr  5  2017 gtk-launch
+lrwxrwxrwx  1 root    root         57 Jan 25 21:23 gtk-update-icon-cache -> ../lib/x86_64-linux-gnu/libgtk2.0-0/gtk-update-icon-cache
+lrwxrwxrwx  1 root    root         60 Jan 25 21:23 gtk-update-icon-cache-3.0 -> ../lib/x86_64-linux-gnu/libgtk-3-0/gtk-update-icon-cache-3.0
+-rwxr-xr-x  1 root    root     162296 Nov 16 21:11 gtk-window-decorator
+-rwxr-xr-x  1 root    root         55 Feb  7  2016 gufw
+-rwxr-xr-x  1 root    root        388 Feb  7  2016 gufw-pkexec
+-rwxr-xr-x  1 root    root      10792 Aug 17 19:29 gvfs-cat
+-rwxr-xr-x  1 root    root      11064 Aug 17 19:29 gvfs-copy
+-rwxr-xr-x  1 root    root      15192 Aug 17 19:29 gvfs-info
+-rwxr-xr-x  1 root    root        884 Aug 17 19:28 gvfs-less
+-rwxr-xr-x  1 root    root      15384 Aug 17 19:29 gvfs-ls
+-rwxr-xr-x  1 root    root      10840 Aug 17 19:29 gvfs-mime
+-rwxr-xr-x  1 root    root      10760 Aug 17 19:29 gvfs-mkdir
+-rwxr-xr-x  1 root    root      10760 Aug 17 19:29 gvfs-monitor-dir
+-rwxr-xr-x  1 root    root      10760 Aug 17 19:29 gvfs-monitor-file
+-rwxr-xr-x  1 root    root      31824 Aug 17 19:29 gvfs-mount
+-rwxr-xr-x  1 root    root      11016 Aug 17 19:29 gvfs-move
+-rwxr-xr-x  1 root    root      10888 Aug 17 19:29 gvfs-open
+-rwxr-xr-x  1 root    root      10712 Aug 17 19:29 gvfs-rename
+-rwxr-xr-x  1 root    root      10760 Aug 17 19:29 gvfs-rm
+-rwxr-xr-x  1 root    root      11080 Aug 17 19:29 gvfs-save
+-rwxr-xr-x  1 root    root      10848 Aug 17 19:29 gvfs-set-attribute
+-rwxr-xr-x  1 root    root      10872 Aug 17 19:29 gvfs-trash
+-rwxr-xr-x  1 root    root      15032 Aug 17 19:29 gvfs-tree
+-rwxr-xr-x  1 root    root      29162 Nov 10 12:39 h2ph
+-rwxr-xr-x  1 root    root      60775 Nov 10 12:39 h2xs
+-rwxr-xr-x  1 root    root      15026 Jan  6  2016 hardening-check
+-rwxr-xr-x  1 root    root     138016 Mar  1  2015 hardinfo
+-rwxr-xr-x  1 root    root      27056 Apr  7  2016 hbpldecode
+-rwxr-xr-x  1 root    root     133016 Jan 18 13:54 hciattach
+-rwxr-xr-x  1 root    root     138776 Jan 18 13:54 hcitool
+lrwxrwxrwx  1 root    root          7 Jan 25 21:23 hd -> hexdump
+-rwxr-xr-x  1 root    root      39664 Mar  2  2017 head
+lrwxrwxrwx  1 root    root         11 Jan 25 21:23 HEAD -> lwp-request
+-rwxr-xr-x  1 root    root       2514 Apr  8  2016 helpztags
+-rwxr-xr-x  1 root    root      14408 Jan 18 13:54 hex2hcd
+-rwxr-xr-x  1 root    root      31232 Mar  1  2016 hexdump
+-rwxr-xr-x  1 root    root      18840 Apr  7  2016 hipercdecode
+-rwxr-xr-x  1 root    root      10384 Jan 30  2016 hipstopgm
+-rwxr-xr-x  1 root    root      88440 Jan 16 11:59 host
+-rwxr-xr-x  1 root    root      27280 Mar  2  2017 hostid
+-rwxr-xr-x  1 root    root     294096 Oct 27 08:12 hostnamectl
+lrwxrwxrwx  1 root    root         23 Jan 25 21:23 hp-align -> ../share/hplip/align.py
+lrwxrwxrwx  1 root    root         23 Jan 25 21:23 hp-check -> ../share/hplip/check.py
+lrwxrwxrwx  1 root    root         23 Jan 25 21:23 hp-clean -> ../share/hplip/clean.py
+lrwxrwxrwx  1 root    root         26 Jan 25 21:23 hp-colorcal -> ../share/hplip/colorcal.py
+lrwxrwxrwx  1 root    root         36 Jan 25 21:23 hp-config_usb_printer -> ../share/hplip/config_usb_printer.py
+lrwxrwxrwx  1 root    root         24 Jan 25 21:23 hp-doctor -> ../share/hplip/doctor.py
+lrwxrwxrwx  1 root    root         26 Jan 25 21:23 hp-firmware -> ../share/hplip/firmware.py
+-rwxr-xr-x  1 root    root     660264 Mar 29  2016 hpijs
+lrwxrwxrwx  1 root    root         22 Jan 25 21:23 hp-info -> ../share/hplip/info.py
+lrwxrwxrwx  1 root    root         24 Jan 25 21:23 hp-levels -> ../share/hplip/levels.py
+lrwxrwxrwx  1 root    root         28 Jan 25 21:23 hp-logcapture -> ../share/hplip/logcapture.py
+lrwxrwxrwx  1 root    root         25 Jan 25 21:23 hp-makeuri -> ../share/hplip/makeuri.py
+lrwxrwxrwx  1 root    root         27 Jan 25 21:23 hp-pkservice -> ../share/hplip/pkservice.py
+lrwxrwxrwx  1 root    root         24 Jan 25 21:23 hp-plugin -> ../share/hplip/plugin.py
+-rwxr-xr-x  1 root    root        719 Mar 29  2016 hp-plugin-ubuntu
+lrwxrwxrwx  1 root    root         23 Jan 25 21:23 hp-probe -> ../share/hplip/probe.py
+lrwxrwxrwx  1 root    root         23 Jan 25 21:23 hp-query -> ../share/hplip/query.py
+lrwxrwxrwx  1 root    root         22 Jan 25 21:23 hp-scan -> ../share/hplip/scan.py
+lrwxrwxrwx  1 root    root         23 Jan 25 21:23 hp-setup -> ../share/hplip/setup.py
+lrwxrwxrwx  1 root    root         26 Jan 25 21:23 hp-testpage -> ../share/hplip/testpage.py
+lrwxrwxrwx  1 root    root         26 Jan 25 21:23 hp-timedate -> ../share/hplip/timedate.py
+-rwxr-xr-x  1 root    root     179448 Aug  4  2016 htop
+lrwxrwxrwx  1 root    root          7 Nov 30 18:04 i386 -> setarch
+lrwxrwxrwx  1 root    root         34 Jan 25 21:23 i686-linux-gnu-pkg-config -> /usr/share/pkg-config-crosswrapper
+-rwxr-xr-x  1 root    root      27536 Jan 19  2016 ibus
+-rwxr-xr-x  1 root    root     164152 Jan 19  2016 ibus-daemon
+-rwxr-xr-x  1 root    root       1147 Jan 19  2016 ibus-setup
+-rwxr-xr-x  1 root    root      31264 Feb 27  2016 iceauth
+-rwxr-xr-x  1 root    root      45880 Feb 10  2016 ico
+-rwxr-xr-x  1 root    root      10400 Jan 30  2016 icontopbm
+-rwxr-xr-x  1 root    root      60416 Jan 15 00:52 iconv
+-rwxr-xr-x  1 root    root      60016 Jan 27  2016 icotool
+-rwxr-xr-x  1 root    root      39760 Mar  2  2017 id
+lrwxrwxrwx  1 root    root         26 Jan 25 21:23 identify -> /etc/alternatives/identify
+lrwxrwxrwx  1 root    root         58 Jan 25 21:23 identify-im6 -> ../lib/x86_64-linux-gnu/ImageMagick-6.8.9/bin-Q16/identify
+lrwxrwxrwx  1 root    root         22 Jan 25 21:23 idlj -> /etc/alternatives/idlj
+-rwxr-xr-x  1 root    root      18848 Apr 14  2016 iecset
+-rwxr-xr-x  1 root    root       4130 Oct 23  2015 ifnames
+-rwxr-xr-x  1 root    root      23816 Nov 19  2015 ifuse
+-rwxr-xr-x  1 root    root       3189 Dec 23  2015 igawk
+-rwxr-xr-x  1 root    root      80184 Jan 30  2016 ilbmtoppm
+-rwxr-xr-x  1 root    root       1241 Jan 30  2016 imagetops
+-rwxr-xr-x  1 root    root      10811 Feb  3  2017 im-config
+-rwxr-xr-x  1 root    root      10400 Jan 30  2016 imgtoppm
+-rwxr-xr-x  1 root    root       1030 Mar 21  2015 im-launch
+lrwxrwxrwx  1 root    root         24 Jan 25 21:23 import -> /etc/alternatives/import
+lrwxrwxrwx  1 root    root         56 Jan 25 21:23 import-im6 -> ../lib/x86_64-linux-gnu/ImageMagick-6.8.9/bin-Q16/import
+-rwxr-xr-x  1 root    root     219896 Mar 12  2016 info
+lrwxrwxrwx  1 root    root         29 Jan 25 21:23 infobrowser -> /etc/alternatives/infobrowser
+-rwxr-xr-x  1 root    root      55880 Feb 19  2016 infocmp
+lrwxrwxrwx  1 root    root          3 Jan 25 21:23 infotocap -> tic
+-rwxr-xr-x  1 root    root       6922 May 19  2016 init-checkconf
+-rwxr-xr-x  1 root    root      18725 May 19  2016 initctl2dot
+-rwxr-xr-x  1 root    root      22184 Jan 10  2016 inputattach
+-rwxr-xr-x  1 root    root     138840 Mar  2  2017 install
+-rwxr-xr-x  1 root    root      44768 Mar 12  2016 install-info
+-rwxr-xr-x  1 root    root     281968 Jun 15  2014 install-menu
+-rwxr-xr-x  1 root    root         95 Mar  7  2016 install-printerdriver
+-rwxr-xr-x  1 root    root       4332 Nov 10 12:39 instmodsh
+-rwxr-xr-x  1 root    root      64808 Nov 10  2016 intel-virtual-output
+-rwxr-xr-x  1 root    root      48400 May  6  2015 interdiff
+-rwxr-xr-x  1 root    root     496301 Feb 29  2016 inxi
+-rwxr-xr-x  1 root    root      23128 Nov 30 18:04 ionice
+-rwxr-xr-x  1 root    root      23232 Nov 30 18:04 ipcmk
+-rwxr-xr-x  1 root    root      27176 Nov 30 18:04 ipcrm
+-rwxr-xr-x  1 root    root      47832 Nov 30 18:04 ipcs
+lrwxrwxrwx  1 root    root         19 Jan 25 21:23 iptables-xml -> /sbin/xtables-multi
+-rwxr-xr-x  1 root    root      10584 Jan 26  2016 ischroot
+-rwxr-xr-x  1 root    root      18832 Mar  3  2016 isdv4-serial-debugger
+-rwxr-xr-x  1 root    root      18912 Mar  3  2016 isdv4-serial-inputattach
+-rwxr-xr-x  1 root    root     163928 Nov 24  2014 isodump
+-rwxr-xr-x  1 root    root      22520 Feb 24  2016 isohybrid
+-rwxr-xr-x  1 root    root      14173 Feb 24  2016 isohybrid.pl
+-rwxr-xr-x  1 root    root     327056 Nov 24  2014 isoinfo
+-rwxr-xr-x  1 root    root     163864 Nov 24  2014 isovfy
+-rwxr-xr-x  1 root    root       7222 Oct 23  2015 ispell-wrapper
+-rwxr-xr-x  1 root    root      31360 Apr  5  2016 isql
+-rwxr-xr-x  1 root    root      23080 Apr  5  2016 iusql
+lrwxrwxrwx  1 root    root         21 Jan 25 21:23 jar -> /etc/alternatives/jar
+lrwxrwxrwx  1 root    root         27 Jan 25 21:23 jarsigner -> /etc/alternatives/jarsigner
+lrwxrwxrwx  1 root    root         22 Jan 25 21:23 java -> /etc/alternatives/java
+lrwxrwxrwx  1 root    root         23 Jan 25 21:23 javac -> /etc/alternatives/javac
+lrwxrwxrwx  1 root    root         25 Jan 25 21:23 javadoc -> /etc/alternatives/javadoc
+lrwxrwxrwx  1 root    root         23 Jan 25 21:23 javah -> /etc/alternatives/javah
+lrwxrwxrwx  1 root    root         23 Jan 25 21:23 javap -> /etc/alternatives/javap
+lrwxrwxrwx  1 root    root         22 Jan 25 21:23 jcmd -> /etc/alternatives/jcmd
+lrwxrwxrwx  1 root    root         26 Jan 25 21:23 jconsole -> /etc/alternatives/jconsole
+lrwxrwxrwx  1 root    root         21 Jan 25 21:23 jdb -> /etc/alternatives/jdb
+lrwxrwxrwx  1 root    root         23 Jan 25 21:23 jdeps -> /etc/alternatives/jdeps
+lrwxrwxrwx  1 root    root         23 Jan 25 21:23 jexec -> /etc/alternatives/jexec
+lrwxrwxrwx  1 root    root         22 Jan 25 21:23 jhat -> /etc/alternatives/jhat
+lrwxrwxrwx  1 root    root         23 Jan 25 21:23 jinfo -> /etc/alternatives/jinfo
+lrwxrwxrwx  1 root    root         21 Jan 25 21:23 jjs -> /etc/alternatives/jjs
+lrwxrwxrwx  1 root    root         22 Jan 25 21:23 jmap -> /etc/alternatives/jmap
+-rwxr-xr-x  1 root    root      47888 Mar  2  2017 join
+-rwxr-xr-x  1 root    root      27024 Jan 30  2016 jpegtopnm
+-rwxr-xr-x  1 root    root      31600 Nov 17  2014 jpgicc
+lrwxrwxrwx  1 root    root         21 Jan 25 21:23 jps -> /etc/alternatives/jps
+lrwxrwxrwx  1 root    root         28 Jan 25 21:23 jrunscript -> /etc/alternatives/jrunscript
+lrwxrwxrwx  1 root    root         27 Jan 25 21:23 jsadebugd -> /etc/alternatives/jsadebugd
+-rwxr-xr-x  1 root    root      23232 Jan 10  2016 jscal
+-rwxr-xr-x  1 root    root       1448 Jan 10  2016 jscal-restore
+-rwxr-xr-x  1 root    root       2114 Jan 10  2016 jscal-store
+-rwxr-xr-x  1 root    root       3918 Nov 10 12:39 json_pp
+lrwxrwxrwx  1 root    root         24 Jan 25 21:23 jstack -> /etc/alternatives/jstack
+lrwxrwxrwx  1 root    root         23 Jan 25 21:23 jstat -> /etc/alternatives/jstat
+lrwxrwxrwx  1 root    root         24 Jan 25 21:23 jstatd -> /etc/alternatives/jstatd
+-rwxr-xr-x  1 root    root      15160 Jan 10  2016 jstest
+-rwxr-xr-x  1 root    root      10560 Sep 22  2016 kbdinfo
+lrwxrwxrwx  1 root    root         25 Jan 25 21:23 keytool -> /etc/alternatives/keytool
+-rwxr-xr-x  1 root    root      23736 Feb  7  2016 killall
+-rwxr-xr-x  1 root    root      14968 May 18  2016 kmodsign
+-rwxr-xr-x  1 root    root       3759 Feb 17  2016 koi8rxterm
+-rwxr-xr-x  1 root    root      94024 Jan 18 13:54 l2ping
+-rwxr-xr-x  1 root    root     106568 Jan 18 13:54 l2test
+-rwxr-xr-x  1 root    root      39768 Nov 30 18:04 last
+lrwxrwxrwx  1 root    root          4 Nov 30 18:04 lastb -> last
+-rwxr-xr-x  1 root    root      14368 May 16  2017 lastlog
+-rwxr-xr-x  1 root    root      18832 Apr  7  2016 lavadecode
+-rwxr-xr-x  1 root    root       7786 Mar 16  2016 lcf
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 lconvert -> qtchooser
+lrwxrwxrwx  1 root    root         19 Nov  8 14:06 ld -> x86_64-linux-gnu-ld
+lrwxrwxrwx  1 root    root         23 Nov  8 14:06 ld.bfd -> x86_64-linux-gnu-ld.bfd
+-rwxr-xr-x  1 root    root       5421 Jan 15 00:49 ldd
+lrwxrwxrwx  1 root    root         24 Nov  8 14:06 ld.gold -> x86_64-linux-gnu-ld.gold
+-rwxr-xr-x  1 root    root     102200 Oct 22  2013 leafpad
+-rwxr-xr-x  1 root    root      10408 Jan 30  2016 leaftoppm
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 less -> /bin/less
+lrwxrwxrwx  1 root    root         13 Jan 25 21:23 lessecho -> /bin/lessecho
+lrwxrwxrwx  1 root    root         13 Jan 25 21:23 lessfile -> /bin/lessfile
+lrwxrwxrwx  1 root    root         12 Jan 25 21:23 lesskey -> /bin/lesskey
+lrwxrwxrwx  1 root    root         13 Jan 25 21:23 lesspipe -> /bin/lesspipe
+-rwxr-xr-x  1 root    root      92744 Nov  6  2015 lexgrog
+-rwxr-xr-x  1 root    root      15719 Nov 10 12:39 libnetcfg
+lrwxrwxrwx  1 root    root         34 Jan 25 21:23 libreoffice -> ../lib/libreoffice/program/soffice
+-rwxr-xr-x  1 root    root     129177 Feb  7  2016 libtoolize
+-rwxr-xr-x  1 root    root      10680 Jun 22  2017 libwacom-list-local-devices
+-rwxr-xr-x  1 root    root       1198 Apr  7  2016 lightdm-gtk-greeter-settings
+-rwxr-xr-x  1 root    root        275 Apr  6  2016 lightdm-gtk-greeter-settings-pkexec
+-rwxr-xr-x  1 root    root     105080 Dec 21  2015 light-locker
+-rwxr-xr-x  1 root    root      18968 Dec 21  2015 light-locker-command
+-rwxr-xr-x  1 root    root        120 Jul 20  2016 light-locker-settings
+-rwxr-xr-x  1 root    root      10568 Nov 30 18:04 line
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 linguist -> qtchooser
+-rwxr-xr-x  1 root    root      27280 Mar  2  2017 link
+-rwxr-xr-x  1 root    root      23136 Nov 17  2014 linkicc
+lrwxrwxrwx  1 root    root         32 Jan 25 21:23 lintian -> ../share/lintian/frontend/dplint
+lrwxrwxrwx  1 root    root         32 Jan 25 21:23 lintian-info -> ../share/lintian/frontend/dplint
+lrwxrwxrwx  1 root    root         32 Jan 25 21:23 lintian-lab-tool -> ../share/lintian/frontend/dplint
+lrwxrwxrwx  1 root    root          7 Nov 30 18:04 linux32 -> setarch
+lrwxrwxrwx  1 root    root          7 Nov 30 18:04 linux64 -> setarch
+-rwxr-xr-x  1 root    root       1577 Jan 20  2011 linux-boot-prober
+-rwxr-xr-x  1 root    root       2696 Aug  5  2015 linux-version
+-rwxr-xr-x  1 root    root      10384 Jan 30  2016 lispmtopgm
+-rwxr-xr-x  1 root    root      11032 May  6  2015 listres
+-rwxrwxr-x  1 gabriel gabriel   14208 Sep 26  2016 lite-info
+-rwxrwxr-x  1 gabriel gabriel     237 May  6  2016 lite-manual
+-rwxrwxr-x  1 root    root      17459 Dec  4 13:54 lite-software
+-rwxrwxr-x  1 root    root      11332 Dec 27 00:05 lite-sources
+-rwxrwxr-x  1 root    root      38428 May 13  2017 lite-tweaks
+-rwxrwxr-x  1 root    root      53534 May 13  2017 lite-tweaks-super
+-rwxrwxr-x  1 root    root      10243 Jun 15  2017 lite-updatesnotify
+-rwxr-xr-x  1 root    root      26599 Sep  5 02:48 lite-upgrade-series3
+-rwxr-xr-x  1 root    root      23053 Aug 29 01:26 lite-upgrade-system-series3
+-rwxr-xr-x  1 root    root      22889 Dec 30 03:21 lite-usermanager
+-rwxrwxr-x  1 gabriel gabriel   10378 Aug 14  2017 lite-welcome
+-rwxr-xr-x  1 root    root      19128 Dec  6 22:00 lnstat
+lrwxrwxrwx  1 root    root         13 Jan 25 21:23 loadkeys -> /bin/loadkeys
+-rwxr-xr-x  1 root    root      27304 Sep 22  2016 loadunimap
+-rwxr-xr-x  1 root    root         59 Apr 28  2017 localc
+-rwxr-xr-x  1 root    root      38816 Jan 15 00:52 locale
+-rwxr-xr-x  1 root    root     302304 Oct 27 08:12 localectl
+-rwxr-xr-x  1 root    root     323288 Jan 15 00:52 localedef
+lrwxrwxrwx  1 root    root         24 Jan 25 21:23 locate -> /etc/alternatives/locate
+-rwxr-xr-x  1 root    root      76224 Feb  7  2016 locate.findutils
+-rwxr-xr-x  1 root    root      14592 Dec  3  2012 lockfile-check
+-rwxr-xr-x  1 root    root      14592 Dec  3  2012 lockfile-create
+-rwxr-xr-x  1 root    root      14592 Dec  3  2012 lockfile-remove
+-rwxr-xr-x  1 root    root      14592 Dec  3  2012 lockfile-touch
+-rwxr-xr-x  1 root    root         59 Apr 28  2017 lodraw
+-rwxr-xr-x  1 root    root         53 Apr 28  2017 loffice
+-rwxr-xr-x  1 root    root         64 Apr 28  2017 lofromtemplate
+-rwxr-xr-x  1 root    root      36200 Nov 30 18:04 logger
+-rwxr-xr-x  1 root    root      27312 Mar  2  2017 logname
+-rwxr-xr-x  1 root    root         62 Apr 28  2017 loimpress
+-rwxr-xr-x  1 root    root         59 Apr 28  2017 lomath
+-rwxr-xr-x  1 root    root      10552 Mar  1  2016 look
+-rwxr-xr-x  1 root    root       2763 Mar  1  2016 lorder
+-rwxr-xr-x  1 root    root         58 Apr 28  2017 loweb
+-rwxr-xr-x  1 root    root         61 Apr 28  2017 lowriter
+-rwxr-xr-x  1 root    root      18424 Aug 22 21:26 lp
+-rwxr-xr-x  1 root    root      14408 Aug 22 21:26 lpoptions
+-rwxr-xr-x  1 root    root      14408 Aug 22 21:26 lpq
+-rwxr-xr-x  1 root    root      14328 Aug 22 21:26 lpr
+-rwxr-xr-x  1 root    root      10232 Aug 22 21:26 lprm
+-rwxr-xr-x  1 root    root      43824 Dec  8  2015 lp_solve
+-rwxr-xr-x  1 root    root      31008 Aug 22 21:26 lpstat
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 lrelease -> qtchooser
+-rwxr-xr-x  1 root    root      10576 Oct 30  2015 lsattr
+-rwxr-xr-x  1 root    root       3638 Aug 26  2015 lsb_release
+-rwxr-xr-x  1 root    root      56440 Nov 30 18:04 lscpu
+lrwxrwxrwx  1 root    root         10 Jan 25 21:23 lsdiff -> filterdiff
+-rwxr-xr-x  1 root    root     639304 Nov  2 21:27 lshw
+-rwxr-xr-x  1 root    root       2486 Dec  9  2016 lsinitramfs
+-rwxr-xr-x  1 root    root      60416 Nov 30 18:04 lsipc
+-rwxr-xr-x  1 root    root      31832 Nov 30 18:04 lslocks
+-rwxr-xr-x  1 root    root      52376 Nov 30 18:04 lslogins
+-rwxr-xr-x  1 root    root     163224 Oct 28  2015 lsof
+-rwxr-xr-x  1 root    root      73968 Feb 17  2017 lspci
+-rwxr-xr-x  1 root    root       1081 Jun 25  2014 lspgpot
+-rwxr-xr-x  1 root    root       2479 Feb 24  2016 lss16toppm
+-rwxr-xr-x  1 root    root     105128 Oct 23  2015 lsusb
+-rwxr-xr-x  1 root    root     305408 Apr 12  2016 ltrace
+-rwxr-xr-x  1 root    root      41688 May  6  2015 luit
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 lupdate -> qtchooser
+-rwxr-xr-x  1 root    root       8635 Dec  6  2015 lwp-download
+-rwxr-xr-x  1 root    root       2797 Dec  6  2015 lwp-dump
+-rwxr-xr-x  1 root    root       2478 Dec  6  2015 lwp-mirror
+-rwxr-xr-x  1 root    root      15059 Dec  6  2015 lwp-request
+-rwxr-xr-x  1 root    root        419 Feb 17  2016 lxterm
+-rwxr-xr-x  1 root    root      68080 Aug  3  2017 lxterminal
+lrwxrwxrwx  1 root    root          2 Jan 25 21:23 lz -> uz
+lrwxrwxrwx  1 root    root         23 Jan 25 21:23 lzcat -> /etc/alternatives/lzcat
+lrwxrwxrwx  1 root    root         23 Jan 25 21:23 lzcmp -> /etc/alternatives/lzcmp
+lrwxrwxrwx  1 root    root         24 Jan 25 21:23 lzdiff -> /etc/alternatives/lzdiff
+lrwxrwxrwx  1 root    root         25 Jan 25 21:23 lzegrep -> /etc/alternatives/lzegrep
+lrwxrwxrwx  1 root    root         25 Jan 25 21:23 lzfgrep -> /etc/alternatives/lzfgrep
+lrwxrwxrwx  1 root    root         24 Jan 25 21:23 lzgrep -> /etc/alternatives/lzgrep
+lrwxrwxrwx  1 root    root         24 Jan 25 21:23 lzless -> /etc/alternatives/lzless
+lrwxrwxrwx  1 root    root         22 Jan 25 21:23 lzma -> /etc/alternatives/lzma
+-rwxr-xr-x  1 root    root      10504 Feb 12  2014 lzmainfo
+lrwxrwxrwx  1 root    root         24 Jan 25 21:23 lzmore -> /etc/alternatives/lzmore
+-rwxr-xr-x  1 root    root     150688 Dec 25  2015 m4
+-rwxr-xr-x  1 root    root      10368 Jan 30  2016 macptopbm
+-rwxr-sr-x  1 root    mail      14592 Dec  3  2012 mail-lock
+-rwxr-xr-x  1 root    root        385 Mar 22  2016 mailmail
+-rwxr-sr-x  1 root    mail      14592 Dec  3  2012 mail-touchlock
+-rwxr-sr-x  1 root    mail      14592 Dec  3  2012 mail-unlock
+-rwxr-xr-x  1 root    root     207528 Feb 15  2016 make
+-rwxr-xr-x  1 root    root       4905 Feb 15  2016 make-first-existing-target
+-rwxr-xr-x  1 root    root     107008 Nov  6  2015 man
+-rwxr-xr-x  1 root    root     129760 Nov  6  2015 mandb
+-rwxr-xr-x  1 root    root        287 Mar 22  2016 manhole
+-rwxr-xr-x  1 root    root      31200 Nov  6  2015 manpath
+-rwxr-xr-x  1 root    root      19112 Sep 22  2016 mapscrn
+lrwxrwxrwx  1 root    root          6 Jan 25 21:23 mattrib -> mtools
+-rwxr-xr-x  1 root    root     117768 Mar 24  2014 mawk
+lrwxrwxrwx  1 root    root          6 Jan 25 21:23 mbadblocks -> mtools
+lrwxrwxrwx  1 root    root          6 Jan 25 21:23 mcat -> mtools
+lrwxrwxrwx  1 root    root          6 Jan 25 21:23 mcd -> mtools
+-rwxr-xr-x  1 root    root       1679 Sep  8  2016 mcheck
+lrwxrwxrwx  1 root    root          6 Jan 25 21:23 mclasserase -> mtools
+-rwxr-xr-x  1 root    root        847 Sep  8  2016 mcomp
+-rwxr-xr-x  1 root    root      27352 Nov 30 18:04 mcookie
+lrwxrwxrwx  1 root    root          6 Jan 25 21:23 mcopy -> mtools
+-rwxr-xr-x  1 root    root        587 Feb 24  2016 md5pass
+-rwxr-xr-x  1 root    root      43792 Mar  2  2017 md5sum
+lrwxrwxrwx  1 root    root          6 Jan 25 21:23 md5sum.textutils -> md5sum
+-rwxr-xr-x  1 root    root      10416 Jan 30  2016 mdatopbm
+lrwxrwxrwx  1 root    root          6 Jan 25 21:23 mdel -> mtools
+lrwxrwxrwx  1 root    root          6 Jan 25 21:23 mdeltree -> mtools
+lrwxrwxrwx  1 root    root          6 Jan 25 21:23 mdir -> mtools
+lrwxrwxrwx  1 root    root          6 Jan 25 21:23 mdu -> mtools
+-rwxr-xr-x  1 root    root      10400 Feb 24  2016 memdiskfind
+-rwxr-xr-x  1 root    root      10616 Nov 30 18:04 mesg
+-rwxr-xr-x  1 root    root     595680 Mar 23  2017 metacity
+-rwxr-xr-x  1 root    root      10520 Mar 23  2017 metacity-message
+-rwxr-xr-x  1 root    root      28664 Mar 23  2017 metacity-theme-viewer
+-rwxr-xr-x  1 root    root      33048 Mar 23  2017 metacity-window-demo
+lrwxrwxrwx  1 root    root          6 Jan 25 21:23 mformat -> mtools
+-rwxr-xr-x  1 root    root      10384 Jan 30  2016 mgrtopbm
+-rwxr-xr-x  1 root    root       8711 Jun 26  2015 mimeopen
+-rwxr-xr-x  1 root    root      12145 Jun 26  2015 mimetype
+-rwxr-xr-x  1 root    root      20120 May  6  2014 min12xxw
+lrwxrwxrwx  1 root    root          6 Jan 25 21:23 minfo -> mtools
+-rwxr-xr-x  1 root    root      32319 Jan 26  2016 miniterm.py
+-rwxr-xr-x  1 root    root       8792 Feb 24  2016 mkdiskimage
+-rwxr-xr-x  1 root    root      60368 Mar  2  2017 mkfifo
+-rwxr-xr-x  1 root    root         65 Jul  6  2017 mkfontdir
+-rwxr-xr-x  1 root    root      31824 Jul  6  2017 mkfontscale
+lrwxrwxrwx  1 root    root         11 Jan 25 21:23 mkisofs -> genisoimage
+-rwxr-xr-x  1 root    root      10632 Sep  8  2016 mkmanifest
+-rwxr-xr-x  1 root    root      16163 Sep 22  2016 mk_modmap
+-rwxr-xr-x  1 root    root      18904 Dec  8  2015 mkpasswd
+-rwxr-xr-x  1 root    root     178296 Dec 14 19:35 mksquashfs
+-rwxr-xr-x  1 root    root      23040 Nov 24  2014 mkzftree
+lrwxrwxrwx  1 root    root          6 Jan 25 21:23 mlabel -> mtools
+-rwxr-sr-x  1 root    mlocate   39520 Nov 18  2014 mlocate
+-rwxr-xr-x  1 root    root     163336 Jan 24 09:18 mmcli
+lrwxrwxrwx  1 root    root          6 Jan 25 21:23 mmd -> mtools
+lrwxrwxrwx  1 root    root          6 Jan 25 21:23 mmount -> mtools
+lrwxrwxrwx  1 root    root          6 Jan 25 21:23 mmove -> mtools
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 moc -> qtchooser
+lrwxrwxrwx  1 root    root         25 Jan 25 21:23 mogrify -> /etc/alternatives/mogrify
+lrwxrwxrwx  1 root    root         57 Jan 25 21:23 mogrify-im6 -> ../lib/x86_64-linux-gnu/ImageMagick-6.8.9/bin-Q16/mogrify
+lrwxrwxrwx  1 root    root         25 Jan 25 21:23 montage -> /etc/alternatives/montage
+lrwxrwxrwx  1 root    root         57 Jan 25 21:23 montage-im6 -> ../lib/x86_64-linux-gnu/ImageMagick-6.8.9/bin-Q16/montage
+lrwxrwxrwx  1 root    root          6 Jan 25 21:23 mpartition -> mtools
+lrwxrwxrwx  1 root    root          6 Jan 25 21:23 mrd -> mtools
+lrwxrwxrwx  1 root    root          6 Jan 25 21:23 mren -> mtools
+-rwxr-xr-x  1 root    root      10480 Jun 20  2013 mscompress
+-rwxr-xr-x  1 root    root      10480 Jun 20  2013 msexpand
+-rwxr-xr-x  1 root    root      22880 Feb 10  2016 msgattrib
+-rwxr-xr-x  1 root    root      22872 Feb 10  2016 msgcat
+-rwxr-xr-x  1 root    root      22984 Feb 10  2016 msgcmp
+-rwxr-xr-x  1 root    root      18760 Feb 10  2016 msgcomm
+-rwxr-xr-x  1 root    root      18744 Feb 10  2016 msgconv
+-rwxr-xr-x  1 root    root      18744 Feb 10  2016 msgen
+-rwxr-xr-x  1 root    root      14680 Feb 10  2016 msgexec
+-rwxr-xr-x  1 root    root      27048 Feb 10  2016 msgfilter
+-rwxr-xr-x  1 root    root      77104 Feb 10  2016 msgfmt
+-rwxr-xr-x  1 root    root      35520 Feb 10  2016 msggrep
+-rwxr-xr-x  1 root    root      44104 Feb 10  2016 msginit
+-rwxr-xr-x  1 root    root      52520 Feb 10  2016 msgmerge
+-rwxr-xr-x  1 root    root      31256 Feb 10  2016 msgunfmt
+-rwxr-xr-x  1 root    root      18752 Feb 10  2016 msguniq
+lrwxrwxrwx  1 root    root          6 Jan 25 21:23 mshortname -> mtools
+lrwxrwxrwx  1 root    root          6 Jan 25 21:23 mshowfat -> mtools
+-rwxr-xr-x  1 root    root      14752 Dec  6  2015 msibuild
+-rwxr-xr-x  1 root    root       5482 Dec  6  2015 msidiff
+-rwxr-xr-x  1 root    root       3291 Dec  6  2015 msidump
+-rwxr-xr-x  1 root    root       1949 Dec 24  2015 msiexec
+-rwxr-xr-x  1 root    root      19048 Dec  6  2015 msiextract
+-rwxr-xr-x  1 root    root      19560 Dec  6  2015 msiinfo
+-rwxr-xr-x  1 root    root     182368 Sep  8  2016 mtools
+lrwxrwxrwx  1 root    root          6 Jan 25 21:23 mtoolstest -> mtools
+-rwxr-xr-x  1 root    root      10552 Jan 26  2016 mtp-albumart
+-rwxr-xr-x  1 root    root      10472 Jan 26  2016 mtp-albums
+-rwxr-xr-x  1 root    root      27352 Jan 26  2016 mtp-connect
+lrwxrwxrwx  1 root    root         11 Jan 25 21:23 mtp-delfile -> mtp-connect
+-rwxr-xr-x  1 root    root      14672 Jan 26  2016 mtp-detect
+-rwxr-xr-x  1 root    root      10432 Jan 26  2016 mtp-emptyfolders
+-rwxr-xr-x  1 root    root      10456 Jan 26  2016 mtp-files
+-rwxr-xr-x  1 root    root      10472 Jan 26  2016 mtp-filetree
+-rwxr-xr-x  1 root    root      10448 Jan 26  2016 mtp-folders
+-rwxr-xr-x  1 root    root      10408 Jan 26  2016 mtp-format
+-rwxr-xr-x  1 root    root      31912 Apr 26  2014 mtpfs
+lrwxrwxrwx  1 root    root         11 Jan 25 21:23 mtp-getfile -> mtp-connect
+-rwxr-xr-x  1 root    root      10440 Jan 26  2016 mtp-getplaylist
+-rwxr-xr-x  1 root    root      14456 Jan 26  2016 mtp-hotplug
+lrwxrwxrwx  1 root    root         11 Jan 25 21:23 mtp-newfolder -> mtp-connect
+-rwxr-xr-x  1 root    root      10440 Jan 26  2016 mtp-newplaylist
+-rwxr-xr-x  1 root    root      10416 Jan 26  2016 mtp-playlists
+-rwxr-xr-x  1 root    root      10408 Jan 26  2016 mtp-reset
+lrwxrwxrwx  1 root    root         11 Jan 25 21:23 mtp-sendfile -> mtp-connect
+lrwxrwxrwx  1 root    root         11 Jan 25 21:23 mtp-sendtr -> mtp-connect
+-rwxr-xr-x  1 root    root      10504 Jan 26  2016 mtp-thumb
+-rwxr-xr-x  1 root    root      10472 Jan 26  2016 mtp-tracks
+-rwxr-xr-x  1 root    root      10400 Jan 26  2016 mtp-trexist
+-rwxr-xr-x  1 root    root      79528 May 12  2016 mtr
+-rwxr-xr-x  1 root    root       6495 Jan 15 00:49 mtrace
+-rwxr-xr-x  1 root    root      10376 Jan 30  2016 mtvtoppm
+lrwxrwxrwx  1 root    root          6 Jan 25 21:23 mtype -> mtools
+-rwxr-xr-x  1 root    root       1304 Apr  1  2016 mugshot
+-rwxr-xr-x  1 root    root        784 Sep  8  2016 mxtar
+lrwxrwxrwx  1 root    root          6 Jan 25 21:23 mzip -> mtools
+-rwxr-xr-x  1 root    root      27216 Nov 30 18:04 namei
+lrwxrwxrwx  1 root    root         30 Jan 25 21:23 native2ascii -> /etc/alternatives/native2ascii
+lrwxrwxrwx  1 root    root         22 Jan 25 21:23 nawk -> /etc/alternatives/nawk
+-rwxr-xr-x  1 root    root      29840 Mar  1  2016 ncal
+-rwxr-xr-x  1 root    root        339 Nov  5  2015 ndg_httpclient
+-rwxr-xr-x  1 root    root      10368 Jan 30  2016 neotoppm
+-rwxr-xr-x  1 root    root        908 Jan 29  2016 neqn
+-rwxr-xr-x  1 root    root     901064 Nov 16 10:41 net
+lrwxrwxrwx  1 root    root         26 Jan 27 01:13 netbeans -> /opt/netbeans/bin/netbeans
+-rwxr-xr-x  1 root    root      89904 May  6  2015 netkit-ftp
+-rwxr-xr-x  1 root    root     142376 Feb 28  2015 network-admin
+-rwsr-xr-x  1 root    root      39904 May 16  2017 newgrp
+-rwxr-xr-x  1 root    root      35328 Feb 10  2016 ngettext
+-rwxr-xr-x  1 root    root      35536 Mar  2  2017 nice
+-rwxr-xr-x  1 root    root      39760 Mar  2  2017 nl
+lrwxrwxrwx  1 root    root         19 Nov  8 14:06 nm -> x86_64-linux-gnu-nm
+-rwxr-xr-x  1 root    root     283592 Oct 31 17:09 nm-applet
+-rwxr-xr-x  1 root    root     116904 Nov 16 10:41 nmblookup
+-rwxr-xr-x  1 root    root     617848 Nov 16 21:59 nmcli
+-rwxr-xr-x  1 root    root     389448 Oct 31 17:09 nm-connection-editor
+-rwxr-xr-x  1 root    root      14792 Nov 16 21:59 nm-online
+-rwxr-xr-x  1 root    root     253048 Nov 16 21:59 nmtui
+lrwxrwxrwx  1 root    root          5 Nov 16 21:59 nmtui-connect -> nmtui
+lrwxrwxrwx  1 root    root          5 Nov 16 21:59 nmtui-edit -> nmtui
+lrwxrwxrwx  1 root    root          5 Nov 16 21:59 nmtui-hostname -> nmtui
+-rwxr-xr-x  1 root    root      31440 Mar  2  2017 nohup
+-rwxr-xr-x  1 root    root       1949 Dec 24  2015 notepad
+lrwxrwxrwx  1 root    root         27 Jan 27 01:23 notepadqq -> /etc/alternatives/notepadqq
+-rwxr-xr-x  1 root    root      14720 Feb 16  2015 notify-send
+-rwxr-xr-x  1 root    root      31440 Mar  2  2017 nproc
+lrwxrwxrwx  1 root    root          9 Oct 15 10:28 nqq -> notepadqq
+-rwxr-xr-x  1 root    root       3323 Jan 29  2016 nroff
+-rwxr-xr-x  1 root    root      27520 Nov 30 18:04 nsenter
+-rwxr-xr-x  1 root    root      92368 Jan 16 11:59 nslookup
+-rwxr-xr-x  1 root    root      23008 Dec  6 22:00 nstat
+-rwxr-xr-x  1 root    root      63512 Jan 16 11:59 nsupdate
+-rwxr-xr-x  1 root    root       3607 Jul 13  2014 ntfs-config
+-rwxr-xr-x  1 root    root      43128 Jan 28  2017 ntfsdecrypt
+-rwxr-xr-x  1 root    root      67656 Nov 16 10:41 ntlm_auth
+-rwxr-xr-x  1 root    root     125952 Sep  7 17:43 ntpdc
+-rwxr-xr-x  1 root    root     152480 Sep  7 17:43 ntpq
+-rwxr-xr-x  1 root    root       7981 Sep  7 17:43 ntpsweep
+-rwxr-xr-x  1 root    root       3561 Sep  7 17:43 ntptrace
+-rwxr-xr-x  1 root    root      60272 Mar  2  2017 numfmt
+-rwxr-xr-x  1 root    root      10512 Oct 25  2014 numlockx
+-rwxr-xr-x  1 root    root        270 Jan 24 12:40 nvidia-detector
+-rwxr-xr-x  1 root    root         47 Aug 11  2017 nvlc
+-rwxr-xr-x  1 root    root      18840 Apr  7  2016 oakdecode
+-rwxr-xr-x  1 root    root      92424 Jan 18 13:54 obexctl
+-rwxr-xr-x  1 root    root     156032 Feb 17  2016 obex-data-server
+lrwxrwxrwx  1 root    root         24 Nov  8 14:06 objcopy -> x86_64-linux-gnu-objcopy
+lrwxrwxrwx  1 root    root         24 Nov  8 14:06 objdump -> x86_64-linux-gnu-objdump
+-rwxr-xr-x  1 root    root      20408 Feb 10  2016 oclock
+-rwxr-xr-x  1 root    root      68432 Mar  2  2017 od
+-rwxr-xr-x  1 root    root      18888 Apr  5  2016 odbcinst
+-rwxr-xr-x  1 root    root       8341 Feb 17  2016 ods-server
+-rwxr-xr-x  1 root    root      28008 Nov 16 10:40 oLschema2ldif
+lrwxrwxrwx  1 root    root         17 Jan 25 21:23 on_ac_power -> /sbin/on_ac_power
+-rwxr-xr-x  1 root    root     559072 Dec  7 19:09 openssl
+-rwxr-xr-x  1 root    root      14728 Apr  7  2016 opldecode
+lrwxrwxrwx  1 root    root         22 Jan 25 21:23 orbd -> /etc/alternatives/orbd
+-rwxr-xr-x  1 root    root       4596 Mar 11  2016 os-prober
+-rwxr-xr-x  1 root    root      31464 Aug 26  2016 p11-kit
+-rwxr-xr-x  1 root    root       1365 Jun 15  2015 p7zip
+-rwxr-xr-x  1 root    root      44160 Nov 15 13:20 pacat
+lrwxrwxrwx  1 root    root         25 Jan 25 21:23 pack200 -> /etc/alternatives/pack200
+-rwxr-xr-x  1 root    root      14736 Nov 15 13:20 pacmd
+-rwxr-xr-x  1 root    root      60640 Nov 15 13:20 pactl
+-rwxr-xr-x  1 root    root       2259 Nov 15 13:18 padsp
+lrwxrwxrwx  1 root    root         23 Jan 25 21:23 pager -> /etc/alternatives/pager
+-rwxr-xr-x  1 root    root       2108 Mar 10  2017 painter
+-rwxr-xr-x  1 root    root       2107 Mar 10  2017 painter.py
+-rwxr-xr-x  1 root    root      18696 Jan 30  2016 palmtopnm
+-rwxr-xr-x  1 root    root      14512 Jan 30  2016 pamcut
+-rwxr-xr-x  1 root    root      10384 Jan 30  2016 pamdeinterlace
+-rwxr-xr-x  1 root    root      10416 Jan 30  2016 pamdice
+-rwxr-xr-x  1 root    root      10392 Jan 30  2016 pamfile
+-rwxr-xr-x  1 root    root      10400 Jan 30  2016 pamoil
+lrwxrwxrwx  1 root    root          5 Nov 15 13:19 pamon -> pacat
+-rwxr-xr-x  1 root    root      10400 Jan 30  2016 pamstack
+-rwxr-xr-x  1 root    root      10408 Jan 30  2016 pamstretch
+-rwxr-xr-x  1 root    root       1343 Jan 30  2016 pamstretch-gen
+-rwxr-xr-x  1 root    root      10608 Nov  4  2015 paperconf
+lrwxrwxrwx  1 root    root          5 Nov 15 13:19 paplay -> pacat
+lrwxrwxrwx  1 root    root          5 Nov 15 13:19 parec -> pacat
+lrwxrwxrwx  1 root    root          5 Nov 15 13:19 parecord -> pacat
+-rwxr-xr-x  1 root    root       8693 Oct 23  2015 parsechangelog
+-rwxr-xr-x  1 root    root      77448 Nov 30 18:04 partx
+-rwsr-xr-x  1 root    root      54256 May 16  2017 passwd
+-rwxr-xr-x  1 root    root      31440 Mar  2  2017 paste
+-rwxr-xr-x  1 root    root      14848 Nov 15 13:20 pasuspender
+-rwxr-xr-x  1 root    root     154944 Apr  3  2015 patch
+-rwxr-xr-x  1 root    root      31408 Mar  2  2017 pathchk
+-rwxr-xr-x  1 root    root     292200 Aug  7  2015 pavucontrol
+-rwxr-xr-x  1 root    root      14704 Nov 15 13:20 pax11publish
+-rwxr-xr-x  1 root    root      10400 Jan 30  2016 pbmclean
+-rwxr-xr-x  1 root    root      10360 Jan 30  2016 pbmlife
+-rwxr-xr-x  1 root    root      10360 Jan 30  2016 pbmmake
+-rwxr-xr-x  1 root    root      10376 Jan 30  2016 pbmmask
+-rwxr-xr-x  1 root    root      10384 Jan 30  2016 pbmpage
+-rwxr-xr-x  1 root    root      10520 Jan 30  2016 pbmpscale
+-rwxr-xr-x  1 root    root      10440 Jan 30  2016 pbmreduce
+-rwxr-xr-x  1 root    root      10440 Jan 30  2016 pbmtext
+-rwxr-xr-x  1 root    root      14600 Jan 30  2016 pbmtextps
+-rwxr-xr-x  1 root    root      10392 Jan 30  2016 pbmto10x
+-rwxr-xr-x  1 root    root      10648 Jan 30  2016 pbmtoascii
+-rwxr-xr-x  1 root    root      10392 Jan 30  2016 pbmtoatk
+-rwxr-xr-x  1 root    root      10352 Jan 30  2016 pbmtobbnbg
+-rwxr-xr-x  1 root    root      10384 Jan 30  2016 pbmtocmuwm
+-rwxr-xr-x  1 root    root      10344 Jan 30  2016 pbmtoepsi
+-rwxr-xr-x  1 root    root       6248 Jan 30  2016 pbmtoepson
+-rwxr-xr-x  1 root    root      13560 Jan 30  2016 pbmtog3
+-rwxr-xr-x  1 root    root      10400 Jan 30  2016 pbmtogem
+-rwxr-xr-x  1 root    root      10392 Jan 30  2016 pbmtogo
+-rwxr-xr-x  1 root    root      10376 Jan 30  2016 pbmtoicon
+-rwxr-xr-x  1 root    root      10440 Jan 30  2016 pbmtolj
+-rwxr-xr-x  1 root    root      10384 Jan 30  2016 pbmtomacp
+-rwxr-xr-x  1 root    root      10416 Jan 30  2016 pbmtomda
+-rwxr-xr-x  1 root    root      10360 Jan 30  2016 pbmtomgr
+-rwxr-xr-x  1 root    root      10408 Jan 30  2016 pbmtonokia
+-rwxr-xr-x  1 root    root      10376 Jan 30  2016 pbmtopgm
+-rwxr-xr-x  1 root    root      10368 Jan 30  2016 pbmtopi3
+-rwxr-xr-x  1 root    root       6240 Jan 30  2016 pbmtoplot
+-rwxr-xr-x  1 root    root      35064 Jan 30  2016 pbmtoppa
+-rwxr-xr-x  1 root    root      12120 Jan 30  2016 pbmtopsg3
+-rwxr-xr-x  1 root    root       6256 Jan 30  2016 pbmtoptx
+-rwxr-xr-x  1 root    root      10344 Jan 30  2016 pbmtowbmp
+-rwxr-xr-x  1 root    root      10392 Jan 30  2016 pbmtox10bm
+-rwxr-xr-x  1 root    root      10392 Jan 30  2016 pbmtoxbm
+-rwxr-xr-x  1 root    root      10360 Jan 30  2016 pbmtoybm
+-rwxr-xr-x  1 root    root      10392 Jan 30  2016 pbmtozinc
+-rwxr-xr-x  1 root    root      18544 Jan 30  2016 pbmupc
+-rwxr-xr-x  1 root    root       3845 Feb 17  2016 pcf2vpnc
+-rwxr-xr-x  1 root    root      14936 Feb 17  2017 pcimodules
+-rwxr-xr-x  1 root    root      18624 Jan 30  2016 pcxtoppm
+lrwxrwxrwx  1 root    root          6 Nov 23 22:52 pdb -> pdb2.7
+lrwxrwxrwx  1 root    root         23 Dec  4 16:14 pdb2.7 -> ../lib/python2.7/pdb.py
+lrwxrwxrwx  1 root    root          6 Jan 25 21:23 pdb3 -> pdb3.5
+lrwxrwxrwx  1 root    root         23 Nov 28 14:53 pdb3.5 -> ../lib/python3.5/pdb.py
+-rwxr-xr-x  1 root    root      36504 Nov 16 10:40 pdbedit
+-rwxr-xr-x  1 root    root        698 Aug 24 19:35 pdf2dsc
+-rwxr-xr-x  1 root    root        909 Aug 24 19:35 pdf2ps
+-rwxr-xr-x  1 root    root      14992 Jan  4 17:51 pdfdetach
+-rwxr-xr-x  1 root    root      14528 Jan  4 17:51 pdffonts
+-rwxr-xr-x  1 root    root      43200 Jan  4 17:51 pdfimages
+-rwxr-xr-x  1 root    root      26816 Jan  4 17:51 pdfinfo
+-rwxr-xr-x  1 root    root      14408 Jan  4 17:51 pdfseparate
+-rwxr-xr-x  1 root    root     116840 Jan  4 17:51 pdftocairo
+-rwxr-xr-x  1 root    root      84072 Jan  4 17:51 pdftohtml
+-rwxr-xr-x  1 root    root      18536 Jan  4 17:51 pdftoppm
+-rwxr-xr-x  1 root    root      18632 Jan  4 17:51 pdftops
+-rwxr-xr-x  1 root    root      30928 Jan  4 17:51 pdftotext
+-rwxr-xr-x  1 root    root      26696 Jan  4 17:51 pdfunite
+-rwxr-xr-x  1 root    root      10552 Feb  7  2016 peekfd
+-rwxr-xr-x  2 root    root    1907192 Nov 10 12:39 perl
+-rwxr-xr-x  2 root    root    1907192 Nov 10 12:39 perl5.22.1
+-rwxr-xr-x  1 root    root      10496 Nov 10 12:39 perl5.22-x86_64-linux-gnu
+-rwxr-xr-x  2 root    root      45355 Nov 10 12:39 perlbug
+-rwxr-xr-x  1 root    root        125 Nov 10 12:39 perldoc
+-rwxr-xr-x  1 root    root      10823 Nov 10 12:39 perlivp
+-rwxr-xr-x  2 root    root      45355 Nov 10 12:39 perlthanks
+-rwxr-xr-x  1 root    root        498 Aug 24 19:35 pf2afm
+-rwxr-xr-x  1 root    root        516 Aug 24 19:35 pfbtopfa
+lrwxrwxrwx  1 root    root         22 Jan 25 21:23 pftp -> /etc/alternatives/pftp
+-rwxr-xr-x  1 root    root      39840 Nov 30 18:04 pg
+-rwxr-xr-x  1 root    root       6256 Jan 30  2016 pgmbentley
+-rwxr-xr-x  1 root    root      14584 Jan 30  2016 pgmcrater
+-rwxr-xr-x  1 root    root      10376 Jan 30  2016 pgmedge
+-rwxr-xr-x  1 root    root      10368 Jan 30  2016 pgmenhance
+-rwxr-xr-x  1 root    root      10384 Jan 30  2016 pgmhist
+-rwxr-xr-x  1 root    root      10360 Jan 30  2016 pgmkernel
+-rwxr-xr-x  1 root    root      10376 Jan 30  2016 pgmnoise
+lrwxrwxrwx  1 root    root          7 Jan 25 21:23 pgmnorm -> pnmnorm
+lrwxrwxrwx  1 root    root          6 Jan 25 21:23 pgmoil -> pamoil
+-rwxr-xr-x  1 root    root      10352 Jan 30  2016 pgmramp
+-rwxr-xr-x  1 root    root      10360 Jan 30  2016 pgmslice
+-rwxr-xr-x  1 root    root      26816 Jan 30  2016 pgmtexture
+-rwxr-xr-x  1 root    root      10384 Jan 30  2016 pgmtofs
+-rwxr-xr-x  1 root    root      10392 Jan 30  2016 pgmtolispm
+-rwxr-xr-x  1 root    root      17048 Jan 30  2016 pgmtopbm
+-rwxr-xr-x  1 root    root      10392 Jan 30  2016 pgmtoppm
+-rwxr-xr-x  1 root    root      27280 Nov 21  2016 pgrep
+-rwxr-xr-x  1 root    root       6264 Jan 30  2016 pi1toppm
+-rwxr-xr-x  1 root    root      10384 Jan 30  2016 pi3topbm
+-rwxr-xr-x  1 root    root     200736 Jan 29  2016 pic
+lrwxrwxrwx  1 root    root         22 Jan 25 21:23 pico -> /etc/alternatives/pico
+-rwxr-xr-x  1 root    root       8319 Nov 10 12:39 piconv
+-rwxr-xr-x  1 root    root       2359 Mar 10  2017 pilconvert
+-rwxr-xr-x  1 root    root       2358 Mar 10  2017 pilconvert.py
+-rwxr-xr-x  1 root    root      15575 Mar 10  2017 pildriver
+-rwxr-xr-x  1 root    root      15574 Mar 10  2017 pildriver.py
+-rwxr-xr-x  1 root    root       2667 Mar 10  2017 pilfile
+-rwxr-xr-x  1 root    root       2666 Mar 10  2017 pilfile.py
+-rwxr-xr-x  1 root    root       1028 Mar 10  2017 pilfont
+-rwxr-xr-x  1 root    root       1027 Mar 10  2017 pilfont.py
+-rwxr-xr-x  1 root    root       2538 Mar 10  2017 pilprint
+-rwxr-xr-x  1 root    root       2537 Mar 10  2017 pilprint.py
+lrwxrwxrwx  1 root    root         26 Jan 25 21:23 pinentry -> /etc/alternatives/pinentry
+-rwxr-xr-x  1 root    root      61048 Feb  6  2016 pinentry-gnome3
+lrwxrwxrwx  1 root    root         30 Jan 25 21:23 pinentry-x11 -> /etc/alternatives/pinentry-x11
+-rwxr-xr-x  1 root    root      35696 Mar  2  2017 pinky
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 pixeltool -> qtchooser
+-rwxr-xr-x  1 root    root      10464 Jan 30  2016 pjtoppm
+-rwxr-xr-x  1 root    root      10640 Jan 17  2016 pkaction
+-rwxr-xr-x  1 root    root      19104 Jan 17  2016 pkcheck
+-rwsr-xr-x  1 root    root      23376 Jan 17  2016 pkexec
+-rwxr-xr-x  1 root    root      47944 Apr  6  2016 pkg-config
+lrwxrwxrwx  1 root    root          5 Jan 25 21:23 pkill -> pgrep
+-rwxr-xr-x  1 root    root      14784 Jan 17  2016 pkttyagent
+-rwxr-xr-x  1 root    root       4531 Nov 10 12:39 pl2pm
+-rwxr-xr-x  1 root    root       2174 Mar 10  2017 player
+-rwxr-xr-x  1 root    root       2173 Mar 10  2017 player.py
+-rwxr-xr-x  1 root    root         62 Oct  6  2009 playonlinux
+-rwxr-xr-x  1 root    root         66 Oct  6  2009 playonlinux-pkg
+-rwxr-xr-x  1 root    root      14944 Jan 15 00:52 pldd
+-rwxr-xr-x  1 root    root        146 Jan 27  2016 plog
+-rwxr-xr-x  1 root    root      31344 Nov 21  2016 pmap
+-rwxr-xr-x  1 root    root        981 Feb 15  2016 pm-is-supported
+-rwxr-xr-x  1 root    root      23016 Jan 30  2016 pngtopnm
+-rwxr-xr-x  1 root    root     628760 Aug  6  2014 pnm2ppa
+-rwxr-xr-x  1 root    root      10392 Jan 30  2016 pnmalias
+-rwxr-xr-x  1 root    root      10392 Jan 30  2016 pnmarith
+-rwxr-xr-x  1 root    root      10416 Jan 30  2016 pnmcat
+-rwxr-xr-x  1 root    root      14568 Jan 30  2016 pnmcolormap
+-rwxr-xr-x  1 root    root      10440 Jan 30  2016 pnmcomp
+-rwxr-xr-x  1 root    root      39088 Jan 30  2016 pnmconvol
+-rwxr-xr-x  1 root    root      10488 Jan 30  2016 pnmcrop
+-rwxr-xr-x  1 root    root      14512 Jan 30  2016 pnmcut
+-rwxr-xr-x  1 root    root      10384 Jan 30  2016 pnmdepth
+-rwxr-xr-x  1 root    root      10384 Jan 30  2016 pnmenlarge
+-rwxr-xr-x  1 root    root      10392 Jan 30  2016 pnmfile
+-rwxr-xr-x  1 root    root      10440 Jan 30  2016 pnmflip
+-rwxr-xr-x  1 root    root      10424 Jan 30  2016 pnmgamma
+-rwxr-xr-x  1 root    root      10432 Jan 30  2016 pnmhisteq
+-rwxr-xr-x  1 root    root      10416 Jan 30  2016 pnmhistmap
+-rwxr-xr-x  1 root    root       4601 Jan 30  2016 pnmindex
+lrwxrwxrwx  1 root    root         10 Jan 25 21:23 pnminterp -> pamstretch
+lrwxrwxrwx  1 root    root         14 Jan 25 21:23 pnminterp-gen -> pamstretch-gen
+-rwxr-xr-x  1 root    root       6272 Jan 30  2016 pnminvert
+-rwxr-xr-x  1 root    root       1768 Jan 30  2016 pnmmargin
+-rwxr-xr-x  1 root    root      14552 Jan 30  2016 pnmmontage
+-rwxr-xr-x  1 root    root      18672 Jan 30  2016 pnmnlfilt
+lrwxrwxrwx  1 root    root         13 Jan 25 21:23 pnmnoraw -> pnmtoplainpnm
+-rwxr-xr-x  1 root    root      10408 Jan 30  2016 pnmnorm
+-rwxr-xr-x  1 root    root      10432 Jan 30  2016 pnmpad
+-rwxr-xr-x  1 root    root      10400 Jan 30  2016 pnmpaste
+-rwxr-xr-x  1 root    root      10376 Jan 30  2016 pnmpsnr
+-rwxr-xr-x  1 root    root       3203 Jan 30  2016 pnmquant
+-rwxr-xr-x  1 root    root      14624 Jan 30  2016 pnmremap
+-rwxr-xr-x  1 root    root      14552 Jan 30  2016 pnmrotate
+-rwxr-xr-x  1 root    root      18608 Jan 30  2016 pnmscale
+-rwxr-xr-x  1 root    root      14512 Jan 30  2016 pnmscalefixed
+-rwxr-xr-x  1 root    root      10416 Jan 30  2016 pnmshear
+-rwxr-xr-x  1 root    root      10424 Jan 30  2016 pnmsmooth
+-rwxr-xr-x  1 root    root      10464 Jan 30  2016 pnmsplit
+-rwxr-xr-x  1 root    root      10368 Jan 30  2016 pnmtile
+-rwxr-xr-x  1 root    root      14560 Jan 30  2016 pnmtoddif
+-rwxr-xr-x  1 root    root     201208 Jan 30  2016 pnmtofiasco
+-rwxr-xr-x  1 root    root      10368 Jan 30  2016 pnmtofits
+-rwxr-xr-x  1 root    root      18808 Jan 30  2016 pnmtojpeg
+-rwxr-xr-x  1 root    root      18672 Jan 30  2016 pnmtopalm
+-rwxr-xr-x  1 root    root       6264 Jan 30  2016 pnmtoplainpnm
+-rwxr-xr-x  1 root    root      31408 Jan 30  2016 pnmtopng
+-rwxr-xr-x  1 root    root      18664 Jan 30  2016 pnmtops
+-rwxr-xr-x  1 root    root      10432 Jan 30  2016 pnmtorast
+-rwxr-xr-x  1 root    root      43656 Jan 30  2016 pnmtorle
+-rwxr-xr-x  1 root    root      14528 Jan 30  2016 pnmtosgi
+-rwxr-xr-x  1 root    root      10352 Jan 30  2016 pnmtosir
+-rwxr-xr-x  1 root    root      18728 Jan 30  2016 pnmtotiff
+-rwxr-xr-x  1 root    root      18680 Jan 30  2016 pnmtotiffcmyk
+-rwxr-xr-x  1 root    root      10424 Jan 30  2016 pnmtoxwd
+-rwxr-xr-x  1 root    root       8673 Jan  7  2016 po2debconf
+-rwxr-xr-x  1 root    root       4096 Nov 10 12:39 pod2html
+-rwxr-xr-x  1 root    root      13843 Nov 10 12:39 pod2man
+-rwxr-xr-x  1 root    root      11003 Nov 10 12:39 pod2text
+-rwxr-xr-x  1 root    root       3670 Nov 10 12:39 pod2usage
+-rwxr-xr-x  1 root    root       3699 Nov 10 12:39 podchecker
+-rwxr-xr-x  1 root    root      12977 Jan 10  2015 podebconf-display-po
+-rwxr-xr-x  1 root    root      32524 Jan 10  2015 podebconf-report-po
+-rwxr-xr-x  1 root    root       2527 Nov 10 12:39 podselect
+-rwxr-xr-x  1 root    root       2837 Jan 27  2016 poff
+lrwxrwxrwx  1 root    root         28 Jan 25 21:23 policytool -> /etc/alternatives/policytool
+-rwxr-xr-x  1 root    root       1362 Jan 27  2016 pon
+lrwxrwxrwx  1 root    root         11 Jan 25 21:23 POST -> lwp-request
+-rwxr-xr-x  1 root    root      18520 Aug 22 21:26 ppdc
+-rwxr-xr-x  1 root    root      10328 Aug 22 21:26 ppdhtml
+-rwxr-xr-x  1 root    root      10328 Aug 22 21:26 ppdi
+-rwxr-xr-x  1 root    root      14408 Aug 22 21:26 ppdmerge
+-rwxr-xr-x  1 root    root      10328 Aug 22 21:26 ppdpo
+-rwxr-xr-x  1 root    root        404 Aug 24 19:35 pphs
+-rwxr-xr-x  1 root    root      14472 Jan 30  2016 ppm3d
+-rwxr-xr-x  1 root    root      10408 Jan 30  2016 ppmbrighten
+-rwxr-xr-x  1 root    root      10376 Jan 30  2016 ppmchange
+-rwxr-xr-x  1 root    root      22800 Jan 30  2016 ppmcie
+-rwxr-xr-x  1 root    root      10400 Jan 30  2016 ppmcolormask
+-rwxr-xr-x  1 root    root       6256 Jan 30  2016 ppmcolors
+-rwxr-xr-x  1 root    root      10384 Jan 30  2016 ppmdim
+-rwxr-xr-x  1 root    root      10392 Jan 30  2016 ppmdist
+-rwxr-xr-x  1 root    root      10432 Jan 30  2016 ppmdither
+-rwxr-xr-x  1 root    root      11661 Jan 30  2016 ppmfade
+-rwxr-xr-x  1 root    root      10384 Jan 30  2016 ppmflash
+-rwxr-xr-x  1 root    root      22768 Jan 30  2016 ppmforge
+-rwxr-xr-x  1 root    root      10376 Jan 30  2016 ppmhist
+-rwxr-xr-x  1 root    root      10432 Jan 30  2016 ppmlabel
+-rwxr-xr-x  1 root    root       6256 Jan 30  2016 ppmmake
+-rwxr-xr-x  1 root    root      10384 Jan 30  2016 ppmmix
+lrwxrwxrwx  1 root    root          7 Jan 25 21:23 ppmnorm -> pnmnorm
+-rwxr-xr-x  1 root    root      10416 Jan 30  2016 ppmntsc
+-rwxr-xr-x  1 root    root      22784 Jan 30  2016 ppmpat
+-rwxr-xr-x  1 root    root      18680 Jan 30  2016 ppmquant
+-rwxr-xr-x  1 root    root       2072 Jan 30  2016 ppmquantall
+-rwxr-xr-x  1 root    root      14512 Jan 30  2016 ppmqvga
+-rwxr-xr-x  1 root    root       1706 Jan 30  2016 ppmrainbow
+-rwxr-xr-x  1 root    root      10368 Jan 30  2016 ppmrelief
+-rwxr-xr-x  1 root    root       6832 Jan 30  2016 ppmshadow
+-rwxr-xr-x  1 root    root      10416 Jan 30  2016 ppmshift
+-rwxr-xr-x  1 root    root      10400 Jan 30  2016 ppmspread
+-rwxr-xr-x  1 root    root      15408 Jan 30  2016 ppmtoacad
+-rwxr-xr-x  1 root    root      14600 Jan 30  2016 ppmtobmp
+-rwxr-xr-x  1 root    root      10400 Jan 30  2016 ppmtoeyuv
+-rwxr-xr-x  1 root    root      18672 Jan 30  2016 ppmtogif
+-rwxr-xr-x  1 root    root      10440 Jan 30  2016 ppmtoicr
+-rwxr-xr-x  1 root    root      39368 Jan 30  2016 ppmtoilbm
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 ppmtojpeg -> pnmtojpeg
+-rwxr-xr-x  1 root    root      10392 Jan 30  2016 ppmtoleaf
+-rwxr-xr-x  1 root    root      10400 Jan 30  2016 ppmtolj
+-rwxr-xr-x  1 root    root       9599 Feb 24  2016 ppmtolss16
+-rwxr-xr-x  1 root    root         81 Jan 30  2016 ppmtomap
+-rwxr-xr-x  1 root    root      18640 Jan 30  2016 ppmtomitsu
+-rwxr-xr-x  1 root    root     547456 Jan 30  2016 ppmtompeg
+-rwxr-xr-x  1 root    root      10400 Jan 30  2016 ppmtoneo
+-rwxr-xr-x  1 root    root      14536 Jan 30  2016 ppmtopcx
+-rwxr-xr-x  1 root    root      10360 Jan 30  2016 ppmtopgm
+-rwxr-xr-x  1 root    root      10392 Jan 30  2016 ppmtopi1
+-rwxr-xr-x  1 root    root      10408 Jan 30  2016 ppmtopict
+-rwxr-xr-x  1 root    root      10392 Jan 30  2016 ppmtopj
+-rwxr-xr-x  1 root    root      10392 Jan 30  2016 ppmtopuzz
+-rwxr-xr-x  1 root    root      10384 Jan 30  2016 ppmtorgb3
+-rwxr-xr-x  1 root    root      10400 Jan 30  2016 ppmtosixel
+-rwxr-xr-x  1 root    root      10432 Jan 30  2016 ppmtotga
+-rwxr-xr-x  1 root    root      10472 Jan 30  2016 ppmtouil
+-rwxr-xr-x  1 root    root      14616 Jan 30  2016 ppmtowinicon
+-rwxr-xr-x  1 root    root      14640 Jan 30  2016 ppmtoxpm
+-rwxr-xr-x  1 root    root      10360 Jan 30  2016 ppmtoyuv
+-rwxr-xr-x  1 root    root      10384 Jan 30  2016 ppmtoyuvsplit
+-rwxr-xr-x  1 root    root      10384 Jan 30  2016 ppmtv
+-rwxr-xr-x  1 root    root      76752 Mar  2  2017 pr
+-rwxr-xr-x  1 root    root       5656 Feb  7  2016 precat
+-rwxr-xr-x  1 root    root      43208 Jan 29  2016 preconv
+-rwxr-xr-x  1 root    root       2987 Nov 10 12:39 prename
+-rwxr-xr-x  1 root    root       5656 Feb  7  2016 preunzip
+-rwxr-xr-x  1 root    root       5656 Feb  7  2016 prezip
+-rwxr-xr-x  1 root    root      10488 Feb  7  2016 prezip-bin
+lrwxrwxrwx  1 root    root         11 Jan 25 21:23 print -> run-mailcap
+-rwxr-xr-x  1 root    root        395 Aug 24 19:35 printafm
+-rwxr-xr-x  1 root    root      31376 Mar  2  2017 printenv
+-rwxr-xr-x  1 root    root      18704 Mar  1  2016 printerbanner
+-rwxr-xr-x  1 root    root       5640 Apr  7  2016 printer-profile
+-rwxr-xr-x  1 root    root      47856 Mar  2  2017 printf
+-rwxr-xr-x  1 root    root      32056 Nov 30 18:04 prlimit
+-rwxr-xr-x  1 root    root      43000 Nov 16 10:40 profiles
+-rwxr-xr-x  1 root    root      13550 Nov 10 12:39 prove
+-rwxr-xr-x  1 root    root      10488 Feb 16  2016 proxy
+-rwxr-xr-x  1 root    root      14696 Feb  7  2016 prtstat
+-rwxr-xr-x  1 root    root        740 Aug 24 19:35 ps2ascii
+-rwxr-xr-x  1 root    root       2794 Aug 24 19:35 ps2epsi
+-rwxr-xr-x  1 root    root        272 Aug 24 19:35 ps2pdf
+-rwxr-xr-x  1 root    root        215 Aug 24 19:35 ps2pdf12
+-rwxr-xr-x  1 root    root        215 Aug 24 19:35 ps2pdf13
+-rwxr-xr-x  1 root    root        215 Aug 24 19:35 ps2pdf14
+-rwxr-xr-x  1 root    root       1097 Aug 24 19:35 ps2pdfwr
+-rwxr-xr-x  1 root    root        647 Aug 24 19:35 ps2ps
+-rwxr-xr-x  1 root    root        669 Aug 24 19:35 ps2ps2
+lrwxrwxrwx  1 root    root          8 Jan 25 21:23 ps2txt -> ps2ascii
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 psfaddtable -> psfxtable
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 psfgettable -> psfxtable
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 psfstriptable -> psfxtable
+-rwxr-xr-x  1 root    root      18864 Sep 22  2016 psfxtable
+-rwxr-xr-x  1 root    root      18888 Nov 17  2014 psicc
+-rwxr-xr-x  1 root    root      10384 Jan 30  2016 psidtopgm
+-rwxr-xr-x  1 root    root      18768 Jan 30  2016 pstopnm
+-rwxr-xr-x  1 root    root      27464 Feb  7  2016 pstree
+lrwxrwxrwx  1 root    root          6 Jan 25 21:23 pstree.x11 -> pstree
+-rwxr-xr-x  2 root    root      36607 Nov 10 12:39 pstruct
+-rwxr-xr-x  1 root    root       3524 Nov 10 12:39 ptar
+-rwxr-xr-x  1 root    root       2590 Nov 10 12:39 ptardiff
+-rwxr-xr-x  1 root    root       4354 Nov 10 12:39 ptargrep
+-rwxr-xr-x  1 root    root      68560 Mar  2  2017 ptx
+-rwxr-xr-x  1 root    root      88224 Nov 15 13:20 pulseaudio
+-rwxr-xr-x  1 root    root      10608 Nov 21  2016 pwdx
+-rwxr-xr-x  1 root    root      11220 Feb 24  2016 pxelinux-options
+-rwxr-xr-x  1 root    root       7806 Mar 23  2016 py3clean
+-rwxr-xr-x  1 root    root      12113 Mar 23  2016 py3compile
+lrwxrwxrwx  1 root    root         31 Jan 25 21:23 py3versions -> ../share/python3/py3versions.py
+lrwxrwxrwx  1 root    root         26 Jan 25 21:23 pybuild -> ../share/dh-python/pybuild
+-rwxr-xr-x  1 root    root       4124 Nov 23 22:52 pyclean
+-rwxr-xr-x  1 root    root      11895 Nov 23 22:52 pycompile
+lrwxrwxrwx  1 root    root          8 Nov 23 22:52 pydoc -> pydoc2.7
+-rwxr-xr-x  1 root    root         79 Dec  4 16:11 pydoc2.7
+lrwxrwxrwx  1 root    root          8 Jan 25 21:23 pydoc3 -> pydoc3.5
+-rwxr-xr-x  1 root    root         79 Nov 28 14:51 pydoc3.5
+lrwxrwxrwx  1 root    root         12 Nov 23 22:52 pygettext -> pygettext2.7
+-rwxr-xr-x  1 root    root      22097 Dec  4 16:11 pygettext2.7
+lrwxrwxrwx  1 root    root         12 Jan 25 21:23 pygettext3 -> pygettext3.5
+-rwxr-xr-x  1 root    root      22256 Nov 28 14:51 pygettext3.5
+-rwxr-xr-x  1 root    root        217 Mar 22  2016 pyhtmlizer
+lrwxrwxrwx  1 root    root          9 Nov 23 22:52 python -> python2.7
+lrwxrwxrwx  1 root    root          9 Nov 23 22:52 python2 -> python2.7
+-rwxr-xr-x  1 root    root    3492656 Dec  4 16:14 python2.7
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 python3 -> python3.5
+-rwxr-xr-x  2 root    root    4464400 Nov 28 14:53 python3.5
+-rwxr-xr-x  2 root    root    4464400 Nov 28 14:53 python3.5m
+lrwxrwxrwx  1 root    root         10 Jan 25 21:23 python3m -> python3.5m
+lrwxrwxrwx  1 root    root         29 Nov 23 22:52 pyversions -> ../share/python/pyversions.py
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 qcollectiongenerator -> qtchooser
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 qdbus -> qtchooser
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 qdbuscpp2xml -> qtchooser
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 qdbusviewer -> qtchooser
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 qdbusxml2cpp -> qtchooser
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 qdoc -> qtchooser
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 qdoc3 -> qtchooser
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 qglinfo -> qtchooser
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 qhelpconverter -> qtchooser
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 qhelpgenerator -> qtchooser
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 qlalr -> qtchooser
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 qmake -> qtchooser
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 qml -> qtchooser
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 qml1plugindump -> qtchooser
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 qmlbundle -> qtchooser
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 qmleasing -> qtchooser
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 qmlimportscanner -> qtchooser
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 qmllint -> qtchooser
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 qmlmin -> qtchooser
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 qmlplugindump -> qtchooser
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 qmlprofiler -> qtchooser
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 qmlscene -> qtchooser
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 qmltestrunner -> qtchooser
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 qmlviewer -> qtchooser
+-rwxr-xr-x  1 root    root      84152 Nov 17  2015 qpdf
+-rwxr-xr-x  1 root    root      18840 Apr  7  2016 qpdldecode
+-rwxr-xr-x  1 root    root      10376 Jan 30  2016 qrttoppm
+-rwxr-xr-x  1 root    root      39640 Dec  8  2015 qtchooser
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 qtconfig -> qtchooser
+lrwxrwxrwx  1 root    root         40 Jan 25 21:23 qtconfig-qt4 -> ../lib/x86_64-linux-gnu/qt4/bin/qtconfig
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 qtdiag -> qtchooser
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 qtpaths -> qtchooser
+-rwxr-xr-x  1 root    root       2453 Jan 24 12:40 quirks-handler
+-rwxr-xr-x  1 root    root         43 Aug 11  2017 qvlc
+lrwxrwxrwx  1 root    root         23 Nov  8 14:06 ranlib -> x86_64-linux-gnu-ranlib
+-rwxr-xr-x  1 root    root      10408 Sep  3  2014 rarian-example
+-rwxr-xr-x  1 root    root       1495 Sep  3  2014 rarian-sk-config
+-rwxr-xr-x  1 root    root        564 Sep  3  2014 rarian-sk-extract
+-rwxr-xr-x  1 root    root       6280 Sep  3  2014 rarian-sk-gen-uuid
+-rwxr-xr-x  1 root    root      72504 Sep  3  2014 rarian-sk-get-cl
+-rwxr-xr-x  1 root    root        400 Sep  3  2014 rarian-sk-get-content-list
+-rwxr-xr-x  1 root    root        420 Sep  3  2014 rarian-sk-get-extended-content-list
+-rwxr-xr-x  1 root    root        383 Sep  3  2014 rarian-sk-get-scripts
+-rwxr-xr-x  1 root    root       1172 Sep  3  2014 rarian-sk-install
+-rwxr-xr-x  1 root    root      80696 Sep  3  2014 rarian-sk-migrate
+-rwxr-xr-x  1 root    root      56064 Sep  3  2014 rarian-sk-preinstall
+-rwxr-xr-x  1 root    root        822 Sep  3  2014 rarian-sk-rebuild
+-rwxr-xr-x  1 root    root       9526 Sep  3  2014 rarian-sk-update
+-rwxr-xr-x  1 root    root      10384 Jan 30  2016 rasttopnm
+-rwxr-xr-x  1 root    root      10424 Jan 30  2016 rawtopgm
+-rwxr-xr-x  1 root    root      10376 Jan 30  2016 rawtoppm
+lrwxrwxrwx  1 root    root          9 Jan 25 21:23 rcc -> qtchooser
+lrwxrwxrwx  1 root    root         21 Jan 25 21:23 rcp -> /etc/alternatives/rcp
+-rwxr-xr-x  1 root    root     140712 Jan 18 13:54 rctest
+-rwxr-xr-x  1 root    root      18432 Oct 25  2014 rdate
+-rwxr-xr-x  1 root    root       8930 Dec  7  2015 rdiffdir
+lrwxrwxrwx  1 root    root         24 Nov  8 14:06 readelf -> x86_64-linux-gnu-readelf
+-rwxr-xr-x  1 root    root      60240 Mar  2  2017 realpath
+-rwxr-xr-x  1 root    root      14624 Feb 10  2016 recode-sr-latin
+-rwxr-xr-x  1 root    root       3445 May  6  2015 recountdiff
+-rwxr-xr-x  1 root    root      35552 May  6  2015 rediff
+-rwxr-xr-x  1 root    root       1949 Dec 24  2015 regedit
+-rwxr-xr-x  1 root    root       1949 Dec 24  2015 regsvr32
+lrwxrwxrwx  1 root    root         24 Jan 25 21:23 rename -> /etc/alternatives/rename
+-rwxr-xr-x  1 root    root      14752 Nov 30 18:04 rename.ul
+-rwxr-xr-x  1 root    root      49208 Feb 10  2016 rendercheck
+-rwxr-xr-x  1 root    root      10624 Nov 30 18:04 renice
+-rwxr-xr-x  1 root    root       2081 Dec  2  2015 report-hw
+lrwxrwxrwx  1 root    root          4 Jan 25 21:23 reset -> tset
+-rwxr-xr-x  1 root    root      18848 Feb 17  2016 resize
+-rwxr-xr-x  1 root    root      19048 Sep 22  2016 resizecons
+-rwxr-xr-x  1 root    root      35696 Nov 30 18:04 resizepart
+-rwxr-xr-x  1 root    root      10632 Nov 30 18:04 rev
+-rwxr-xr-x  1 root    root     102904 Jan 18 13:54 rfcomm
+-rwxr-xr-x  1 root    root      10368 Jan 30  2016 rgb3toppm
+-rwxr-xr-x  1 root    root         30 Mar  4  2016 rgrep
+-rwxr-xr-x  1 root    root     225576 May  8  2015 ristretto
+-rwxr-xr-x  1 root    root      31336 Jan 30  2016 rletopnm
+lrwxrwxrwx  1 root    root         24 Jan 25 21:23 rlogin -> /etc/alternatives/rlogin
+lrwxrwxrwx  1 root    root         22 Jan 25 21:23 rmic -> /etc/alternatives/rmic
+lrwxrwxrwx  1 root    root         22 Jan 25 21:23 rmid -> /etc/alternatives/rmid
+lrwxrwxrwx  1 root    root         29 Jan 25 21:23 rmiregistry -> /etc/alternatives/rmiregistry
+-rwxr-xr-x  1 root    root        173 Nov  3  2015 routef
+-rwxr-xr-x  1 root    root       1262 Nov  3  2015 routel
+-rwxr-xr-x  1 root    root     963960 Nov 16 10:41 rpcclient
+-rwxr-xr-x  1 root    root      93120 Jan 15 00:52 rpcgen
+lrwxrwxrwx  1 root    root         21 Jan 25 21:23 rsh -> /etc/alternatives/rsh
+-rwxr-xr-x  1 root    root       2610 May  6  2015 rstart
+-rwxr-xr-x  1 root    root       1469 May  6  2015 rstartd
+-rwxr-xr-x  1 root    root     491736 Jan 18 19:01 rsync
+lrwxrwxrwx  1 root    root          6 Dec  6 22:00 rtstat -> lnstat
+-rwxr-xr-x  1 root    root      35632 Mar  2  2017 runcon
+-rwxr-xr-x  1 root    root      17975 Oct 30  2015 run-mailcap
+-rwxr-xr-x  1 root    root         57 Feb  7  2016 run-with-aspell
+lrwxrwxrwx  1 root    root         23 Jan 25 21:23 rview -> /etc/alternatives/rview
+lrwxrwxrwx  1 root    root         22 Jan 26 22:32 rvim -> /etc/alternatives/rvim
+-rwxr-xr-x  1 root    root         42 Aug 11  2017 rvlc
+-rwxr-xr-x  1 root    root      97464 Nov 16 10:41 samba-regedit
+-rwxr-xr-x  1 root    root       1554 Nov 16 10:40 samba-tool
+-rwxr-xr-x  1 root    root     113632 May  4  2017 sane-find-scanner
+-rwxr-xr-x  1 root    root      10469 Jan 26  2016 savelog
+-rwxr-xr-x  1 root    root      47984 May 18  2016 sbattach
+-rwxr-xr-x  1 root    root      10536 Jan 30  2016 sbigtopgm
+-rwxr-xr-x  1 root    root      56464 May 18  2016 sbkeysync
+-rwxr-xr-x  1 root    root      48048 May 18  2016 sbsiglist
+-rwxr-xr-x  1 root    root      48080 May 18  2016 sbsign
+-rwxr-xr-x  1 root    root      52336 May 18  2016 sbvarsign
+-rwxr-xr-x  1 root    root      52176 May 18  2016 sbverify
+-rwxr-xr-x  1 root    root      47896 May  4  2017 scanimage
+lrwxrwxrwx  1 root    root         27 Jan 25 21:23 schemagen -> /etc/alternatives/schemagen
+-rwxr-xr-x  1 root    root      80016 Jan 18 12:16 scp
+-rwxr-xr-x  1 root    root         90 Mar  7  2016 scp-dbus-service
+-rwxr-xr-x  1 root    root      10576 Sep 22  2016 screendump
+-rwxr-xr-x  1 root    root      23200 Nov 30 18:04 script
+-rwxr-xr-x  1 root    root      14744 Nov 30 18:04 scriptreplay
+lrwxrwxrwx  1 root    root         16 Jan 25 21:23 scrollkeeper-config -> rarian-sk-config
+lrwxrwxrwx  1 root    root         17 Jan 25 21:23 scrollkeeper-extract -> rarian-sk-extract
+lrwxrwxrwx  1 root    root         18 Jan 25 21:23 scrollkeeper-gen-seriesid -> rarian-sk-gen-uuid
+lrwxrwxrwx  1 root    root         16 Jan 25 21:23 scrollkeeper-get-cl -> rarian-sk-get-cl
+lrwxrwxrwx  1 root    root         26 Jan 25 21:23 scrollkeeper-get-content-list -> rarian-sk-get-content-list
+lrwxrwxrwx  1 root    root         35 Jan 25 21:23 scrollkeeper-get-extended-content-list -> rarian-sk-get-extended-content-list
+lrwxrwxrwx  1 root    root         21 Jan 25 21:23 scrollkeeper-get-index-from-docpath -> rarian-sk-get-scripts
+lrwxrwxrwx  1 root    root         21 Jan 25 21:23 scrollkeeper-get-toc-from-docpath -> rarian-sk-get-scripts
+lrwxrwxrwx  1 root    root         21 Jan 25 21:23 scrollkeeper-get-toc-from-id -> rarian-sk-get-scripts
+lrwxrwxrwx  1 root    root         17 Jan 25 21:23 scrollkeeper-install -> rarian-sk-install
+lrwxrwxrwx  1 root    root         20 Jan 25 21:23 scrollkeeper-preinstall -> rarian-sk-preinstall
+lrwxrwxrwx  1 root    root         17 Jan 25 21:23 scrollkeeper-rebuilddb -> rarian-sk-rebuild
+lrwxrwxrwx  1 root    root         17 Jan 25 21:23 scrollkeeper-uninstall -> rarian-sk-install
+lrwxrwxrwx  1 root    root         16 Jan 25 21:23 scrollkeeper-update -> rarian-sk-update
+-rwxr-xr-x  1 root    root      27960 Oct 24  2015 scrot
+-rwxr-xr-x  1 root    root      44304 Oct 23  2015 sctp_darn
+-rwxr-xr-x  1 root    root      23104 Oct 23  2015 sctp_status
+-rwxr-xr-x  1 root    root      31368 Oct 23  2015 sctp_test
+-rwxr-xr-x  1 root    root      47904 Dec 26  2015 sdiff
+-rwxr-xr-x  1 root    root     205720 Jan 18 13:54 sdptool
+lrwxrwxrwx  1 root    root         11 Jan 25 21:23 see -> run-mailcap
+-rwxr-xr-x  1 root    root        474 Oct 23  2015 select-default-iwrap
+-rwxr-xr-x  1 root    root       1215 Jun 17  2013 select-editor
+-rwxr-xr-x  1 root    root       1436 Jun 17  2013 sensible-browser
+-rwxr-xr-x  1 root    root       1109 Jun 17  2013 sensible-editor
+-rwxr-xr-x  1 root    root        288 Jun 17  2013 sensible-pager
+-rwxr-xr-x  1 root    root      23048 Oct  2  2015 sensors
+-rwxr-xr-x  1 root    root      14027 Oct  2  2015 sensors-conf-convert
+-rwxr-xr-x  1 root    root      47856 Mar  2  2017 seq
+lrwxrwxrwx  1 root    root         27 Jan 25 21:23 serialver -> /etc/alternatives/serialver
+lrwxrwxrwx  1 root    root         28 Jan 25 21:23 servertool -> /etc/alternatives/servertool
+-rwxr-xr-x  1 root    root       1059 Mar 16  2016 session-installer
+-rwxr-xr-x  1 root    root      14864 May  7  2015 session-migration
+-rwxr-xr-x  1 root    root      10600 Feb 27  2016 sessreg
+-rwxr-xr-x  1 root    root      14720 Nov 30 18:04 setarch
+-rwxr-xr-x  1 root    root      18424 Mar  6  2017 setcifsacl
+lrwxrwxrwx  1 root    root         12 Jan 25 21:23 setfacl -> /bin/setfacl
+-rwxr-xr-x  1 root    root      15096 Sep  9  2014 setfattr
+-rwxr-xr-x  1 root    root      10536 Sep 22  2016 setkeycodes
+-rwxr-xr-x  1 root    root      10568 Sep 22  2016 setleds
+-rwxr-xr-x  1 root    root      10520 Sep 22  2016 setlogcons
+-rwxr-xr-x  1 root    root      10616 Sep 22  2016 setmetamode
+-rwxr-xr-x  1 root    root      23008 Feb 17  2017 setpci
+-rwxr-xr-x  1 root    root      10624 Nov 30 18:04 setsid
+-rwxr-xr-x  1 root    root      35440 Nov 30 18:04 setterm
+-rwxr-xr-x  1 root    root      23344 May  6  2015 setxkbmap
+-rwxr-xr-x  1 root    root     133488 Jan 18 12:16 sftp
+lrwxrwxrwx  1 root    root          6 Jan 25 21:23 sg -> newgrp
+-rwxr-xr-x  1 root    root      14568 Jan 30  2016 sgitopnm
+-rwxr-xr-x  1 root    root        594 Feb 24  2016 sha1pass
+-rwxr-xr-x  1 root    root      43792 Mar  2  2017 sha1sum
+-rwxr-xr-x  1 root    root      51984 Mar  2  2017 sha224sum
+-rwxr-xr-x  1 root    root      51984 Mar  2  2017 sha256sum
+-rwxr-xr-x  1 root    root      56080 Mar  2  2017 sha384sum
+-rwxr-xr-x  1 root    root      56080 Mar  2  2017 sha512sum
+-rwxr-xr-x  1 root    root      99968 Feb 28  2015 shares-admin
+-rwxr-xr-x  1 root    root      30792 Nov 16 10:40 sharesec
+-rwxr-xr-x  1 root    root       9332 Nov 10 12:39 shasum
+-rwxr-xr-x  1 root    root      18840 Sep 22  2016 showconsolefont
+-rwxr-xr-x  1 root    root      14632 May  6  2015 showfont
+-rwxr-xr-x  1 root    root      14680 Sep 22  2016 showkey
+-rwxr-xr-x  1 root    root       6400 Feb 27  2016 showrgb
+-rwxr-xr-x  1 root    root      56240 Mar  2  2017 shred
+-rwxr-xr-x  1 root    root      56144 Mar  2  2017 shuf
+-rwxr-xr-x  1 root    root     383192 Mar 20  2016 simple-scan
+-rwxr-xr-x  1 root    root      10400 Jan 30  2016 sirtopnm
+lrwxrwxrwx  1 root    root         21 Nov  8 14:06 size -> x86_64-linux-gnu-size
+-rwxr-xr-x  1 root    root      23152 Nov 21  2016 skill
+-rwxr-xr-x  1 root    root        322 Jan  4 13:34 skypeforlinux
+-rwxr-xr-x  1 root    root      18912 Nov 21  2016 slabtop
+-rwxr-xr-x  1 root    root      14640 Jan 30  2016 sldtoppm
+lrwxrwxrwx  1 root    root          3 Jan 18 12:16 slogin -> ssh
+-rwxr-xr-x  1 root    root      18856 Apr  7  2016 slxdecode
+-rwxr-xr-x  1 root    root      38992 Nov 16 10:41 smbcacls
+-rwxr-xr-x  1 root    root     141792 Nov 16 10:41 smbclient
+-rwxr-xr-x  1 root    root      51672 Nov 16 10:40 smbcontrol
+-rwxr-xr-x  1 root    root      22520 Nov 16 10:41 smbcquotas
+-rwxr-xr-x  1 root    root      22528 Nov 16 10:41 smbget
+-rwxr-xr-x  1 root    root      30712 Nov 16 10:41 smbpasswd
+-rwxr-xr-x  1 root    root      14328 Nov 16 10:41 smbspool
+-rwxr-xr-x  1 root    root      26824 Nov 16 10:41 smbspool_krb5_wrapper
+-rwxr-xr-x  1 root    root      26624 Nov 16 10:40 smbstatus
+-rwxr-xr-x  1 root    root       4896 Jul 21  2015 smbtar
+-rwxr-xr-x  1 root    root      10232 Nov 16 10:40 smbta-util
+-rwxr-xr-x  1 root    root      14336 Nov 16 10:41 smbtree
+-rwxr-xr-x  1 root    root      23088 May  6  2015 smproxy
+lrwxrwxrwx  1 root    root          5 Jan 25 21:23 snice -> skill
+-rwxr-xr-x  1 root    root      30920 Jan 29  2016 soelim
+lrwxrwxrwx  1 root    root         34 Jan 25 21:23 soffice -> ../lib/libreoffice/program/soffice
+-rwxr-xr-x  1 root    root       4259 May  8  2017 software-properties-gtk
+-rwxr-xr-x  1 root    root     110040 Mar  2  2017 sort
+-rwxr-xr-x  1 root    root       4307 Jan 15 00:49 sotruss
+-rwxr-xr-x  1 root    root      10376 Jan 30  2016 spctoppm
+-rwxr-xr-x  1 root    root      31536 Apr 14  2016 speaker-test
+lrwxrwxrwx  1 root    root         32 Jan 25 21:23 spellintian -> ../share/lintian/frontend/dplint
+-rwxr-xr-x  1 root    root      18768 Nov 10 12:39 splain
+-rwxr-xr-x  1 root    root      69024 Mar  2  2017 split
+-rwxr-xr-x  1 root    root       3461 May  6  2015 splitdiff
+-rwxr-xr-x  1 root    root      10512 Sep 22  2016 splitfont
+lrwxrwxrwx  1 root    root         24 Dec  6 14:23 spotify -> ../share/spotify/spotify
+-rwxr-xr-x  1 root    root      23256 Jan 15 00:52 sprof
+-rwxr-xr-x  1 root    root      10352 Jan 30  2016 sputoppm
+-rwxr-xr-x  1 root    root     707248 Jan 18 12:16 ssh
+-rwxr-xr-x  1 root    root     338136 Jan 18 12:16 ssh-add
+-rwxr-sr-x  1 root    ssh      358624 Jan 18 12:16 ssh-agent
+-rwxr-xr-x  1 root    root       1456 Mar 16  2017 ssh-argv0
+-rwxr-xr-x  1 root    root      10360 Mar  9  2016 ssh-copy-id
+-rwxr-xr-x  1 root    root     399600 Jan 18 12:16 ssh-keygen
+-rwxr-xr-x  1 root    root     411888 Jan 18 12:16 ssh-keyscan
+-rwxr-xr-x  1 root    root      10424 Jan 30  2016 st4topgm
+-rwxr-xr-x  1 root    root       1293 Nov 15 13:18 start-pulseaudio-x11
+-rwxr-xr-x  1 root    root       5517 Apr 26  2016 startx
+-rwxr-xr-x  1 root    root       2966 May 25  2015 startxfce4
+-rwxr-xr-x  1 root    root      80944 Mar  2  2017 stat
+-rwxr-xr-x  1 root    root      64336 Mar  2  2017 stdbuf
+-rwxr-xr-x  1 root    root     866480 Jan 13  2016 strace
+lrwxrwxrwx  1 root    root         24 Jan 25 21:24 stream -> /etc/alternatives/stream
+lrwxrwxrwx  1 root    root         56 Jan 25 21:24 stream-im6 -> ../lib/x86_64-linux-gnu/ImageMagick-6.8.9/bin-Q16/stream
+lrwxrwxrwx  1 root    root         24 Nov  8 14:06 strings -> x86_64-linux-gnu-strings
+lrwxrwxrwx  1 root    root         22 Nov  8 14:06 strip -> x86_64-linux-gnu-strip
+-rwsr-xr-x  1 root    root     136808 Jul  4  2017 sudo
+lrwxrwxrwx  1 root    root          4 Jan 25 21:24 sudoedit -> sudo
+-rwxr-xr-x  1 root    root      47680 Jul  4  2017 sudoreplay
+-rwxr-xr-x  1 root    root      39672 Mar  2  2017 sum
+-rwxr-xr-x  1 root    root       3120 Jun 15  2014 su-to-root
+-rwxr-xr-x  1 root    root         46 Aug 11  2017 svlc
+-rwxr-xr-x  1 root    root         43 Jan 11  2016 synaptic-pkexec
+-rwxr-xr-x  1 root    root      18312 Mar  3  2016 synclient
+-rwxr-xr-x  1 root    root      18992 Mar  3  2016 syndaemon
+-rwxr-xr-x  1 root    root     200584 Feb 24  2016 syslinux
+-rwxr-xr-x  1 root    root       1421 Feb 24  2016 syslinux2ansi
+-rwxr-xr-x  1 root    root     868248 May 16  2016 systemback
+-rwxr-xr-x  1 root    root      77080 May 16  2016 systemback-cli
+lrwxrwxrwx  1 root    root         27 Jan 25 21:24 systemback-sustart -> ../lib/systemback/sbsustart
+-rwxr-xr-x  1 root    root         95 Mar  7  2016 system-config-printer
+-rwxr-xr-x  1 root    root         80 Mar  7  2016 system-config-printer-applet
+-rwxr-xr-x  1 root    root    1487008 Oct 27 08:12 systemd-analyze
+-rwxr-xr-x  1 root    root      35256 Oct 27 08:12 systemd-cat
+-rwxr-xr-x  1 root    root     294112 Oct 27 08:12 systemd-cgls
+-rwxr-xr-x  1 root    root     310568 Oct 27 08:12 systemd-cgtop
+-rwxr-xr-x  1 root    root      64088 Oct 27 08:12 systemd-delta
+-rwxr-xr-x  1 root    root      35248 Oct 27 08:12 systemd-detect-virt
+-rwxr-xr-x  1 root    root      43440 Oct 27 08:12 systemd-path
+-rwxr-xr-x  1 root    root     335064 Oct 27 08:12 systemd-resolve
+-rwxr-xr-x  1 root    root     376344 Oct 27 08:12 systemd-run
+-rwxr-xr-x  1 root    root     351440 Oct 27 08:12 systemd-stdio-bridge
+-rwxr-xr-x  1 root    root      39072 Jan  4  2016 t1ascii
+-rwxr-xr-x  1 root    root      44224 Jan  4  2016 t1asm
+-rwxr-xr-x  1 root    root      39040 Jan  4  2016 t1binary
+-rwxr-xr-x  1 root    root      43096 Jan  4  2016 t1disasm
+-rwxr-xr-x  1 root    root      47328 Jan  4  2016 t1mac
+-rwxr-xr-x  1 root    root      43304 Jan  4  2016 t1unmac
+-rwxr-xr-x  1 root    root      14576 Feb 19  2016 tabs
+-rwxr-xr-x  1 root    root      35568 Mar  2  2017 tac
+-rwxr-xr-x  1 root    root      64432 Mar  2  2017 tail
+-rwxr-xr-x  1 root    root        244 Mar 22  2016 tap2deb
+-rwxr-xr-x  1 root    root        325 Mar 22  2016 tap2rpm
+-rwxr-xr-x  1 root    root      18917 Jan  2  2016 tasksel
+-rwxr-xr-x  1 root    root      31416 Nov 30 18:04 taskset
+-rwxr-xr-x  1 root    root     121032 Jan 29  2016 tbl
+lrwxrwxrwx  1 root    root          8 Jan 25 21:24 tclsh -> tclsh8.6
+-rwxr-xr-x  1 root    root       6224 Mar 29  2016 tclsh8.6
+lrwxrwxrwx  1 root    root         27 Jan 25 21:24 tdbbackup -> /etc/alternatives/tdbbackup
+-rwxr-xr-x  1 root    root      10504 Mar 14  2016 tdbbackup.tdbtools
+-rwxr-xr-x  1 root    root      10416 Mar 14  2016 tdbdump
+-rwxr-xr-x  1 root    root      10416 Mar 14  2016 tdbrestore
+-rwxr-xr-x  1 root    root      19288 Mar 14  2016 tdbtool
+lrwxrwxrwx  1 root    root         40 Dec  1 09:13 teamviewer -> /opt/teamviewer/tv_bin/script/teamviewer
+-rwxr-xr-x  1 root    root      35568 Mar  2  2017 tee
+lrwxrwxrwx  1 root    root         24 Jan 25 21:24 telnet -> /etc/alternatives/telnet
+-rwxr-xr-x  1 root    root      99840 May  6  2015 telnet.netkit
+-rwxr-xr-x  1 root    root      47824 Mar  2  2017 test
+-rwxr-xr-x  1 root    root      26616 Nov 16 10:41 testparm
+-rwxr-xr-x  1 root    root      14504 Jan 30  2016 tgatoppm
+-rwxr-xr-x  1 root    root       2295 Sep  8  2016 tgz
+-rwxr-xr-x  1 root    root      18704 Jan 30  2016 thinkjettopbm
+-rwxr-xr-x  1 root    root       1795 Mar 10  2017 thresholder
+-rwxr-xr-x  1 root    root       1794 Mar 10  2017 thresholder.py
+-rwxr-xr-x  1 root    root     769896 Jun  8  2017 thunar
+lrwxrwxrwx  1 root    root          6 Jan 25 21:23 Thunar -> thunar
+-rwxr-xr-x  1 root    root        333 Jun  8  2017 thunar-settings
+-rwxr-xr-x  1 root    root      43432 May  7  2015 thunar-volman
+-rwxr-xr-x  1 root    root      38984 May  7  2015 thunar-volman-settings
+lrwxrwxrwx  1 root    root         33 Nov 22 15:18 thunderbird -> ../lib/thunderbird/thunderbird.sh
+-rwxr-xr-x  1 root    root      72408 Feb 19  2016 tic
+-rwxr-xr-x  1 root    root      18680 Jan 30  2016 tifftopnm
+-rwxr-xr-x  1 root    root      31576 Nov 17  2014 tificc
+-rwxr-xr-x  1 root    root      15072 Jul 22  2015 time
+-rwxr-xr-x  1 root    root     119440 Feb 28  2015 time-admin
+-rwxr-xr-x  1 root    root     302304 Oct 27 08:12 timedatectl
+-rwxr-xr-x  1 root    root      56704 Mar  2  2017 timeout
+-rwxr-xr-x  1 root    root        329 Mar 22  2016 tkconch
+-rwxr-xr-x  1 root    root      14784 Nov 21  2016 tload
+lrwxrwxrwx  1 root    root         27 Jan 25 21:24 tnameserv -> /etc/alternatives/tnameserv
+-rwxr-xr-x  1 root    root      14688 Feb 19  2016 toe
+-rwxr-xr-x  1 root    root     109064 Nov 21  2016 top
+-rwxr-xr-x  1 root    root      95160 May 22  2012 toshset
+lrwxrwxrwx  1 root    root         10 Jan 25 21:24 touch -> /bin/touch
+-rwxr-xr-x  1 root    root      14648 Feb 19  2016 tput
+-rwxr-xr-x  1 root    root      47856 Mar  2  2017 tr
+-rwxr-xr-x  1 root    root      14680 May  7  2014 tracepath
+-rwxr-xr-x  1 root    root      14688 May  7  2014 tracepath6
+lrwxrwxrwx  1 root    root         29 Jan 25 21:24 traceroute6 -> /etc/alternatives/traceroute6
+-rwxr-xr-x  1 root    root      23104 May  7  2014 traceroute6.iputils
+-rwxr-xr-x  1 root    root      35600 Nov 17  2014 transicc
+-rwxr-xr-x  1 root    root      19424 Feb 10  2016 transset
+-rwxr-xr-x  1 root    root      85664 Oct 25  2014 tree
+-rwxr-xr-x  1 root    root        482 Mar 22  2016 trial
+-rwxr-xr-x  1 root    root     712032 Jan 29  2016 troff
+-rwxr-xr-x  1 root    root      52016 Mar  2  2017 truncate
+-rwxr-xr-x  1 root    root     175624 Aug 26  2016 trust
+-rwxr-xr-x  1 root    root      18864 Feb 19  2016 tset
+-rwxr-xr-x  1 root    root      35504 Mar  2  2017 tsort
+-rwxr-xr-x  1 root    root      10624 Jan 12  2017 ttfread
+-rwxr-xr-x  1 root    root      27312 Mar  2  2017 tty
+-rwxr-xr-x  1 root    root        399 Mar 22  2016 twistd
+-rwxr-xr-x  1 root    root      15209 Jan 15 00:49 tzselect
+-rwxr-xr-x  1 root    root       3262 Nov 10 17:42 ubiquity
+-rwxr-xr-x  1 root    root       3242 Jul 24  2017 ubiquity-bluetooth-agent
+-rwxr-xr-x  1 root    root      33479 Jul 24  2017 ubiquity-dm
+-rwxr-xr-x  1 root    root       5278 Jan 24 12:40 ubuntu-drivers
+-rwxr-xr-x  1 root    root       7232 Oct 17 19:25 ubuntu-support-status
+-rwxr-xr-x  1 root    root      40636 Mar 16  2016 ucf
+-rwxr-xr-x  1 root    root      19367 Mar 16  2016 ucfq
+-rwxr-xr-x  1 root    root      10722 Mar 16  2016 ucfr
+-rwxr-xr-x  1 root    root      18832 Jul  6  2017 ucs2any
+-rwxr-xr-x  1 root    root      52520 Apr  1  2016 udisksctl
+lrwxrwxrwx  1 root    root          9 Jan 25 21:24 uic -> qtchooser
+lrwxrwxrwx  1 root    root          9 Jan 25 21:24 uic3 -> qtchooser
+-rwxr-xr-x  1 root    root      14648 Mar  1  2016 ul
+-rwxr-xr-x  1 root    root     175176 May  4  2017 umax_pp
+-rwxr-xr-x  1 root    root      31472 Mar  2  2017 unexpand
+-rwxr-xr-x  1 root    root        530 Sep 22  2016 unicode_stop
+-rwxr-xr-x  1 root    root      43792 Mar  2  2017 uniq
+-rwxr-xr-x  1 root    root      10560 Jul  1  2016 unity-scope-loader
+-rwxr-xr-x  1 root    root      27280 Mar  2  2017 unlink
+lrwxrwxrwx  1 root    root         24 Jan 25 21:24 unlzma -> /etc/alternatives/unlzma
+-rwxr-xr-x  1 root    root         52 Apr 28  2017 unopkg
+lrwxrwxrwx  1 root    root         27 Jan 25 21:24 unpack200 -> /etc/alternatives/unpack200
+lrwxrwxrwx  1 root    root         23 Jan 25 21:24 unrar -> /etc/alternatives/unrar
+-rwxr-xr-x  1 root    root     290848 Aug 10  2015 unrar-nonfree
+-rwxr-xr-x  1 root    root      19168 Nov 30 18:04 unshare
+-rwxr-xr-x  1 root    root      94872 Dec 14 19:35 unsquashfs
+-rwxr-xr-x  1 root    root       5940 May  6  2015 unwrapdiff
+lrwxrwxrwx  1 root    root          2 Jan 25 21:24 unxz -> xz
+-rwxr-xr-x  1 root    root     162688 Nov 20  2015 unzip
+-rwxr-xr-x  1 root    root      76592 Nov 20  2015 unzipsfx
+-rwxr-xr-x  1 root    root      47728 Oct 25 10:57 update-alternatives
+lrwxrwxrwx  1 root    root         26 Jan 25 21:24 updatedb -> /etc/alternatives/updatedb
+-rwxr-xr-x  1 root    root       9135 Feb  7  2016 updatedb.findutils
+-rwxr-xr-x  1 root    root      43768 Nov 18  2014 updatedb.mlocate
+-rwxr-xr-x  1 root    root      19144 Feb 23  2017 update-desktop-database
+-rwxr-xr-x  1 root    root       5637 Nov 27  2015 update-gconf-defaults
+-rwxr-xr-x  1 root    root      11510 Sep  7 17:43 update-leap
+-rwxr-xr-x  1 root    root     130632 Jun 15  2014 update-menus
+-rwxr-xr-x  1 root    root        672 Jun  9  2016 update-mime-database
+-rwxr-xr-x  1 root    root      52392 Jun  9  2016 update-mime-database.real
+-rwxr-xr-x  1 root    root      14824 Jun 15  2016 upower
+-rwxr-xr-x  1 root    root      10576 Nov 21  2016 uptime
+-rwxr-xr-x  1 root    root       4216 Oct 23  2015 usb-devices
+-rwxr-xr-x  1 root    root      23088 Oct 23  2015 usbhid-dump
+-rwxr-xr-x  1 root    root      10504 Apr  7  2016 usb_printerid
+-rwxr-xr-x  1 root    root      31440 Mar  2  2017 users
+-rwxr-xr-x  1 root    root     149792 Feb 28  2015 users-admin
+-rwxr-xr-x  1 root    root         90 Mar 11  2016 user-setup
+-rwxr-xr-x  1 root    root      14872 Nov 30 18:04 utmpdump
+-rwxr-xr-x  1 root    root      10600 Nov 30 18:04 uuidgen
+-rwxr-xr-x  1 root    root       3674 Feb 17  2016 uxterm
+-rwxr-xr-x  1 root    root       2496 Sep  8  2016 uz
+lrwxrwxrwx  1 root    root         27 Nov  9 22:18 vboxballoonctrl -> ../share/virtualbox/VBox.sh
+lrwxrwxrwx  1 root    root         27 Nov  9 22:18 VBoxBalloonCtrl -> ../share/virtualbox/VBox.sh
+-rwxr-xr-x  1 root    root     791592 Nov  9 22:19 VBoxClient
+lrwxrwxrwx  1 root    root         27 Nov  9 22:18 vboxheadless -> ../share/virtualbox/VBox.sh
+lrwxrwxrwx  1 root    root         27 Nov  9 22:18 VBoxHeadless -> ../share/virtualbox/VBox.sh
+lrwxrwxrwx  1 root    root         26 Nov  9 22:18 vbox-img -> ../lib/virtualbox/vbox-img
+lrwxrwxrwx  1 root    root         27 Nov  9 22:18 vboxmanage -> ../share/virtualbox/VBox.sh
+lrwxrwxrwx  1 root    root         27 Nov  9 22:18 VBoxManage -> ../share/virtualbox/VBox.sh
+lrwxrwxrwx  1 root    root         27 Nov  9 22:18 vboxsdl -> ../share/virtualbox/VBox.sh
+lrwxrwxrwx  1 root    root         27 Nov  9 22:18 VBoxSDL -> ../share/virtualbox/VBox.sh
+lrwxrwxrwx  1 root    root         27 Nov  9 22:18 vboxwebsrv -> ../share/virtualbox/VBox.sh
+lrwxrwxrwx  1 root    root         20 Jan 25 21:24 vi -> /etc/alternatives/vi
+lrwxrwxrwx  1 root    root         22 Jan 25 21:24 view -> /etc/alternatives/view
+-rwxr-xr-x  1 root    root        968 Mar 10  2017 viewer
+-rwxr-xr-x  1 root    root        967 Mar 10  2017 viewer.py
+-rwxr-xr-x  1 root    root      24088 May  6  2015 viewres
+lrwxrwxrwx  1 root    root         21 Jan 26 22:32 vim -> /etc/alternatives/vim
+-rwxr-xr-x  1 root    root    2437320 Nov 24  2016 vim.basic
+lrwxrwxrwx  1 root    root         25 Jan 26 22:32 vimdiff -> /etc/alternatives/vimdiff
+-rwxr-xr-x  1 root    root    1064592 Nov 24  2016 vim.tiny
+-rwxr-xr-x  1 root    root       2084 Nov 24  2016 vimtutor
+lrwxrwxrwx  1 root    root         27 Nov  9 22:18 virtualbox -> ../share/virtualbox/VBox.sh
+lrwxrwxrwx  1 root    root         27 Nov  9 22:18 VirtualBox -> ../share/virtualbox/VBox.sh
+-rwxr-xr-x  1 root    root      14792 Aug 11  2017 vlc
+-rwxr-xr-x  1 root    root      10616 Aug 11  2017 vlc-wrapper
+-rwxr-xr-x  1 root    root      31216 Nov 21  2016 vmstat
+-rwxr-xr-x  1 root    root      10680 Mar  3  2016 vmwarectrl
+-rwxr-xr-x  1 root    root      10232 Mar 27  2017 volname
+lrwxrwxrwx  1 root    root         19 Jan 25 21:24 w -> /etc/alternatives/w
+-rwxr-sr-x  1 root    tty       27368 Nov 30 18:04 wall
+-rwxr-xr-x  1 root    root      23696 Nov 21  2016 watch
+-rwxr-xr-x  1 root    root      52296 Nov 16 10:41 wbinfo
+-rwxr-xr-x  1 root    root      10352 Jan 30  2016 wbmptopbm
+-rwxr-xr-x  1 root    root      43832 Mar  2  2017 wc
+-rwxr-xr-x  1 root    root        286 Aug 24 19:35 wftopfa
+-rwxr-xr-x  1 root    root     474656 Oct 24 09:16 wget
+-rwxr-xr-x  1 root    root      48104 Nov  6  2015 whatis
+-rwxr-xr-x  1 root    root      23648 Nov 30 18:04 whereis
+lrwxrwxrwx  1 root    root         10 Jan 25 21:24 which -> /bin/which
+-rwxr-xr-x  1 root    root      47984 Mar  2  2017 who
+-rwxr-xr-x  1 root    root      27312 Mar  2  2017 whoami
+-rwxr-xr-x  1 root    root      74272 Dec  8  2015 whois
+-rwxr-xr-x  1 root    root     422992 Dec 24  2015 widl
+-rwxr-xr-x  1 root    root       9752 Dec 24  2015 wine
+-rwxr-xr-x  1 root    root    1059064 Dec 24  2015 wine64
+-rwxr-xr-x  1 root    root    2110248 Dec 24  2015 wine64-preloader
+lrwxrwxrwx  1 root    root          4 Dec 24  2015 wine-auto -> wine
+-rwxr-xr-x  1 root    root       1949 Dec 24  2015 wineboot
+-rwxr-xr-x  1 root    root     117344 Dec 24  2015 winebuild
+-rwxr-xr-x  1 root    root       1949 Dec 24  2015 winecfg
+-rwxr-xr-x  1 root    root       1949 Dec 24  2015 wineconsole
+lrwxrwxrwx  1 root    root          7 Dec 24  2015 winecpp -> winegcc
+-rwxr-xr-x  1 root    root       1949 Dec 24  2015 winedbg
+-rwxr-xr-x  1 root    root     175008 Dec 24  2015 winedump
+-rwxr-xr-x  1 root    root       1949 Dec 24  2015 winefile
+lrwxrwxrwx  1 root    root          7 Dec 24  2015 wineg++ -> winegcc
+-rwxr-xr-x  1 root    root      39408 Dec 24  2015 winegcc
+-rwxr-xr-x  1 root    root      95056 Dec 24  2015 winemaker
+-rwxr-xr-x  1 root    root       1949 Dec 24  2015 winemine
+-rwxr-xr-x  1 root    root       1949 Dec 24  2015 winepath
+-rwxr-xr-x  1 root    root      12860 Dec 24  2015 wine-preloader
+-rwxr-xr-x  1 root    root     458328 Dec 24  2015 wineserver
+-rwxr-xr-x  1 root    root     642995 Jun 24  2015 winetricks
+-rwxr-xr-x  1 root    root      18720 Jan 30  2016 winicontoppm
+lrwxrwxrwx  1 root    root          7 Jan 25 21:24 wish -> wish8.6
+-rwxr-xr-x  1 root    root       6240 Mar 14  2016 wish8.6
+-rwxr-xr-x  1 root    root        229 Oct 23  2015 withsctp
+-rwxr-xr-x  1 root    root    1600064 Dec 24  2015 wmc
+-rwxr-xr-x  1 root    root      10464 Feb  7  2016 word-list-compress
+-rwxr-xr-x  1 root    root      55296 Oct 16 10:49 wpa_passphrase
+-rwxr-xr-x  1 root    root      18928 Nov 21  2016 w.procps
+-rwxr-xr-x  1 root    root    1839696 Dec 24  2015 wrc
+-rwxr-xr-x  1 root    root      47584 Jan 27  2016 wrestool
+lrwxrwxrwx  1 root    root         23 Jan 25 21:24 write -> /etc/alternatives/write
+lrwxrwxrwx  1 root    root         23 Jan 25 21:24 wsgen -> /etc/alternatives/wsgen
+lrwxrwxrwx  1 root    root         26 Jan 25 21:24 wsimport -> /etc/alternatives/wsimport
+lrwxrwxrwx  1 root    root          4 Oct 13 10:59 X -> Xorg
+lrwxrwxrwx  1 root    root          1 Jan 25 21:23 X11 -> .
+-rwxr-xr-x  1 root    root     141608 Feb 10  2016 x11perf
+-rwxr-xr-x  1 root    root       2807 Feb 10  2016 x11perfcomp
+lrwxrwxrwx  1 root    root          7 Nov 30 18:04 x86_64 -> setarch
+-rwxr-xr-x  1 root    root      27768 Nov  8 14:06 x86_64-linux-gnu-addr2line
+-rwxr-xr-x  1 root    root      60536 Nov  8 14:06 x86_64-linux-gnu-ar
+-rwxr-xr-x  1 root    root     369480 Nov  8 14:06 x86_64-linux-gnu-as
+-rwxr-xr-x  1 root    root      27248 Nov  8 14:06 x86_64-linux-gnu-c++filt
+lrwxrwxrwx  1 root    root          5 Jan 25 21:24 x86_64-linux-gnu-cpp -> cpp-5
+lrwxrwxrwx  1 root    root          7 Jan 25 21:24 x86_64-linux-gnu-cpp-4.8 -> cpp-4.8
+lrwxrwxrwx  1 root    root          5 Jan 19 05:20 x86_64-linux-gnu-cpp-5 -> cpp-5
+-rwxr-xr-x  1 root    root    2724600 Nov  8 14:06 x86_64-linux-gnu-dwp
+-rwxr-xr-x  1 root    root      31552 Nov  8 14:06 x86_64-linux-gnu-elfedit
+lrwxrwxrwx  1 root    root          5 Jan 25 21:24 x86_64-linux-gnu-g++ -> g++-5
+lrwxrwxrwx  1 root    root          5 Jan 19 05:27 x86_64-linux-gnu-g++-5 -> g++-5
+lrwxrwxrwx  1 root    root          5 Jan 25 21:24 x86_64-linux-gnu-gcc -> gcc-5
+lrwxrwxrwx  1 root    root          7 Jan 25 21:24 x86_64-linux-gnu-gcc-4.8 -> gcc-4.8
+lrwxrwxrwx  1 root    root          5 Jan 19 05:46 x86_64-linux-gnu-gcc-5 -> gcc-5
+lrwxrwxrwx  1 root    root          8 Jan 25 21:24 x86_64-linux-gnu-gcc-ar -> gcc-ar-5
+lrwxrwxrwx  1 root    root         10 Jan 25 21:24 x86_64-linux-gnu-gcc-ar-4.8 -> gcc-ar-4.8
+lrwxrwxrwx  1 root    root          8 Jan 19 05:46 x86_64-linux-gnu-gcc-ar-5 -> gcc-ar-5
+lrwxrwxrwx  1 root    root          8 Jan 25 21:24 x86_64-linux-gnu-gcc-nm -> gcc-nm-5
+lrwxrwxrwx  1 root    root         10 Jan 25 21:24 x86_64-linux-gnu-gcc-nm-4.8 -> gcc-nm-4.8
+lrwxrwxrwx  1 root    root          8 Jan 19 05:46 x86_64-linux-gnu-gcc-nm-5 -> gcc-nm-5
+lrwxrwxrwx  1 root    root         12 Jan 25 21:24 x86_64-linux-gnu-gcc-ranlib -> gcc-ranlib-5
+lrwxrwxrwx  1 root    root         14 Jan 25 21:24 x86_64-linux-gnu-gcc-ranlib-4.8 -> gcc-ranlib-4.8
+lrwxrwxrwx  1 root    root         12 Jan 19 05:46 x86_64-linux-gnu-gcc-ranlib-5 -> gcc-ranlib-5
+lrwxrwxrwx  1 root    root          6 Jan 25 21:24 x86_64-linux-gnu-gcov -> gcov-5
+lrwxrwxrwx  1 root    root          8 Jan 25 21:24 x86_64-linux-gnu-gcov-4.8 -> gcov-4.8
+lrwxrwxrwx  1 root    root          6 Jan 19 05:46 x86_64-linux-gnu-gcov-5 -> gcov-5
+lrwxrwxrwx  1 root    root         11 Jan 25 21:24 x86_64-linux-gnu-gcov-tool -> gcov-tool-5
+lrwxrwxrwx  1 root    root         11 Jan 19 05:46 x86_64-linux-gnu-gcov-tool-5 -> gcov-tool-5
+-rwxr-xr-x  1 root    root      98616 Nov  8 14:06 x86_64-linux-gnu-gprof
+lrwxrwxrwx  1 root    root          6 Nov  8 14:06 x86_64-linux-gnu-ld -> ld.bfd
+-rwxr-xr-x  1 root    root    1220040 Nov  8 14:06 x86_64-linux-gnu-ld.bfd
+-rwxr-xr-x  1 root    root    2916864 Nov  8 14:06 x86_64-linux-gnu-ld.gold
+-rwxr-xr-x  1 root    root      40744 Nov  8 14:06 x86_64-linux-gnu-nm
+-rwxr-xr-x  1 root    root     224432 Nov  8 14:06 x86_64-linux-gnu-objcopy
+-rwxr-xr-x  1 root    root     356760 Nov  8 14:06 x86_64-linux-gnu-objdump
+lrwxrwxrwx  1 root    root         34 Jan 25 21:24 x86_64-linux-gnu-pkg-config -> /usr/share/pkg-config-crosswrapper
+-rwxr-xr-x  1 root    root      60536 Nov  8 14:06 x86_64-linux-gnu-ranlib
+-rwxr-xr-x  1 root    root     485184 Nov  8 14:06 x86_64-linux-gnu-readelf
+-rwxr-xr-x  1 root    root      31704 Nov  8 14:06 x86_64-linux-gnu-size
+-rwxr-xr-x  1 root    root      27728 Nov  8 14:06 x86_64-linux-gnu-strings
+-rwxr-xr-x  1 root    root     224440 Nov  8 14:06 x86_64-linux-gnu-strip
+-rwxr-xr-x  1 root    root      47944 Apr  6  2016 x86_64-pc-linux-gnu-pkg-config
+-rwxr-xr-x  1 root    root      67800 Feb  7  2016 xargs
+-rwxr-xr-x  1 root    root      40392 Mar 26  2015 xauth
+-rwxr-xr-x  1 root    root      14656 Sep  1  2015 xbacklight
+-rwxr-xr-x  1 root    root      20920 Feb 10  2016 xbiff
+-rwxr-xr-x  1 root    root      10408 Jan 30  2016 xbmtopbm
+-rwxr-xr-x  1 root    root      32376 Feb 10  2016 xcalc
+-rwxr-xr-x  1 root    root      23056 Feb 19  2014 xclip
+-rwxr-xr-x  1 root    root      19272 Feb 10  2016 xclipboard
+-rwxr-xr-x  1 root    root        572 Feb 19  2014 xclip-copyfile
+-rwxr-xr-x  1 root    root        386 Feb 19  2014 xclip-cutfile
+-rwxr-xr-x  1 root    root        133 Feb 19  2014 xclip-pastefile
+-rwxr-xr-x  1 root    root      46808 Feb 10  2016 xclock
+-rwxr-xr-x  1 root    root      31800 Feb 27  2016 xcmsdb
+-rwxr-xr-x  1 root    root      19976 Feb 10  2016 xconsole
+-rwxr-xr-x  1 root    root      14816 Feb 10  2016 xcursorgen
+-rwxr-xr-x  1 root    root      15032 Feb 10  2016 xcutsel
+-rwxr-xr-x  1 root    root      19397 Oct  4  2016 xdg-desktop-icon
+-rwxr-xr-x  1 root    root      42035 Oct  4  2016 xdg-desktop-menu
+-rwxr-xr-x  1 root    root      26395 Oct  4  2016 xdg-email
+-rwxr-xr-x  1 root    root      28787 Oct  4  2016 xdg-icon-resource
+-rwxr-xr-x  1 root    root      40535 Oct  4  2016 xdg-mime
+-rwxr-xr-x  1 root    root      22746 Oct  4  2016 xdg-open
+-rwxr-xr-x  1 root    root      33748 Oct  4  2016 xdg-screensaver
+-rwxr-xr-x  1 root    root      36544 Oct  4  2016 xdg-settings
+-rwxr-xr-x  1 root    root        234 Apr 14  2016 xdg-user-dir
+-rwxr-xr-x  1 root    root      19200 Jul  3  2013 xdg-user-dirs-gtk-update
+-rwxr-xr-x  1 root    root      18936 Apr 14  2016 xdg-user-dirs-update
+-rwxr-xr-x  1 root    root      90712 Feb 10  2016 xditview
+-rwxr-xr-x  1 root    root      32344 May  6  2015 xdpyinfo
+-rwxr-xr-x  1 root    root      10440 May  6  2015 xdriinfo
+-rwxr-xr-x  1 root    root     645880 Feb 10  2016 xedit
+-rwxr-xr-x  1 root    root      31512 May  6  2015 xev
+-rwxr-xr-x  1 root    root      20472 Feb 10  2016 xeyes
+-rwxr-xr-x  1 root    root     257160 Jun 27  2015 xfburn
+-rwxr-xr-x  1 root    root      47296 May 13  2015 xfce4-accessibility-settings
+-rwxr-xr-x  1 root    root      68800 May 13  2015 xfce4-appearance-settings
+-rwxr-xr-x  1 root    root     125528 Mar 21  2016 xfce4-appfinder
+-rwxr-xr-x  1 root    root     309560 May 13  2015 xfce4-display-settings
+-rwxr-xr-x  1 root    root      92352 May 13  2015 xfce4-keyboard-settings
+-rwxr-xr-x  1 root    root      51344 May 13  2015 xfce4-mime-settings
+-rwxr-xr-x  1 root    root      84280 May 13  2015 xfce4-mouse-settings
+-rwxr-xr-x  1 root    root      34816 Mar  9  2015 xfce4-notifyd-config
+-rwxr-xr-x  1 root    root     309920 Aug 31  2015 xfce4-panel
+-rwxr-xr-x  1 root    root       1568 Aug 31  2015 xfce4-popup-applicationsmenu
+-rwxr-xr-x  1 root    root       1496 Aug 31  2015 xfce4-popup-directorymenu
+-rwxr-xr-x  1 gabriel gabriel    1540 Aug 20  2016 xfce4-popup-whiskermenu
+-rwxr-xr-x  1 root    root       1493 Aug 31  2015 xfce4-popup-windowmenu
+-rwxr-xr-x  1 root    root     174184 Jan  4  2016 xfce4-power-manager
+-rwxr-xr-x  1 root    root     129128 Jan  4  2016 xfce4-power-manager-settings
+-rwxr-xr-x  1 root    root     100936 Oct 23  2015 xfce4-screenshooter
+-rwxr-xr-x  1 root    root     178448 May 25  2015 xfce4-session
+-rwxr-xr-x  1 root    root      10672 May 25  2015 xfce4-session-logout
+-rwxr-xr-x  1 root    root     108808 May 25  2015 xfce4-session-settings
+-rwxr-xr-x  1 root    root      71896 May 13  2015 xfce4-settings-editor
+-rwxr-xr-x  1 root    root      51392 May 13  2015 xfce4-settings-manager
+-rwxr-xr-x  1 root    root     133416 May  9  2015 xfce4-taskmanager
+-rwxr-xr-x  1 root    root      26816 Feb 21  2015 xfce4-volumed
+-rwxr-xr-x  1 root    root      27344 May  7  2015 xfconf-query
+-rwxr-xr-x  1 root    root      29176 May  6  2015 xfd
+-rwxr-xr-x  1 root    root     370792 Dec 11  2015 xfdesktop
+-rwxr-xr-x  1 root    root     141912 Dec 11  2015 xfdesktop-settings
+-rwxr-xr-x  1 root    root       1549 May 25  2015 xflock4
+-rwxr-xr-x  1 root    root      37352 May  6  2015 xfontsel
+lrwxrwxrwx  1 root    root         15 Jan 25 21:24 xfrun4 -> xfce4-appfinder
+-rwxr-xr-x  1 root    root     104760 May 13  2015 xfsettingsd
+-rwxr-xr-x  1 root    root      10472 May  6  2015 xfsinfo
+-rwxr-xr-x  1 root    root     387336 Mar 29  2016 xfwm4
+-rwxr-xr-x  1 root    root     100584 Mar 29  2016 xfwm4-settings
+-rwxr-xr-x  1 root    root      63720 Mar 29  2016 xfwm4-tweaks-settings
+-rwxr-xr-x  1 root    root     133272 Mar 29  2016 xfwm4-workspace-settings
+-rwxr-xr-x  1 root    root      10536 Feb 27  2016 xgamma
+-rwxr-xr-x  1 root    root      64536 Feb 10  2016 xgc
+-rwxr-xr-x  1 root    root     272048 Feb 10  2016 xgettext
+-rwxr-xr-x  1 root    root      14824 Feb 27  2016 xhost
+-rwxr-xr-x  1 root    root      14560 Jan 30  2016 ximtoppm
+-rwxr-xr-x  1 root    root      19056 Apr 26  2016 xinit
+-rwxr-xr-x  1 root    root      52672 Oct 28  2015 xinput
+lrwxrwxrwx  1 root    root         21 Jan 25 21:24 xjc -> /etc/alternatives/xjc
+-rwxr-xr-x  1 root    root      10512 May  6  2015 xkbbell
+-rwxr-xr-x  1 root    root     201568 May  6  2015 xkbcomp
+-rwxr-xr-x  1 root    root      31232 May  6  2015 xkbevd
+-rwxr-xr-x  1 root    root      88632 May  6  2015 xkbprint
+-rwxr-xr-x  1 root    root      19752 May  6  2015 xkbvleds
+-rwxr-xr-x  1 root    root      19816 May  6  2015 xkbwatch
+-rwxr-xr-x  1 root    root      16982 Feb 27  2016 xkeystone
+-rwxr-xr-x  1 root    root      14680 May  6  2015 xkill
+-rwxr-xr-x  1 root    root      15544 Feb 10  2016 xload
+-rwxr-xr-x  1 root    root      19928 Feb 10  2016 xlogo
+-rwxr-xr-x  1 root    root      10520 May  6  2015 xlsatoms
+-rwxr-xr-x  1 root    root      14696 May  6  2015 xlsclients
+-rwxr-xr-x  1 root    root      18816 May  6  2015 xlsfonts
+-rwxr-xr-x  1 root    root      37816 Feb 10  2016 xmag
+-rwxr-xr-x  1 root    root      63416 Feb 10  2016 xman
+-rwxr-xr-x  1 root    root      19880 May  6  2015 xmessage
+lrwxrwxrwx  1 root    root          9 Jan 25 21:24 xmlpatterns -> qtchooser
+lrwxrwxrwx  1 root    root          9 Jan 25 21:24 xmlpatternsvalidator -> qtchooser
+-rwxr-xr-x  1 root    root      31656 Feb 27  2016 xmodmap
+-rwxr-xr-x  1 root    root      10776 Feb 10  2016 xmore
+-rwxr-xr-x  1 root    root        274 Oct 13 10:59 Xorg
+-rwxr-xr-x  1 root    root      14688 Jan 30  2016 xpmtoppm
+-rwxr-xr-x  1 root    root      37912 May  6  2015 xprop
+-rwxr-xr-x  1 root    root      14744 Apr  7  2016 xqxdecode
+-rwxr-xr-x  1 root    root      60256 Feb 27  2016 xrandr
+-rwxr-xr-x  1 root    root      27312 Feb 27  2016 xrdb
+-rwxr-xr-x  1 root    root      10536 Feb 27  2016 xrefresh
+lrwxrwxrwx  1 root    root         35 Jan 25 21:24 x-session-manager -> /etc/alternatives/x-session-manager
+-rwxr-xr-x  1 root    root      31432 Feb 27  2016 xset
+-rwxr-xr-x  1 root    root      10520 Feb 27  2016 xsetmode
+-rwxr-xr-x  1 root    root      10528 Feb 27  2016 xsetpointer
+-rwxr-xr-x  1 root    root      18896 Feb 27  2016 xsetroot
+-rwxr-xr-x  1 root    root      48904 Mar  3  2016 xsetwacom
+-rwxr-xr-x  1 root    root      85800 May  6  2015 xsm
+-rwxr-xr-x  1 root    root      15256 Feb 27  2016 xstdcmap
+-rwxr-xr-x  1 root    root       5126 Nov 10 12:39 xsubpp
+-rwxr-xr-x  1 root    root     543232 Feb 17  2016 xterm
+lrwxrwxrwx  1 root    root         37 Jan 25 21:24 x-terminal-emulator -> /etc/alternatives/x-terminal-emulator
+-rwxr-xr-x  1 root    root      32808 Feb 27  2016 xvidtune
+-rwxr-xr-x  1 root    root      14616 May  6  2015 xvinfo
+-rwxr-xr-x  1 root    root      10392 Jan 30  2016 xvminitoppm
+-rwxr-xr-x  1 root    root      27184 Feb 10  2016 xwd
+-rwxr-xr-x  1 root    root      18672 Jan 30  2016 xwdtopnm
+lrwxrwxrwx  1 root    root         34 Jan 25 21:24 x-window-manager -> /etc/alternatives/x-window-manager
+-rwxr-xr-x  1 root    root      43752 May  6  2015 xwininfo
+-rwxr-xr-x  1 root    root      27144 Feb 10  2016 xwud
+lrwxrwxrwx  1 root    root         31 Jan 25 21:24 x-www-browser -> /etc/alternatives/x-www-browser
+-rwxr-xr-x  1 root    root      18552 Nov 24  2016 xxd
+-rwxr-xr-x  1 root    root      68648 Feb 12  2014 xz
+lrwxrwxrwx  1 root    root          2 Jan 25 21:24 xzcat -> xz
+lrwxrwxrwx  1 root    root          6 Jan 25 21:24 xzcmp -> xzdiff
+-rwxr-xr-x  1 root    root       5518 Feb 12  2014 xzdiff
+lrwxrwxrwx  1 root    root          6 Jan 25 21:24 xzegrep -> xzgrep
+lrwxrwxrwx  1 root    root          6 Jan 25 21:24 xzfgrep -> xzgrep
+-rwxr-xr-x  1 root    root       5421 Feb 12  2014 xzgrep
+-rwxr-xr-x  1 root    root       1825 Feb 12  2014 xzless
+-rwxr-xr-x  1 root    root       2168 Feb 12  2014 xzmore
+-rwxr-xr-x  1 root    root      10376 Jan 30  2016 ybmtopbm
+-rwxr-xr-x  1 root    root      53296 Mar 21  2016 yelp
+-rwxr-xr-x  1 root    root      31408 Mar  2  2017 yes
+-rwxr-xr-x  1 root    root      10400 Jan 30  2016 yuvsplittoppm
+-rwxr-xr-x  1 root    root      10400 Jan 30  2016 yuvtoppm
+-rwxr-xr-x  1 root    root      14768 Jan 15 00:52 zdump
+-rwxr-xr-x  1 root    root      10384 Jan 30  2016 zeisstopnm
+-rwxr-xr-x  1 root    root     105752 Feb 16  2016 zenity
+-rwxr-xr-x  1 root    root     192520 Aug 17  2015 zip
+-rwxr-xr-x  1 root    root      86224 Aug 17  2015 zipcloak
+-rwxr-xr-x  1 root    root      48459 Nov 10 12:39 zipdetails
+-rwxr-xr-x  1 root    root       2953 Nov 20  2015 zipgrep
+-rwxr-xr-x  1 root    root     162688 Nov 20  2015 zipinfo
+-rwxr-xr-x  1 root    root      81840 Aug 17  2015 zipnote
+-rwxr-xr-x  1 root    root      81840 Aug 17  2015 zipsplit
+-rwxr-xr-x  1 root    root      27064 Apr  7  2016 zjsdecode
+-rwxr-xr-x  1 root    root      10336 Nov 17  2015 zlib-flate
